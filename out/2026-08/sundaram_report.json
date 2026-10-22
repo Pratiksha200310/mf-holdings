@@ -1,0 +1,495 @@
+{
+  "amc": "sundaram",
+  "month": "2026-08",
+  "generated_at": "2026-10-22T05:12:53+00:00",
+  "sources": [
+    "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100926103707.xlsx",
+    "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100926103825.xlsx"
+  ],
+  "scheme_count": 40,
+  "expected_scheme_count": 40,
+  "schemes": [
+    {
+      "scheme_name": "Sundaram Infrastructure Advantage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 55,
+      "source": "CAPEXG"
+    },
+    {
+      "scheme_name": "Sundaram Global Brand Theme-Equity Active FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "GLOB"
+    },
+    {
+      "scheme_name": "Sundaram Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 79,
+      "source": "MIDCAP"
+    },
+    {
+      "scheme_name": "Sundaram Large and Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 40,
+      "source": "MULTIP"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Tax Advantage Fund Series III",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 42,
+      "source": "SLTADV3"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "SLTADV4"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series III",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "SLTAX3"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series IV",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "SLTAX4"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series V",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 42,
+      "source": "SLTAX5"
+    },
+    {
+      "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series VI",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 40,
+      "source": "SLTAX6"
+    },
+    {
+      "scheme_name": "Sundaram Small Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 78,
+      "source": "SMILE"
+    },
+    {
+      "scheme_name": "Sundaram Aggressive Hybrid Fund",
+      "pct_of_nav_total": 99.9995,
+      "pct_of_nav_all_lines": 99.9995,
+      "pct_of_nav_excluding_derivatives": 99.6453,
+      "derivatives_outside_nav_total": false,
+      "holdings": 121,
+      "source": "SPAHF"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 29.4339,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 102,
+      "source": "SPARF"
+    },
+    {
+      "scheme_name": "Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 86.647,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 96,
+      "source": "SPBAF"
+    },
+    {
+      "scheme_name": "Sundaram Dividend Yield Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 61,
+      "source": "SPDYF"
+    },
+    {
+      "scheme_name": "Sundaram Equity Savings Fund",
+      "pct_of_nav_total": 99.9964,
+      "pct_of_nav_all_lines": 59.8296,
+      "pct_of_nav_excluding_derivatives": 99.9964,
+      "derivatives_outside_nav_total": true,
+      "holdings": 91,
+      "source": "SPESF"
+    },
+    {
+      "scheme_name": "Sundaram Focused Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 31,
+      "source": "SPFOCUS"
+    },
+    {
+      "scheme_name": "Sundaram Multi Cap Fund",
+      "pct_of_nav_total": 99.9985,
+      "pct_of_nav_all_lines": 99.9985,
+      "pct_of_nav_excluding_derivatives": 99.194,
+      "derivatives_outside_nav_total": false,
+      "holdings": 87,
+      "source": "SPMUCF"
+    },
+    {
+      "scheme_name": "Sundaram Nifty 100 Equal Weight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "SPSN100"
+    },
+    {
+      "scheme_name": "Sundaram ELSS Tax Saver Fund",
+      "pct_of_nav_total": 100.0002,
+      "pct_of_nav_all_lines": 100.0002,
+      "pct_of_nav_excluding_derivatives": 100.0002,
+      "derivatives_outside_nav_total": false,
+      "holdings": 58,
+      "source": "SPTAX"
+    },
+    {
+      "scheme_name": "Sundaram Consumption Fund",
+      "pct_of_nav_total": 99.9959,
+      "pct_of_nav_all_lines": 99.9959,
+      "pct_of_nav_excluding_derivatives": 98.8855,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "SRURAL"
+    },
+    {
+      "scheme_name": "Sundaram Services Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 58,
+      "source": "SSFUND"
+    },
+    {
+      "scheme_name": "Sundaram Value Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 49,
+      "source": "STAX"
+    },
+    {
+      "scheme_name": "Sundaram Large Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 42,
+      "source": "SUNBCF"
+    },
+    {
+      "scheme_name": "Sundaram Flexi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 56,
+      "source": "SUNFCF"
+    },
+    {
+      "scheme_name": "Sundaram Financial Services Opportunities Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "SUNFOP"
+    },
+    {
+      "scheme_name": "Sundaram Multi Asset Allocation Fund",
+      "pct_of_nav_total": 99.9973,
+      "pct_of_nav_all_lines": 99.0826,
+      "pct_of_nav_excluding_derivatives": 99.9973,
+      "derivatives_outside_nav_total": true,
+      "holdings": 72,
+      "source": "SUNMAF"
+    },
+    {
+      "scheme_name": "Sundaram Business Cycle Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 36,
+      "source": "SUNCYF"
+    },
+    {
+      "scheme_name": "Sundaram Multi-Factor Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 99.1949,
+      "derivatives_outside_nav_total": false,
+      "holdings": 72,
+      "source": "SUNMFF"
+    },
+    {
+      "scheme_name": "Sundaram Income Plus Arbitrage Active FoF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 12,
+      "source": "SUNIPA"
+    },
+    {
+      "scheme_name": "Sundaram Corporate Bond Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 37,
+      "source": "SFRLTP"
+    },
+    {
+      "scheme_name": "Sundaram Banking and PSU Debt Fund (Formerly Known as Sundaram Banking and PSU Fund)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "SFRSTP"
+    },
+    {
+      "scheme_name": "Sundaram Money Market Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 45,
+      "source": "SMMF"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short to Short Term Fund (Formerly Known as Sundaram Low Duration Fund)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 37,
+      "source": "SPLDF"
+    },
+    {
+      "scheme_name": "Sundaram Liquid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 88,
+      "source": "SPMON"
+    },
+    {
+      "scheme_name": "Sundaram Short Term Fund (Formerly Known as Sundaram Short Duration Fund)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 28,
+      "source": "SPSDF"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
+      "pct_of_nav_total": 99.9917,
+      "pct_of_nav_all_lines": 99.9917,
+      "pct_of_nav_excluding_derivatives": 99.9917,
+      "derivatives_outside_nav_total": false,
+      "holdings": 68,
+      "source": "SPUSDF"
+    },
+    {
+      "scheme_name": "Sundaram Medium Term Fund (Formerly Known as Sundaram Medium Duration Fund)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 17,
+      "source": "SUNBDS"
+    },
+    {
+      "scheme_name": "Sundaram Conservative Hybrid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 27,
+      "source": "SUNMIA"
+    },
+    {
+      "scheme_name": "Sundaram Overnight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "SUNONF"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [
+    {
+      "scheme_name": "Sundaram Aggressive Hybrid Fund",
+      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) OCT-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Gujarat Ambuja Cement Co.Ltd SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Dabur India Ltd - Equity SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Divis Labarotories Ltd SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Adani Ports & SEZ Ltd SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Coforge Ltd (Pre NIIT Technologies Limited) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Max Financial Services Ltd (Prev: Max India Ltd) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "Marico Ltd (Pre Marico Industries Ltd) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Arbitrage Fund",
+      "instrument_name": "UPL Lmited (Previously )United Phosphorous Ltd SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund)",
+      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Equity Savings Fund",
+      "instrument_name": "Aurobindo Pharma Ltd-Equ SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Equity Savings Fund",
+      "instrument_name": "Gujarat Ambuja Cement Co.Ltd SEP-2026",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
+      "instrument_name": "Interest Rate Swaps Pay Fix Receive Floating (17/12/2026) (FV 2500 Lacs)~",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
+      "instrument_name": "Interest Rate Swaps Pay Fix Receive Floating (26/02/2027) (FV 5000 Lacs)~",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
+      "instrument_name": "Interest Rate Swaps Pay Fix Receive Floating (06/03/2027) (FV 5000 Lacs)~",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
+      "instrument_name": "Interest Rate Swaps Pay Fix Receive Floating (09/03/2027) (FV 5000 Lacs)~",
+      "asset_type": "derivative"
+    }
+  ],
+  "isins_failing_check_digit": [
+    {
+      "scheme_name": "Sundaram Dividend Yield Fund",
+      "instrument_name": "Tirrihannah Company Ltd @",
+      "isin": "IDIA00069480"
+    },
+    {
+      "scheme_name": "Sundaram Dividend Yield Fund",
+      "instrument_name": "Minerava Holdings Ltd @",
+      "isin": "IDIA00069477"
+    },
+    {
+      "scheme_name": "Sundaram Multi Cap Fund",
+      "instrument_name": "Balmer Lawrie Freight Containers Ltd @",
+      "isin": "IDIA00069356"
+    },
+    {
+      "scheme_name": "Sundaram Multi Cap Fund",
+      "instrument_name": "Noble Brothers Impex Ltd @",
+      "isin": "IDIA00069359"
+    }
+  ],
+  "holding_count": 2103,
+  "source_file_warnings": []
+}

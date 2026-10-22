@@ -10,7 +10,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 from .base import AMC
-from .identifiers import TickerMap, clean_isin, isin_is_valid
+from .identifiers import TickerMap, clean_isin, isin_is_valid, norm_name
 from .model import COLUMNS, LayoutError, Scheme
 
 log = logging.getLogger(__name__)
@@ -28,13 +28,16 @@ def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:
     - Listed equity with no ISIN is matched to the exchange list by exact (normalised) name.
     - Derivatives get the underlying stock's ISIN and NSE symbol, or the index symbol for index futures.
     """
+    local = {norm_name(h.instrument_name): clean_isin(h.isin)
+             for s in schemes for h in s.holdings
+             if h.asset_type == "equity" and isin_is_valid(clean_isin(h.isin))}
     for s in schemes:
         for h in s.holdings:
             h.instrument_name = re.sub(r"\s+", " ", h.instrument_name).strip()
             raw = re.sub(r"\s+", "", h.isin).upper()
             h.isin = clean_isin(raw)
             if h.asset_type == "derivative" and (not h.isin or not isin_is_valid(h.isin)):
-                h.isin, h.ticker = tickers.underlying_of_derivative(h.instrument_name, raw)
+                h.isin, h.ticker = tickers.underlying_of_derivative(h.instrument_name, raw, local)
             elif not h.isin and h.asset_type == "equity":
                 h.isin = tickers.isin_for_name(h.instrument_name)
             if h.isin and not h.ticker and h.asset_type != "cash":

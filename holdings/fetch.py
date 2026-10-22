@@ -51,6 +51,7 @@ class Fetcher:
         url: str,
         *,
         json_body: dict | None = None,
+        data: str | None = None,
         headers: dict | None = None,
         cache: bool = True,
         suffix: str = "",
@@ -61,7 +62,7 @@ class Fetcher:
         `cache=False` is for document *listings*, which change as new months are published;
         downloaded files themselves never change, so they are always cached.
         """
-        body = json.dumps(json_body, sort_keys=True) if json_body is not None else None
+        body = json.dumps(json_body, sort_keys=True) if json_body is not None else data
         path = self._cache_path(method, url, body, suffix)
         if path.exists() and (cache or self.offline):
             return path.read_bytes()
@@ -70,7 +71,7 @@ class Fetcher:
 
         self._wait_for(url)
         log.info("%s %s", method, url)
-        resp = self.session.request(method, url, json=json_body, headers=headers, timeout=timeout)
+        resp = self.session.request(method, url, json=json_body, data=data, headers=headers, timeout=timeout)
         resp.raise_for_status()
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(resp.content)

@@ -1,7 +1,7 @@
 {
   "amc": "quant",
   "month": "2026-07",
-  "generated_at": "2026-10-22T05:04:59+00:00",
+  "generated_at": "2026-10-22T05:11:35+00:00",
   "sources": [
     "https://www.quantmutual.com/Admin/disclouser/Monthly_Portfolio_July26.xlsx"
   ],
@@ -275,7 +275,7 @@
   "isins_failing_check_digit": [],
   "holding_count": 1076,
   "source_file_warnings": [
-    "qMAB / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -57727.64 lakhs (-77.203183% of NAV); the missing lines are not in the AMC's file",
-    "qMES / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -1718.89 lakhs (-31.388406% of NAV); the missing lines are not in the AMC's file"
+    "qMAB / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -57727.64 lakhs (-77.203183 of NAV); the missing lines are not in the AMC's file",
+    "qMES / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -1718.89 lakhs (-31.388406 of NAV); the missing lines are not in the AMC's file"
   ]
 }

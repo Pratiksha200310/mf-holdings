@@ -57,6 +57,24 @@ def clean_isin(raw) -> str:
     return s if ISIN_RE.match(s) else ""
 
 
+EXPIRY_RE = re.compile(
+    r"(\s*[-(]?\s*(\d{1,2}[/\-. ])?(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|SEPT|OCT|NOV|DEC)[A-Z]*[/\-. ]\d{2,4}\)?"
+    r"|\s*[-(]?\s*\d{1,2}[/\-.]\d{1,2}[/\-.]\d{2,4}\)?"
+    r"|\s+(FUT|FUTURE|FUTURES|STOCK FUTURE|INDEX FUTURE|OPT|CE|PE))\s*$", re.I)
+
+
+def strip_expiry(name: str) -> str:
+    """'Cipla Ltd OCT-2026' / 'Infosys Limited 25/08/2026' -> the underlying's name."""
+    prev = None
+    while prev != name:
+        prev, name = name, EXPIRY_RE.sub("", name).strip()
+    return name
+
+
+def norm_name(name: str) -> str:
+    return _norm_name(name)
+
+
 def _norm_name(name: str) -> str:
     s = name.upper().replace("&", " AND ")
     s = re.sub(r"[^A-Z0-9 ]", " ", s)
@@ -119,11 +137,14 @@ class TickerMap:
         """NSE symbol if listed on NSE, else the BSE scrip code, else ''."""
         return self.nse_by_isin.get(isin) or self.bse_by_isin.get(isin, "")
 
-    def underlying_of_derivative(self, name: str, code: str) -> tuple[str, str]:
+    def underlying_of_derivative(self, name: str, code: str, local: dict[str, str] | None = None) -> tuple[str, str]:
         """(isin, ticker) of a stock/index future's underlying, from the file's contract code or name.
 
         Quant prints either the underlying's ISIN, or a contract code like 'BIOCON250826'
         (NSE symbol + expiry DDMMYY), or only a name like "Divi's Laboratories Limited 25/08/2026".
+        Sundaram prints names like "Cipla Ltd OCT-2026". `local` maps normalised names of equity
+        lines in the same file to their ISINs: an arbitrage short is nearly always against a stock
+        the scheme holds, and the AMC spells both the same way.
         Index futures have no ISIN; their ticker is the NSE index symbol (NIFTY, BANKNIFTY, ...).
         """
         m = re.match(r"^([A-Z0-9&\-]+?)(\d{6})$", code or "")
@@ -133,11 +154,11 @@ class TickerMap:
                 return self.isin_by_symbol[sym], sym
             if sym in INDEX_SYMBOLS.values():
                 return "", sym
-        base = re.sub(r"\s+\d{1,2}[/\-][A-Za-z0-9]{2,3}[/\-]\d{2,4}$", "", name).strip()
+        base = strip_expiry(name)
         idx = INDEX_SYMBOLS.get(_norm_name(base))
         if idx:
             return "", idx
-        isin = self.isin_for_name(base)
+        isin = (local or {}).get(_norm_name(base)) or self.isin_for_name(base)
         return isin, self.ticker_for(isin) if isin else ""
 
     def isin_for_name(self, name: str) -> str:
