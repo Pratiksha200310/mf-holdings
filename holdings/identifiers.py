@@ -64,11 +64,17 @@ EXPIRY_RE = re.compile(
 
 
 def strip_expiry(name: str) -> str:
-    """'Cipla Ltd OCT-2026' / 'Infosys Limited 25/08/2026' -> the underlying's name."""
+    """'Cipla Ltd OCT-2026' / 'Infosys Limited 25/08/2026' -> the underlying's name.
+
+    Also drops former-name notes ('REC Ltd (Prev : Rural Electrification ...)') and
+    '- Equity' style suffixes some AMCs add to derivative lines.
+    """
     prev = None
     while prev != name:
         prev, name = name, EXPIRY_RE.sub("", name).strip()
-    return name
+    name = re.sub(r"\s*\(\s*(pre|prev|previously|formerly|earlier)\b.*$", "", name, flags=re.I)
+    name = re.sub(r"\s*-\s*(equity|equ)\s*$", "", name, flags=re.I)
+    return name.strip()
 
 
 def norm_name(name: str) -> str:
@@ -76,7 +82,7 @@ def norm_name(name: str) -> str:
 
 
 def _norm_name(name: str) -> str:
-    s = name.upper().replace("&", " AND ")
+    s = name.upper().replace("&", " AND ").replace("'", "")
     s = re.sub(r"[^A-Z0-9 ]", " ", s)
     s = re.sub(r"\b(LIMITED|LTD|THE|CO|COMPANY|CORPORATION|CORP|INDIA)\b", " ", s)
     return re.sub(r"\s+", " ", s).strip()

@@ -1,7 +1,7 @@
 {
   "amc": "sundaram",
   "month": "2026-08",
-  "generated_at": "2026-10-22T05:12:53+00:00",
+  "generated_at": "2026-10-22T05:14:05+00:00",
   "sources": [
     "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100926103707.xlsx",
     "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100926103825.xlsx"
@@ -372,81 +372,6 @@
   ],
   "schemes_outside_97_103": [],
   "security_lines_without_identifier": [
-    {
-      "scheme_name": "Sundaram Aggressive Hybrid Fund",
-      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) OCT-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Gujarat Ambuja Cement Co.Ltd SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Dabur India Ltd - Equity SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Divis Labarotories Ltd SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Adani Ports & SEZ Ltd SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Coforge Ltd (Pre NIIT Technologies Limited) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Max Financial Services Ltd (Prev: Max India Ltd) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "Marico Ltd (Pre Marico Industries Ltd) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Arbitrage Fund",
-      "instrument_name": "UPL Lmited (Previously )United Phosphorous Ltd SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund)",
-      "instrument_name": "Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Equity Savings Fund",
-      "instrument_name": "Aurobindo Pharma Ltd-Equ SEP-2026",
-      "asset_type": "derivative"
-    },
-    {
-      "scheme_name": "Sundaram Equity Savings Fund",
-      "instrument_name": "Gujarat Ambuja Cement Co.Ltd SEP-2026",
-      "asset_type": "derivative"
-    },
     {
       "scheme_name": "Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",
       "instrument_name": "Interest Rate Swaps Pay Fix Receive Floating (17/12/2026) (FV 2500 Lacs)~",

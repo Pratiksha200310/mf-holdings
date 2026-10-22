@@ -10,7 +10,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 from .base import AMC
-from .identifiers import TickerMap, clean_isin, isin_is_valid, norm_name
+from .identifiers import TickerMap, clean_isin, isin_is_valid, norm_name, strip_expiry
 from .model import COLUMNS, LayoutError, Scheme
 
 log = logging.getLogger(__name__)
@@ -40,8 +40,34 @@ def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:
                 h.isin, h.ticker = tickers.underlying_of_derivative(h.instrument_name, raw, local)
             elif not h.isin and h.asset_type == "equity":
                 h.isin = tickers.isin_for_name(h.instrument_name)
+            if h.asset_type == "derivative" and not h.isin and not h.ticker:
+                h.isin = _match_hedged_equity(h, s)
             if h.isin and not h.ticker and h.asset_type != "cash":
                 h.ticker = tickers.ticker_for(h.isin)
+
+
+GENERIC = {"LTD", "LIMITED", "INDIA", "THE", "AND", "CO", "CORP", "CORPN", "COMPANY", "OF", "PREV",
+           "EQUITY", "INDUSTRIES", "FINANCE", "FINANCIAL", "SERVICES", "BANK"}
+
+
+def _tokens(name: str) -> set[str]:
+    return {t for t in norm_name(strip_expiry(name)).split() if len(t) >= 3 and t not in GENERIC}
+
+
+def _match_hedged_equity(d, scheme: Scheme) -> str:
+    """Last resort for a stock future whose name matches nothing: the long equity line it hedges.
+
+    In arbitrage/hedged books the short future has exactly the same number of shares as the long
+    position, and the names share a distinctive word even when the AMC spells them differently
+    ('Gujarat Ambuja Cement Co.Ltd' vs 'Ambuja Cements Ltd'). Require both, and a unique match.
+    """
+    if d.quantity is None:
+        return ""
+    want = _tokens(d.instrument_name)
+    hits = {h.isin for h in scheme.holdings
+            if h.asset_type == "equity" and h.isin and h.quantity is not None
+            and abs(h.quantity) == abs(d.quantity) and want & _tokens(h.instrument_name)}
+    return hits.pop() if len(hits) == 1 else ""
 
 
 def build_report(amc: AMC, month: date, schemes: list[Scheme], docs, expected: int | None) -> dict:

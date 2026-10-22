@@ -558,7 +558,7 @@ sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,Cochin Shipyard Ltd,INE704P0
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,JK Cement Ltd,INE823G01014,JKCEMENT,Cement & Cement Products,equity,32018,1643.48394,0.177244
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,Chennai Super Kings Ltd @,INE852S01026,,Leisure Services,equity,30579,4.962972,
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,7.5% Cholamandalam Investment and Company Ltd - 30/09/2026,INE121A08PJ0,,Unrated,equity,1750,2094.647637,0.2259
-sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,,,Stock Future,derivative,1016075,3283.9544,0.354163
+sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,INE758T01015,ETERNAL,Stock Future,derivative,1016075,3283.9544,0.354163
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,National Bank for Agriculture & Rural Development - 7.53% - 24/03/2028,INE261F08EM1,,ICRA AAA,debt,8500,8482.1415,0.914768
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,National Bank for Agriculture & Rural Development - 7.48% - 15/09/2028,INE261F08EO7,,CRISIL AAA,debt,4500,4487.2245,0.483931
 sundaram,Sundaram Aggressive Hybrid Fund,2026-08-31,National Bank for Agriculture & Rural Development - 7.44% - 17/07/2029**,INE261F08EU4,,CRISIL AAA,debt,4500,4468.914,0.481956
@@ -666,44 +666,44 @@ sundaram,Sundaram Arbitrage Fund,2026-08-31,Indian Energy Exchange Ltd,INE022Q01
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Indian Energy Exchange Ltd SEP-2026,INE022Q01020,IEX,Stock Future,derivative,-8700,-10.50177,-0.01896
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Bharat Electronics Ltd SEP-2026,INE263A01024,BEL,Stock Future,derivative,-2850,-11.8275,-0.021353
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Larsen & Toubro Ltd OCT-2026,INE018A01030,LT,Stock Future,derivative,-525,-21.3843,-0.038607
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) OCT-2026,,,Stock Future,derivative,-9400,-22.6164,-0.040831
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) OCT-2026,INE758E01017,JIOFIN,Stock Future,derivative,-9400,-22.6164,-0.040831
 sundaram,Sundaram Arbitrage Fund,2026-08-31,State Bank Of India Ltd SEP-2026,INE062A01020,SBIN,Stock Future,derivative,-5250,-55.29825,-0.099834
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Hindalco Industries Ltd OCT-2026,INE038A01020,HINDALCO,Stock Future,derivative,-7000,-72.2085,-0.130363
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Gujarat Ambuja Cement Co.Ltd SEP-2026,,,Stock Future,derivative,-20400,-82.7934,-0.149473
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Gujarat Ambuja Cement Co.Ltd SEP-2026,INE079A01024,AMBUJACEM,Stock Future,derivative,-20400,-82.7934,-0.149473
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Kotak Mahindra Bank Ltd OCT-2026,INE237A01036,KOTAKBANK,Stock Future,derivative,-20000,-85.81,-0.154919
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Dabur India Ltd - Equity SEP-2026,,,Stock Future,derivative,-25000,-96.4875,-0.174196
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Dabur India Ltd - Equity SEP-2026,INE016A01026,DABUR,Stock Future,derivative,-25000,-96.4875,-0.174196
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Coal India Ltd SEP-2026,INE522F01014,COALINDIA,Stock Future,derivative,-24300,-96.9084,-0.174956
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Adani Green Energy Ltd SEP-2026,INE364U01010,ADANIGREEN,Stock Future,derivative,-8400,-104.3952,-0.188472
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Maruti Suzuki India Ltd SEP-2026,INE585B01010,MARUTI,Stock Future,derivative,-1050,-142.191,-0.256708
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Havells India Ltd SEP-2026,INE176B01034,HAVELLS,Stock Future,derivative,-12000,-145.92,-0.26344
 sundaram,Sundaram Arbitrage Fund,2026-08-31,HDFC Bank Ltd OCT-2026,INE040A01034,HDFCBANK,Stock Future,derivative,-21450,-154.24695,-0.278473
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Divis Labarotories Ltd SEP-2026,,,Stock Future,derivative,-1900,-175.788,-0.317363
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Divis Labarotories Ltd SEP-2026,INE361B01024,DIVISLAB,Stock Future,derivative,-1900,-175.788,-0.317363
 sundaram,Sundaram Arbitrage Fund,2026-08-31,RBL Bank Ltd SEP-2026,INE976G01028,RBLBANK,Stock Future,derivative,-47625,-182.356125,-0.329221
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Adani Ports & SEZ Ltd SEP-2026,,,Stock Future,derivative,-11875,-196.29375,-0.354384
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Adani Ports & SEZ Ltd SEP-2026,INE742F01042,ADANIPORTS,Stock Future,derivative,-11875,-196.29375,-0.354384
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Bandhan Bank Ltd SEP-2026,INE545U01014,BANDHANBNK,Stock Future,derivative,-126000,-208.7064,-0.376793
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Fortis Health Care Ltd SEP-2026,INE061F01013,FORTIS,Stock Future,derivative,-23250,-213.0165,-0.384574
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Cipla Ltd SEP-2026,INE059A01026,CIPLA,Stock Future,derivative,-16150,-230.2667,-0.415717
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Bank of Baroda SEP-2026,INE028A01039,BANKBARODA,Stock Future,derivative,-102375,-244.215563,-0.4409
 sundaram,Sundaram Arbitrage Fund,2026-08-31,KPIT Technologies Limited SEP-2026,INE04I401011,KPITTECH,Stock Future,derivative,-43400,-255.2354,-0.460795
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Coforge Ltd (Pre NIIT Technologies Limited) SEP-2026,,,Stock Future,derivative,-13300,-264.5237,-0.477564
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) SEP-2026,,,Stock Future,derivative,-112800,-269.9304,-0.487325
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Coforge Ltd (Pre NIIT Technologies Limited) SEP-2026,INE591G01025,COFORGE,Stock Future,derivative,-13300,-264.5237,-0.477564
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Jio Financial Services Ltd (Prev Reliance Strategic Investments Ltd) SEP-2026,INE758E01017,JIOFIN,Stock Future,derivative,-112800,-269.9304,-0.487325
 sundaram,Sundaram Arbitrage Fund,2026-08-31,ITC Ltd OCT-2026,INE154A01025,ITC,Stock Future,derivative,-106950,-284.968275,-0.514474
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Power Finance Corporation Ltd SEP-2026,INE134E01011,PFC,Stock Future,derivative,-115700,-403.3302,-0.728162
 sundaram,Sundaram Arbitrage Fund,2026-08-31,ICICI Lombard General Insurance Company Ltd OCT-2026,INE765G01017,ICICIGI,Stock Future,derivative,-26325,-414.3555,-0.748066
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Indian Hotels Company Ltd SEP-2026,INE053A01029,INDHOTEL,Stock Future,derivative,-58000,-419.688,-0.757694
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Tata Steel Ltd SEP-2026,INE081A01020,TATASTEEL,Stock Future,derivative,-231000,-423.2844,-0.764186
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Reliance Industries Ltd OCT-2026,INE002A01018,RELIANCE,Stock Future,derivative,-36000,-470.664,-0.849724
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Max Financial Services Ltd (Prev: Max India Ltd) SEP-2026,,,Stock Future,derivative,-30400,-479.712,-0.866059
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,,,Stock Future,derivative,-172175,-556.4696,-1.004635
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Max Financial Services Ltd (Prev: Max India Ltd) SEP-2026,INE180A01020,MFSL,Stock Future,derivative,-30400,-479.712,-0.866059
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,INE758T01015,ETERNAL,Stock Future,derivative,-172175,-556.4696,-1.004635
 sundaram,Sundaram Arbitrage Fund,2026-08-31,ITC Ltd SEP-2026,INE154A01025,ITC,Stock Future,derivative,-234600,-622.3938,-1.123653
-sundaram,Sundaram Arbitrage Fund,2026-08-31,Marico Ltd (Pre Marico Industries Ltd) SEP-2026,,,Stock Future,derivative,-80400,-676.8474,-1.221962
+sundaram,Sundaram Arbitrage Fund,2026-08-31,Marico Ltd (Pre Marico Industries Ltd) SEP-2026,INE196A01026,MARICO,Stock Future,derivative,-80400,-676.8474,-1.221962
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Hindalco Industries Ltd SEP-2026,INE038A01020,HINDALCO,Stock Future,derivative,-74200,-761.4033,-1.374617
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Bajaj Finance Ltd OCT-2026,INE296A01032,BAJFINANCE,Stock Future,derivative,-72750,-783.081,-1.413754
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Kotak Mahindra Bank Ltd SEP-2026,INE237A01036,KOTAKBANK,Stock Future,derivative,-184000,-785.22,-1.417615
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Mahindra & Mahindra Ltd SEP-2026,INE101A01026,M&M,Stock Future,derivative,-25600,-864.0256,-1.559889
 sundaram,Sundaram Arbitrage Fund,2026-08-31,TVS Motor Company Ltd SEP-2026,INE494B01023,TVSMOTOR,Stock Future,derivative,-24150,-1049.0277,-1.893887
 sundaram,Sundaram Arbitrage Fund,2026-08-31,ICICI Bank Ltd SEP-2026,INE090A01021,ICICIBANK,Stock Future,derivative,-77700,-1131.0789,-2.04202
-sundaram,Sundaram Arbitrage Fund,2026-08-31,UPL Lmited (Previously )United Phosphorous Ltd SEP-2026,,,Stock Future,derivative,-219510,-1246.15827,-2.249781
+sundaram,Sundaram Arbitrage Fund,2026-08-31,UPL Lmited (Previously )United Phosphorous Ltd SEP-2026,INE628A01036,UPL,Stock Future,derivative,-219510,-1246.15827,-2.249781
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Larsen & Toubro Ltd SEP-2026,INE018A01030,LT,Stock Future,derivative,-34650,-1404.5031,-2.535653
 sundaram,Sundaram Arbitrage Fund,2026-08-31,Axis Bank Ltd SEP-2026,INE238A01034,AXISBANK,Stock Future,derivative,-126250,-1604.89,-2.897426
 sundaram,Sundaram Arbitrage Fund,2026-08-31,NMDC LTD SEP-2026,INE584A01023,NMDC,Stock Future,derivative,-1971000,-1703.1411,-3.074806
@@ -800,7 +800,7 @@ sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Bala
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,HDFC Bank Ltd SEP-2026,INE040A01034,HDFCBANK,Stock Future,derivative,-261300,-1868.94825,-1.10865
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,Bajaj Finserv Ltd OCT-2026,INE918I01026,BAJAJFINSV,Stock Future,derivative,-96600,-1947.5526,-1.155278
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,Kotak Mahindra Bank Ltd SEP-2026,INE237A01036,KOTAKBANK,Stock Future,derivative,-526000,-2244.705,-1.331547
-sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,,,Stock Future,derivative,-892400,-2884.2368,-1.710913
+sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,Eternal Ltd ( Previously named as Zomato Ltd ) SEP-2026,INE758T01015,ETERNAL,Stock Future,derivative,-892400,-2884.2368,-1.710913
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,Reliance Industries Ltd SEP-2026,INE002A01018,RELIANCE,Stock Future,derivative,-251500,-3272.2665,-1.941091
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,ICICI Bank Ltd SEP-2026,INE090A01021,ICICIBANK,Stock Future,derivative,-326900,-4758.6833,-2.822825
 sundaram,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),2026-08-31,REC LTD - 7.58% - 31/05/2029,INE020B08FD6,,ICRA AAA,debt,2500,2494.1325,1.479506
@@ -943,10 +943,10 @@ sundaram,Sundaram Equity Savings Fund,2026-08-31,Cochin Shipyard Ltd,INE704P0102
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Aurobindo Pharma Ltd,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,7150,122.7655,0.122461
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Maruti Suzuki India Ltd OCT-2026,INE585B01010,MARUTI,Stock Future,derivative,-100,-13.589,-0.013555
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Bharti Airtel Ltd OCT-2026,INE397D01024,BHARTIARTL,Stock Future,derivative,-2850,-53.8308,-0.053697
-sundaram,Sundaram Equity Savings Fund,2026-08-31,Aurobindo Pharma Ltd-Equ SEP-2026,,,Stock Future,derivative,-7150,-121.0066,-0.120706
+sundaram,Sundaram Equity Savings Fund,2026-08-31,Aurobindo Pharma Ltd-Equ SEP-2026,INE406A01037,AUROPHARMA,Stock Future,derivative,-7150,-121.0066,-0.120706
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Maruti Suzuki India Ltd SEP-2026,INE585B01010,MARUTI,Stock Future,derivative,-1600,-216.672,-0.216134
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Bajaj Finserv Ltd OCT-2026,INE918I01026,BAJAJFINSV,Stock Future,derivative,-12300,-247.9803,-0.247365
-sundaram,Sundaram Equity Savings Fund,2026-08-31,Gujarat Ambuja Cement Co.Ltd SEP-2026,,,Stock Future,derivative,-105600,-428.5776,-0.427513
+sundaram,Sundaram Equity Savings Fund,2026-08-31,Gujarat Ambuja Cement Co.Ltd SEP-2026,INE079A01024,AMBUJACEM,Stock Future,derivative,-105600,-428.5776,-0.427513
 sundaram,Sundaram Equity Savings Fund,2026-08-31,NTPC Ltd SEP-2026,INE733E01010,NTPC,Stock Future,derivative,-256500,-835.03575,-0.832962
 sundaram,Sundaram Equity Savings Fund,2026-08-31,Hindalco Industries Ltd SEP-2026,INE038A01020,HINDALCO,Stock Future,derivative,-109900,-1127.73885,-1.124939
 sundaram,Sundaram Equity Savings Fund,2026-08-31,JSW Steel Ltd SEP-2026,INE019A01038,JSWSTEEL,Stock Future,derivative,-89100,-1181.466,-1.178532
