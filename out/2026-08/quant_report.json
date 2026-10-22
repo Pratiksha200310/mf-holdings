@@ -1,7 +1,7 @@
 {
   "amc": "quant",
   "month": "2026-08",
-  "generated_at": "2026-10-22T05:16:41+00:00",
+  "generated_at": "2026-10-22T05:27:17+00:00",
   "sources": [
     "https://www.quantmutual.com/Admin/disclouser/Monthly_Portfolio_31082026.xlsx"
   ],
@@ -284,6 +284,7 @@
     }
   ],
   "isins_failing_check_digit": [],
+  "physical_commodity_lines": [],
   "holding_count": 1074,
   "source_file_warnings": [
     "qMES / (a) Index / Stock Futures: 1 lines add up to 158.00 lakhs but the printed Sub Total is -2370.25 lakhs (-39.874499 of NAV); the missing lines are not in the AMC's file",

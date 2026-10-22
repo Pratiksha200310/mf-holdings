@@ -2,5 +2,6 @@
 from ..base import AMC
 from .quant import Quant
 from .sundaram import Sundaram
+from .hdfc import HDFC
 
-REGISTRY: dict[str, type[AMC]] = {cls.key: cls for cls in [Quant, Sundaram]}
+REGISTRY: dict[str, type[AMC]] = {cls.key: cls for cls in [Quant, Sundaram, HDFC]}

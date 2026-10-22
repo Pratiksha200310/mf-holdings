@@ -116,17 +116,19 @@ def parse_statement(rows: list[list], layout: Layout, *, sheet: str, scheme_name
             section_rows = []
             continue
         if low == "total" or low.startswith("total "):
+            section_rows = []
             continue
 
         serial = num(cell(row, c_sr))
         mv = num(row[c_mv])
         is_holding = bool(name) and (serial is not None or looks_isin or mv is not None)
         if not is_holding:
+            # A heading. The running total for the Sub Total check is not reset here: some AMCs
+            # print one Sub Total per sub-section, others (HDFC) one per major section.
             if layout.is_major(label):
                 major, sub = label, ""
             else:
                 sub = label
-            section_rows = []
             continue
         label, isin = name, isin_cell
 

@@ -1,7 +1,7 @@
 {
   "amc": "quant",
   "month": "2026-09",
-  "generated_at": "2026-10-22T05:16:42+00:00",
+  "generated_at": "2026-10-22T05:27:26+00:00",
   "sources": [
     "https://www.quantmutual.com/Admin/disclouser/Monthly_portfolio_sept_30092026.xlsx"
   ],
@@ -290,11 +290,11 @@
   ],
   "schemes_outside_97_103": [],
   "security_lines_without_identifier": [],
-  "isins_failing_check_digit": [
+  "isins_failing_check_digit": [],
+  "physical_commodity_lines": [
     {
       "scheme_name": "quant Silver ETF",
-      "instrument_name": "SILVER",
-      "isin": "IDIA00269689"
+      "instrument_name": "SILVER"
     }
   ],
   "holding_count": 1191,

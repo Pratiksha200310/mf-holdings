@@ -18,6 +18,7 @@ log = logging.getLogger(__name__)
 NAV_LOW, NAV_HIGH = 97.0, 103.0
 # Lines exempt from the identifier rule: cash, TREPS/repo, net receivables, deposits, margin.
 CASH_TYPES = {"cash"}
+PHYSICAL_RE = re.compile(r"^\s*(physical\s+)?(gold|silver)(\s+bars?)?\.?\s*$", re.I)
 
 
 def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:
@@ -38,8 +39,11 @@ def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:
             h.isin = clean_isin(raw)
             if h.asset_type == "derivative" and (not h.isin or not isin_is_valid(h.isin)):
                 h.isin, h.ticker = tickers.underlying_of_derivative(h.instrument_name, raw, local)
-            elif not h.isin and h.asset_type == "equity":
-                h.isin = tickers.isin_for_name(h.instrument_name)
+            elif h.asset_type == "equity" and not isin_is_valid(h.isin):
+                # Missing, or a placeholder such as HDFC's 'DUMMY0000123': try the exchange list.
+                h.isin = tickers.isin_for_name(h.instrument_name) or h.isin
+            if h.isin.startswith("DUMMY"):
+                h.isin = ""  # a placeholder, not an identifier (HDFC, for not-yet-listed demerged shares)
             if h.asset_type == "derivative" and not h.isin and not h.ticker:
                 h.isin = _match_hedged_equity(h, s)
             if h.isin and not h.ticker and h.asset_type != "cash":
@@ -71,7 +75,7 @@ def _match_hedged_equity(d, scheme: Scheme) -> str:
 
 
 def build_report(amc: AMC, month: date, schemes: list[Scheme], docs, expected: int | None) -> dict:
-    per_scheme, outside, missing, bad_isin, warnings = [], [], [], [], []
+    per_scheme, outside, missing, bad_isin, warnings, physical = [], [], [], [], [], []
     for s in schemes:
         all_lines = round(sum(h.pct_of_nav or 0 for h in s.holdings), 4)
         ex_deriv = round(sum(h.pct_of_nav or 0 for h in s.holdings if h.asset_type != "derivative"), 4)
@@ -86,6 +90,9 @@ def build_report(amc: AMC, month: date, schemes: list[Scheme], docs, expected: i
             outside.append({"scheme_name": s.name, "pct_of_nav_total": total})
         for h in s.holdings:
             if h.asset_type in CASH_TYPES:
+                continue
+            if PHYSICAL_RE.match(h.instrument_name):
+                physical.append({"scheme_name": s.name, "instrument_name": h.instrument_name})
                 continue
             if not h.isin and not h.ticker:
                 missing.append({"scheme_name": s.name, "instrument_name": h.instrument_name,
@@ -104,6 +111,8 @@ def build_report(amc: AMC, month: date, schemes: list[Scheme], docs, expected: i
         "security_lines_without_identifier": missing,
         # Not required by the brief: identifiers printed in the file that fail the ISIN check digit.
         "isins_failing_check_digit": bad_isin,
+        # Physical gold/silver held by commodity ETFs: not securities, so no ISIN exists.
+        "physical_commodity_lines": physical,
         "holding_count": sum(len(s.holdings) for s in schemes),
         "source_file_warnings": warnings,
     }

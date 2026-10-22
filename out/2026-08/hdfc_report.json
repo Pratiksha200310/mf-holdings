@@ -1,0 +1,1146 @@
+{
+  "amc": "hdfc",
+  "month": "2026-08",
+  "generated_at": "2026-10-22T05:27:25+00:00",
+  "sources": [
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Value%20Fund%20-%2031%20August%202026.xlsx?VersionId=rBivI1DM2TnyYHgNh9ndsDrZ3yOw4Cet",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Transportation%20and%20Logistics%20Fund%20-%2031%20August%202026.xlsx?VersionId=vHpg.aV7hWbylZms6xpTyCFMiJs07aH0",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Technology%20Fund%20-%2031%20August%202026.xlsx?VersionId=NYo8xs7yE0Gqplnz3yWt4PXLJGpguu9W",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Small%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=87VtD108m8X5hGbK_lwA0Bgquuj_P_Vo",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Silver%20ETF%20Fund%20of%20Fund%20-%2031%20August%202026.xlsx?VersionId=6yEW6l7f9mRpqEqUshmvm05UTV4_HscG",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20SILVER%20ETF%20-%2031%20August%202026.xlsx?VersionId=L0HaKbOLXj4.s2xasPztPknZPrJrLJik",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Retirement%20Fund%20-%20Hybrid-Equity%20Plan%20-%2031%20August%202026.xlsx?VersionId=FgetFJ6Min7PG1T5xDaFS_A50XwGXf3Z",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Retirement%20Fund%20-%20Equity%20Plan%20-%2031%20August%202026.xlsx?VersionId=2CSMLvSJf1fUoxrFKzqGa7HDZsNzSKau",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Pharma%20and%20Healthcare%20Fund%20-%2031%20August%202026.xlsx?VersionId=07f3IINN5TNoeOHdjtm56WaCB0PMU5Jt",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty500%20Multicap%2050.25.25%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=MWpzXR4ngFRzVsJbDCzfULCBXOxeJN5F",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty50%20Value%2020%20ETF%20-%2031%20August%202026.xlsx?VersionId=hwmgD9o.upIj7WeD0gk7lcwcZb3uosQY",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY50%20Equal%20weight%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=bz0dJ1QwN2xdc6J.e3L90x4ySSbZFy__",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY200%20MOMENTUM%2030%20INDEX%20FUND%20-%2031%20August%202026.xlsx?VersionId=L1fglvlWHcXTrDC1fn.ssGqaN1ERnzsu",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY200%20MOMENTUM%2030%20ETF%20-%2031%20August%202026.xlsx?VersionId=kFNUYdjeRSkio4yCruLVI8Il5.vbdvVQ",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty100%20Quality%2030%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=3mVnFs3bdnmhje8.qpELj8fc0hXsNiCZ",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty100%20Quality%2030%20ETF%20-%2031%20August%202026.xlsx?VersionId=Z8wEka1_m_bpbtn9lEepo2Qq.GfuSDee",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY100%20Low%20Volatility%2030%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=uaVTej70eGr63TS6zmYGUh0uvfoyqJv1",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY100%20LOW%20VOLATILITY%2030%20ETF%20-%2031%20August%202026.xlsx?VersionId=LV3xbteDTuoTPn2qwQ4YzADp2UhfdlP0",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20Top%2020%20Equal%20Weight%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=GpcQQtht4kHWjgzkA5ig9SP8Fi8f1yGG",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20SMALLCAP%20250%20INDEX%20FUND%20-%2031%20August%202026.xlsx?VersionId=lMnieme2tLvTNTaKSs6CZREjHTYGM.e8",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20SMALLCAP%20250%20ETF%20-%2031%20August%202026.xlsx?VersionId=4oXUUUnYWafn0eMJjYRUz0yv.NAyCqoY",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20REALTY%20INDEX%20FUND%20-%2031%20August%202026.xlsx?VersionId=cyvs0gVgNSMpEw9U.4hNR0jeyrbBcISa",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20PSU%20BANK%20ETF%20-%2031%20August%202026.xlsx?VersionId=5R3cF9dy2yDsAA4BQ1R80x90Ba6VZ0HA",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20Private%20Bank%20ETF%20-%2031%20August%202026.xlsx?VersionId=QzdxQ0vtoZJSxaLlQaypTyyzL4uSa9zA",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20Next%2050%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=Kv_0pqbxqpCoSb9YPARLw9LaO6PcfyHh",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20NEXT%2050%20ETF%20-%2031%20August%202026.xlsx?VersionId=ge38Gn3Kcp6CRR25G4nbnUhIZBTBZtYj",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20MIDCAP%20150%20INDEX%20FUND%20-%2031%20August%202026.xlsx?VersionId=vJRJ8TH2cPVOPSDg3azT9dy1rJ1ZRs5U",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20MIDCAP%20150%20ETF%20-%2031%20August%202026.xlsx?VersionId=mAUqSsXsAhRYa8mFKLp37f7FzfMwA8U5",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20Metal%20ETF%20FOF%20-%2031%20August%202026.xlsx?VersionId=0Hpmk.54VplwDN6ExHE12UYW2bd49MGt",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20Metal%20ETF%20-%2031%20August%202026.xlsx?VersionId=9Nwp6RAV9B37geISlBE8rmju.zjEBiJD",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20LargeMidcap%20250%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=2i0OlhYoquMDBldfuMyiYEt8zm9R3XMN",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20IT%20ETF%20-%2031%20August%202026.xlsx?VersionId=Gtw6NjIowySVHG7n7hEAH1RQ.UuXQdx9",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20India%20Digital%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=I7zLaWFgYg1p9La9aatff1O1JSRXwOka",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20India%20Consumption%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=fGkuJXh4OhWoBhRasRcf..F_h4qiz4Ht",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20Growth%20Sectors%2015%20ETF%20-%2031%20August%202026.xlsx?VersionId=GcmwUngA2chYu6NDXVcTtm0IME1G6YWp",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20BANK%20ETF%20-%2031%20August%202026.xlsx?VersionId=yzCAhAqLvsuU64RY1Qf2B0X4hjw2pAff",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20Auto%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=edI.bKVgtzvewpbN6lBqnTGuW_8Tm7IH",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%2050%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=zcGWl_MvLU0iJhD9XsL7tFuU4ml_NRf7",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%2050%20ETF%20-%2031%20August%202026.xlsx?VersionId=9Wcm377zFV1dRoBVpMvEY18webFsrqmF",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20100%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=3NKXaPPJSIhIqayRD_gf7sQpjMtL.vTA",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20100%20ETF%20-%2031%20August%202026.xlsx?VersionId=D32zlL8ucdrssEPqB_fAA.Xe3bgBGMrD",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20100%20Equal%20Weight%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=3cFVdxuV2lkJaF3jILrvJysL6Xr1eTD1",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Multi%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=RyAyzy6JhDpDjd8JBPZ_syz2mnxRazdq",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Multi%20Asset%20Allocation%20Fund%20-%2031%20August%202026.xlsx?VersionId=XjQnwXRxc6wxIiioY2nI1NLv4bSc1utO",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20MNC%20Fund%20-%2031%20August%202026.xlsx?VersionId=V_Yi8lYjF1pmz4e01r7GFJ0W9kO5Cfno",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Mid%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=mNOrqENdNdv_6muD8lkz_PUQdRhQ8Vvc",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Manufacturing%20Fund%20-%2031%20August%202026.xlsx?VersionId=2DheMRG7gDA73O_.XeV22AeOWix6wOQi",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Large%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=uFmNCnFIwNQWydqpo4TQ0iHn1xxN3aYS",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Large%20%20Mid%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=t1Zi8UGYate0og81WqVK3PD3Z77RfGwD",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Innovation%20Fund%20-%2031%20August%202026.xlsx?VersionId=5cLbTuhUO.PsVP._WscTgjBwazp0Lm5E",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Infrastructure%20Fund%20-%2031%20August%202026.xlsx?VersionId=nBgGT9yzqvLrMuQ1f.StSRw9QVt.jMxf",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Housing%20Opportunities%20Fund%20-%2031%20August%202026.xlsx?VersionId=sJ.rBTM5EjgERAtJq_aX6DW0k0IY1cSE",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Gold%20ETF%20Fund%20of%20Fund%20-%2031%20August%202026.xlsx?VersionId=x.y3xZrF658kp8.4DiYkj46RF5VqnK_p",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Gold%20ETF%20-%2031%20August%202026.xlsx?VersionId=7Ai7PCaM16ZikrupiaBlbcOOkBRfh7lQ",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Focused%20Fund%20-%2031%20August%202026.xlsx?VersionId=obXuQoMxxo7y41UO0scwuNaeLOuZagBI",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Flexi%20Cap%20Fund%20-%2031%20August%202026.xlsx?VersionId=uiLQ6_fSvY8B0150fLIx39g50v9.1guo",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Equity%20Savings%20Fund%20-%2031%20August%202026.xlsx?VersionId=Hr7BIx64vgXb90rZR4hyFmrJz36SOX5P",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20ELSS%20-%20Tax%20Saver%20Fund%20-%2031%20August%202026.xlsx?VersionId=wXpEcCHUs0ZZ_7m1JsXWKBItQfqUY_vq",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Dividend%20Yield%20Fund%20-%2031%20August%202026.xlsx?VersionId=5A8jV83Hno3cmqzjiEQetYsqD.lvxVb5",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Developed%20World%20Overseas%20Equity%20Passive%20FOF%20-%2031%20August%202026.xlsx?VersionId=SuSDDdfaESREYX5HOKqtjp7T78aU2vaI",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Defence%20Fund%20-%2031%20August%202026.xlsx?VersionId=crE6sBvKcDqaafpDw5F8o6Ir5c0Ck4iM",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Consumption%20Fund%20-%2031%20August%202026.xlsx?VersionId=HYnp5HbJk4l_XI9gZFTth8Tiks8LI.59",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Childrens%20Fund%20-%2031%20August%202026.xlsx?VersionId=Tvq73q7DudKZ4Z8C02KnFvWk6qPMZIlS",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Business%20Cycle%20Fund%20-%2031%20August%202026.xlsx?VersionId=kqYHBpFCFbw9BOEwNdTI5hb8tlQehLGT",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20BSE%20Sensex%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=8U4KOR3zvY.vr1YCSHwPSehQvCROPuqx",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20BSE%20SENSEX%20ETF%20-%2031%20August%202026.xlsx?VersionId=PWYAzHhp7jxH8rAZXbp.sAcMIF7O1YAw",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20BSE%20India%20Sector%20Leaders%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=uzs4VCKsV8Q57lWa_7U6GXXIcmhCZYKa",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20BSE%20500%20INDEX%20FUND%20-%2031%20August%202026.xlsx?VersionId=O1NbluAR4UCrnkutNdzmCrBHooC.7W_x",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20BSE%20500%20ETF%20-%2031%20August%202026.xlsx?VersionId=70.Esa3aFluas6jlU.LN1553o.FGOlNj",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Banking%20%20Financial%20Services%20Fund%20-%2031%20August%202026.xlsx?VersionId=d7ftKglKNVvfGxq1hc3iJFOcFiYV6Y97",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Balanced%20Advantage%20Fund%20-%2031%20August%202026.xlsx?VersionId=JpadDRS5DiN.gJ6QjkLzC07a5LbvnB3P",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Arbitrage%20Fund%20-%2031%20August%202026.xlsx?VersionId=1PBLuPogqKixtpJp8Y.rgc1hG4UzW7hb",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Aggressive%20Hybrid%20Fund%20-%2031%20August%202026.xlsx?VersionId=z0O7abOIQK1AaTdlnj98_2i05StXs.uf",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Ultra%20Short%20to%20Short%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=ULBnc7s0qT8iNGG6h6Uj39mSzo8wkTxH",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Ultra%20Short%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=pGwd_ql_YCKhFCIJPtlNpYyXwBlDcOyX",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Short%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=P5_HE1UHum869VqnSYpkdsABiN6UiRTP",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Retirement%20Fund%20-%20Hybrid-Debt%20Plan%20-%2031%20August%202026.xlsx?VersionId=Zdiug6kTdnQCZRjpS9QB37kNFxzF5sWG",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Overnight%20Fund%20-%2031%20August%202026.xlsx?VersionId=jQWMqxTgZM8SnNrSr_HVhNO4P7zB2g.Y",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20SDL%20Plus%20G-Sec%20Jun%202027%2040.60%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=kA7t4pVYE2dBtFaCw3J2suac0K0PEFd.",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20SDL%20Oct%202026%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=BYClAJNf0Szosmci3SMrKwaer9W9CM7D",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20G-Sec%20Sep%202032%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=k_oiBKA5DoEvgVm5s1nGGCIGeDM7UQUb",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20G-Sec%20Jun%202036%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=_6upIhuNx_irREbThs65TGPUECr9nyEk",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20G-Sec%20Jun%202027%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=Rud8LyS_ofaE7sSshlljKB56FzxRPfSe",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20G-Sec%20July%202031%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=GKN3mHaDCecqQkqH4i3kP2ZHvFX7Mmrp",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Nifty%20G-Sec%20Dec%202026%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=0F8B_6W3gwFgr3dvoDSNcCjJkX1E.lC1",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%20G-Sec%20Apr%202029%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=CRqEcwtbviu8QMuLEHsALxFxZAIRX8g4",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20NIFTY%201D%20RATE%20LIQUID%20ETF%20-%2031%20August%202026.xlsx?VersionId=Y1TMCm2RUHk0ivMbrTNLJDbjGhLql0wK",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Multi-Asset%20Active%20FOF%20-%2031%20August%202026.xlsx?VersionId=A3TwQbK3lgNdo2XAOrFtzupMVqqaXqjW",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Money%20Market%20Fund%20-%2031%20August%202026.xlsx?VersionId=ioF.v7xPVe17meSnlzKST8WlwTfk2gwG",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Medium%20to%20Long%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=wuVim8aRcwm1waMBDWRQNI_i8VfsX3qr",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Medium%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=w7Id.rETtz1RxXGfbHHQ7WevZFWTcNj5",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Long%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=NynnAaB9WAFqMn6DyEU2Rm5bvr5riyqz",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Liquid%20Fund%20-%2031%20August%202026.xlsx?VersionId=bslCp_tEdjhoex3wIFXMxuM8b.SIgznN",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Income%20Plus%20Arbitrage%20Omni%20FOF%20-%2031%20August%202026.xlsx?VersionId=ptzZgxchj8YOuNYZ0vwpLUUmvcdLbdD3",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Income%20Plus%20Arbitrage%20Active%20FOF%20-%2031%20August%202026.xlsx?VersionId=y9a1lR80WU20.lw.ME9O7bXuXAUVspMI",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Gilt%20Fund%20-%2031%20August%202026.xlsx?VersionId=dNMMrY4r61SJqhOPAs.KW_hGnOKRDNfe",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20FMP%202638D%20February%202023%20-%2031%20August%202026.xlsx?VersionId=bxDGB1hjgVvk3z9qwnXzw99Fgyrn.HG1",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20FMP%201876D%20March%202022%20-%2031%20August%202026.xlsx?VersionId=Xl_prabkiiD0jW6H1DC5n7rhYKPb6qhN",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20FMP%201861D%20March%202022%20-%2031%20August%202026.xlsx?VersionId=l5Ywuc7BHHx5p.0nwVyZpStVSnRcHOny",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20FMP%201269D%20March%202023%20-%2031%20August%202026.xlsx?VersionId=5ecO_Yfmjo3CYm7Uwe4LsCSjiUr33zjg",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Floating%20Interest%20Rates%20Fund%20-%2031%20August%202026.xlsx?VersionId=e.6q8tta2IZlzYPO6wpGKuPXwE6uQnOV",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Dynamic%20Term%20Fund%20-%2031%20August%202026.xlsx?VersionId=iUPMYVVTPY3osHumQWP7CBTgqAQwtFE5",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Diversified%20Equity%20All%20Cap%20Active%20FOF%20-%2031%20August%202026.xlsx?VersionId=N6rkeuf3DQbfdv9q.Bvu0Djt6VvuMCQ5",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20CRISIL-IBX%20Financial%20Services%209-12%20Months%20Debt%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=B.PJiq_ma03UG.VqV.2aYt29IialfQ8A",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20CRISIL-IBX%20Financial%20Services%203-6%20Months%20Debt%20Index%20Fund%20-%2031%20August%202026.xlsx?VersionId=i_XxdV3_FSWc0OZjh0U5Aw3v9aNKM5uq",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Credit%20Risk%20Fund%20-%2031%20August%202026.xlsx?VersionId=Ya0dOZdKZRAiIpeSKiV0uaFwCJiHeFYk",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Corporate%20Bond%20Fund%20-%2031%20August%202026.xlsx?VersionId=KnMoR1zKukIAGoozaLmJawovC1bfiEM8",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Conservative%20Hybrid%20Fund%20-%2031%20August%202026.xlsx?VersionId=laZHW6dc_fzktbnlU5fRu2DjU75Iz80i",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Charity%20Fund%20for%20Cancer%20Cure%20-%2031%20August%202026.xlsx?VersionId=MVBcu_0TqAw8OUuYL1kiY_BQO4jaL6fp",
+    "https://files.hdfcfund.com/s3fs-public/2026-09/Monthly%20HDFC%20Banking%20and%20PSU%20Debt%20Fund%20-%2031%20August%202026.xlsx?VersionId=gLS1ZRe1kN9nbLCcvTdZ00iWv94JU7mN"
+  ],
+  "scheme_count": 110,
+  "expected_scheme_count": 110,
+  "schemes": [
+    {
+      "scheme_name": "HDFC Value Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 80,
+      "source": "HDFCCB"
+    },
+    {
+      "scheme_name": "HDFC Transportation and Logistics Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 39,
+      "source": "HDFCTRALFD"
+    },
+    {
+      "scheme_name": "HDFC Technology Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 28,
+      "source": "HDFCTECHFD"
+    },
+    {
+      "scheme_name": "HDFC Small Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 87,
+      "source": "HDFCSMALLF"
+    },
+    {
+      "scheme_name": "HDFC Silver ETF Fund of Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "HSILVERFOF"
+    },
+    {
+      "scheme_name": "HDFC SILVER ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "HSILVERETF"
+    },
+    {
+      "scheme_name": "HDFC Retirement Fund - Hybrid-Equity Plan",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 80,
+      "source": "HDFCRETHEP"
+    },
+    {
+      "scheme_name": "HDFC Retirement Fund - Equity Plan",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 74,
+      "source": "HDFCRETEQP"
+    },
+    {
+      "scheme_name": "HDFC Pharma and Healthcare Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "HDFCPHARHC"
+    },
+    {
+      "scheme_name": "HDFC Nifty500 Multicap 50.25.25 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 502,
+      "source": "HDFCNY500M"
+    },
+    {
+      "scheme_name": "HDFC Nifty50 Value 20 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 22,
+      "source": "HDFCV20ETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY50 Equal weight Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "HDFCNY50EW"
+    },
+    {
+      "scheme_name": "HDFC NIFTY200 MOMENTUM 30 INDEX FUND",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCM30IDF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY200 MOMENTUM 30 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCM30ETF"
+    },
+    {
+      "scheme_name": "HDFC Nifty100 Quality 30 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCQ30IDF"
+    },
+    {
+      "scheme_name": "HDFC Nifty100 Quality 30 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCQ30ETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY100 Low Volatility 30 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCL30IDF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY100 LOW VOLATILITY 30 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCL30ETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY Top 20 Equal Weight Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 22,
+      "source": "HDFCNY20EW"
+    },
+    {
+      "scheme_name": "HDFC NIFTY SMALLCAP 250 INDEX FUND",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 252,
+      "source": "HDFCSMAIDF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY SMALLCAP 250 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 252,
+      "source": "HDFCSMAETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY REALTY INDEX FUND",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 12,
+      "source": "HDFCREALIF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY PSU BANK ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "HDFCNPSBET"
+    },
+    {
+      "scheme_name": "HDFC NIFTY Private Bank ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 12,
+      "source": "HDFCNPBETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY Next 50 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "HDFCNYNX50"
+    },
+    {
+      "scheme_name": "HDFC NIFTY NEXT 50 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "HDFCNY50ET"
+    },
+    {
+      "scheme_name": "HDFC NIFTY MIDCAP 150 INDEX FUND",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 152,
+      "source": "HDFCMIDIDF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY MIDCAP 150 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 152,
+      "source": "HDFCMIDETF"
+    },
+    {
+      "scheme_name": "HDFC Nifty Metal ETF FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "HDFCMETFOF"
+    },
+    {
+      "scheme_name": "HDFC Nifty Metal ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 17,
+      "source": "HDFCMETETF"
+    },
+    {
+      "scheme_name": "HDFC Nifty LargeMidcap 250 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 252,
+      "source": "HDFCLM250F"
+    },
+    {
+      "scheme_name": "HDFC NIFTY IT ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 12,
+      "source": "HDFCNITETF"
+    },
+    {
+      "scheme_name": "HDFC Nifty India Digital Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "HDFCNYDGTF"
+    },
+    {
+      "scheme_name": "HDFC Nifty India Consumption Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCNICONF"
+    },
+    {
+      "scheme_name": "HDFC Nifty Growth Sectors 15 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 17,
+      "source": "HDFCG15ETF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY BANK ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 16,
+      "source": "HDFCBKEXTF"
+    },
+    {
+      "scheme_name": "HDFC Nifty Auto Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 17,
+      "source": "HDFCAUTOIF"
+    },
+    {
+      "scheme_name": "HDFC Nifty 50 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "HDFCNY"
+    },
+    {
+      "scheme_name": "HDFC NIFTY 50 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "HDFCNYEXTF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY 100 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "HDFCNY100F"
+    },
+    {
+      "scheme_name": "HDFC NIFTY 100 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "HDFCN100ET"
+    },
+    {
+      "scheme_name": "HDFC NIFTY 100 Equal Weight Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "HDFCN100EW"
+    },
+    {
+      "scheme_name": "HDFC Multi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.1561,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 128,
+      "source": "HDFCMULCAP"
+    },
+    {
+      "scheme_name": "HDFC Multi Asset Allocation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 92.0521,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 139,
+      "source": "MY2005"
+    },
+    {
+      "scheme_name": "HDFC MNC Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 44,
+      "source": "HDFCMNCFND"
+    },
+    {
+      "scheme_name": "HDFC Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 81,
+      "source": "MIDCAP"
+    },
+    {
+      "scheme_name": "HDFC Manufacturing Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 94,
+      "source": "HDFCMANFFN"
+    },
+    {
+      "scheme_name": "HDFC Large Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 50,
+      "source": "HDFCT2"
+    },
+    {
+      "scheme_name": "HDFC Large & Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 244,
+      "source": "HDFCLARGEF"
+    },
+    {
+      "scheme_name": "HDFC Innovation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 78,
+      "source": "HDFCINNOVF"
+    },
+    {
+      "scheme_name": "HDFC Infrastructure Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 75,
+      "source": "HDINFG"
+    },
+    {
+      "scheme_name": "HDFC Housing Opportunities Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 37,
+      "source": "HDFCHOF117"
+    },
+    {
+      "scheme_name": "HDFC Gold ETF Fund of Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "HDFCGOLD"
+    },
+    {
+      "scheme_name": "HDFC Gold ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 3,
+      "source": "HDGETF"
+    },
+    {
+      "scheme_name": "HDFC Focused Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "HDFCCS"
+    },
+    {
+      "scheme_name": "HDFC Flexi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0317,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 87,
+      "source": "HDFCEQ"
+    },
+    {
+      "scheme_name": "HDFC Equity Savings Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 71.4066,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 152,
+      "source": "HDFCMY"
+    },
+    {
+      "scheme_name": "HDFC ELSS - Tax Saver Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 65,
+      "source": "HDFCTS"
+    },
+    {
+      "scheme_name": "HDFC Dividend Yield Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 130,
+      "source": "HDFCDIVYLD"
+    },
+    {
+      "scheme_name": "HDFC Developed World Overseas Equity Passive FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "HDFCDWIFOF"
+    },
+    {
+      "scheme_name": "HDFC Defence Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 26,
+      "source": "HDFCDFNFND"
+    },
+    {
+      "scheme_name": "HDFC Consumption Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 51,
+      "source": "HDFCNCCFND"
+    },
+    {
+      "scheme_name": "HDFC Children's Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 112,
+      "source": "HDFCGF"
+    },
+    {
+      "scheme_name": "HDFC Business Cycle Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 68,
+      "source": "HDFCBUSICY"
+    },
+    {
+      "scheme_name": "HDFC BSE Sensex Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCSX"
+    },
+    {
+      "scheme_name": "HDFC BSE SENSEX ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCSXEXTF"
+    },
+    {
+      "scheme_name": "HDFC BSE India Sector Leaders Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 62,
+      "source": "HDFCBISLIF"
+    },
+    {
+      "scheme_name": "HDFC BSE 500 INDEX FUND",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 503,
+      "source": "HDFC500IDF"
+    },
+    {
+      "scheme_name": "HDFC BSE 500 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 503,
+      "source": "HDFC500ETF"
+    },
+    {
+      "scheme_name": "HDFC Banking & Financial Services Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 40,
+      "source": "HDFCBKGFSF"
+    },
+    {
+      "scheme_name": "HDFC Balanced Advantage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 326,
+      "source": "HDFCGR"
+    },
+    {
+      "scheme_name": "HDFC Arbitrage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 24.1855,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 454,
+      "source": "HDFCAR"
+    },
+    {
+      "scheme_name": "HDFC Aggressive Hybrid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 139,
+      "source": "HDFCPM"
+    },
+    {
+      "scheme_name": "HDFC Ultra Short to Short Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 146,
+      "source": "HDFCIG"
+    },
+    {
+      "scheme_name": "HDFC Ultra Short Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 126,
+      "source": "HDFCUSTF"
+    },
+    {
+      "scheme_name": "HDFC Short Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 144,
+      "source": "HDFCSO"
+    },
+    {
+      "scheme_name": "HDFC Retirement Fund - Hybrid-Debt Plan ( An open ended retirement solution oriented scheme having a lock-in of 5 years or till retirement age whichever is earlier). (Formerly known as HDFC Retirement Savings Fund - Hybrid-Debt Plan)",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 82.1862,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 52,
+      "source": "HDFCRETHDP"
+    },
+    {
+      "scheme_name": "HDFC Overnight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 9,
+      "source": "HDFCMC"
+    },
+    {
+      "scheme_name": "HDFC NIFTY SDL Plus G-Sec Jun 2027 40.60 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 12,
+      "source": "HNSJUN27IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty SDL Oct 2026 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "HNSOCT26IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty G-Sec Sep 2032 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 6,
+      "source": "HNGSEP32IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty G-Sec Jun 2036 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "HNGJUN36IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty G-Sec Jun 2027 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "HNGJUN27IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty G-Sec July 2031 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 8,
+      "source": "HNGJUL31IF"
+    },
+    {
+      "scheme_name": "HDFC Nifty G-Sec Dec 2026 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "HNGDEC26IF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY G-Sec Apr 2029 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "HNGAPR29IF"
+    },
+    {
+      "scheme_name": "HDFC NIFTY 1D RATE LIQUID ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 2,
+      "source": "HDFC1DLETF"
+    },
+    {
+      "scheme_name": "HDFC Multi-Asset Active FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 20,
+      "source": "HDFCAALFOF"
+    },
+    {
+      "scheme_name": "HDFC Money Market Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 135,
+      "source": "HDFCMS"
+    },
+    {
+      "scheme_name": "HDFC Medium to Long Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "HDFCIN"
+    },
+    {
+      "scheme_name": "HDFC Medium Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 66,
+      "source": "HIFSTP"
+    },
+    {
+      "scheme_name": "HDFC Long Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 13,
+      "source": "HDFCLONGDF"
+    },
+    {
+      "scheme_name": "HDFC Liquid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 154,
+      "source": "HDFCLI"
+    },
+    {
+      "scheme_name": "HDFC Income Plus Arbitrage Omni FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "HDFCIPAFOF"
+    },
+    {
+      "scheme_name": "HDFC Income Plus Arbitrage Active FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "HDFCDPEFOF"
+    },
+    {
+      "scheme_name": "HDFC Gilt Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 37,
+      "source": "HDFCLT"
+    },
+    {
+      "scheme_name": "HDFC FMP 2638D February 2023",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 10,
+      "source": "FEB2638D23"
+    },
+    {
+      "scheme_name": "HDFC FMP 1876D March 2022",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "MAR1876D22"
+    },
+    {
+      "scheme_name": "HDFC FMP 1861D March 2022",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 28,
+      "source": "MAR1861D22"
+    },
+    {
+      "scheme_name": "HDFC FMP 1269D March 2023",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "MAR1269D23"
+    },
+    {
+      "scheme_name": "HDFC Floating Interest Rates Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 146,
+      "source": "HDFLSP"
+    },
+    {
+      "scheme_name": "HDFC Dynamic Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 38,
+      "source": "HDFCHI"
+    },
+    {
+      "scheme_name": "HDFC Diversified Equity All Cap Active FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "HDFCDEQFOF"
+    },
+    {
+      "scheme_name": "HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "HDFCRS912F"
+    },
+    {
+      "scheme_name": "HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "HDFCRSLFSF"
+    },
+    {
+      "scheme_name": "HDFC Credit Risk Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 99,
+      "source": "HDFCCORPDO"
+    },
+    {
+      "scheme_name": "HDFC Corporate Bond Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 240,
+      "source": "HDFCMO"
+    },
+    {
+      "scheme_name": "HDFC Conservative Hybrid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 111,
+      "source": "HMIPLT"
+    },
+    {
+      "scheme_name": "HDFC Charity Fund for Cancer Cure",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "HDFCCFCNCC"
+    },
+    {
+      "scheme_name": "HDFC Banking and PSU Debt Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "HDFCBNKPSU"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [],
+  "isins_failing_check_digit": [],
+  "physical_commodity_lines": [
+    {
+      "scheme_name": "HDFC SILVER ETF",
+      "instrument_name": "SILVER"
+    },
+    {
+      "scheme_name": "HDFC Gold ETF",
+      "instrument_name": "Gold."
+    }
+  ],
+  "holding_count": 8677,
+  "source_file_warnings": [
+    "DerivativeHDFCMULCAP: section C (Hedging Positions through Options as on August 31, 2026) has 1 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Multi Asset Allo: section E (Hedging positions through Swaps as on August 31, 2026. :) has 3 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFCEQ: section C (Hedging Positions through Options as on August 31, 2026) has 2 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Equity Savings F: section E (Hedging positions through Swaps as on August 31, 2026. :) has 3 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Children's Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 1 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Balanced Advanta: section E (Hedging positions through Swaps as on August 31, 2026. :) has 4 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Aggressive Hybri: section E (Hedging positions through Swaps as on August 31, 2026. :) has 1 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Ultra Short to S: section E (Hedging positions through Swaps as on August 31, 2026. :) has 65 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Ultra Short Term: section E (Hedging positions through Swaps as on August 31, 2026. :) has 43 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Short Term Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 22 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Medium to Long T: section E (Hedging positions through Swaps as on August 31, 2026. :) has 2 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Medium Term Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 6 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Long Term Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 2 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Gilt Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 8 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Floating Interes: section E (Hedging positions through Swaps as on August 31, 2026. :) has 111 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Dynamic Term Fun: section E (Hedging positions through Swaps as on August 31, 2026. :) has 7 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Credit Risk Fund: section E (Hedging positions through Swaps as on August 31, 2026. :) has 9 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Corporate Bond F: section E (Hedging positions through Swaps as on August 31, 2026. :) has 33 line(s) that are not holdings with a market value (options/swaps); not extracted",
+    "DerivativeHDFC Conservative Hyb: section E (Hedging positions through Swaps as on August 31, 2026. :) has 2 line(s) that are not holdings with a market value (options/swaps); not extracted"
+  ]
+}

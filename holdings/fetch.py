@@ -29,7 +29,13 @@ class Fetcher:
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.offline = offline
         self.session = requests.Session()
-        self.session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
+        # Akamai-fronted sites (HDFC, NSE) refuse requests that do not look like a browser's;
+        # sending the headers a browser sends is enough. Nothing here defeats a CAPTCHA or login.
+        self.session.headers.update({
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/json,*/*;q=0.8",
+            "Accept-Language": "en-IN,en;q=0.9",
+        })
         self._last_hit: dict[str, float] = {}
 
     def _wait_for(self, url: str) -> None:
@@ -52,6 +58,7 @@ class Fetcher:
         *,
         json_body: dict | None = None,
         data: str | None = None,
+        form: dict | None = None,
         headers: dict | None = None,
         cache: bool = True,
         suffix: str = "",
@@ -62,7 +69,12 @@ class Fetcher:
         `cache=False` is for document *listings*, which change as new months are published;
         downloaded files themselves never change, so they are always cached.
         """
-        body = json.dumps(json_body, sort_keys=True) if json_body is not None else data
+        if json_body is not None:
+            body = json.dumps(json_body, sort_keys=True)
+        elif form is not None:
+            body = json.dumps(form, sort_keys=True)
+        else:
+            body = data
         path = self._cache_path(method, url, body, suffix)
         if path.exists() and (cache or self.offline):
             return path.read_bytes()
@@ -71,7 +83,10 @@ class Fetcher:
 
         self._wait_for(url)
         log.info("%s %s", method, url)
-        resp = self.session.request(method, url, json=json_body, data=data, headers=headers, timeout=timeout)
+        # `form` is sent as multipart/form-data, the way browsers send FormData objects.
+        files = {k: (None, str(v)) for k, v in form.items()} if form is not None else None
+        resp = self.session.request(method, url, json=json_body, data=data, files=files,
+                                    headers=headers, timeout=timeout)
         resp.raise_for_status()
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(resp.content)

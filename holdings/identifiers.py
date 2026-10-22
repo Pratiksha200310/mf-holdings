@@ -164,6 +164,8 @@ class TickerMap:
         idx = INDEX_SYMBOLS.get(_norm_name(base))
         if idx:
             return "", idx
+        if base.upper() in self.isin_by_symbol:  # HDFC sometimes names the future by NSE symbol
+            return self.isin_by_symbol[base.upper()], base.upper()
         isin = (local or {}).get(_norm_name(base)) or self.isin_for_name(base)
         return isin, self.ticker_for(isin) if isin else ""
 

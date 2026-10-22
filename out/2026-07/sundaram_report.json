@@ -1,7 +1,7 @@
 {
   "amc": "sundaram",
   "month": "2026-07",
-  "generated_at": "2026-10-22T05:16:39+00:00",
+  "generated_at": "2026-10-22T05:27:10+00:00",
   "sources": [
     "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100826111829.xlsx",
     "https://www.sundarammutual.com/uploaddir/MonthlyPortfolio/monthlyportfolio_100826111919.xlsx"
@@ -415,6 +415,7 @@
       "isin": "IDIA00069359"
     }
   ],
+  "physical_commodity_lines": [],
   "holding_count": 2140,
   "source_file_warnings": []
 }
