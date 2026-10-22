@@ -18,7 +18,8 @@ log = logging.getLogger(__name__)
 NAV_LOW, NAV_HIGH = 97.0, 103.0
 # Lines exempt from the identifier rule: cash, TREPS/repo, net receivables, deposits, margin.
 CASH_TYPES = {"cash"}
-PHYSICAL_RE = re.compile(r"^\s*(physical\s+)?(gold|silver)(\s+bars?)?\.?\s*$", re.I)
+# Physical gold/silver held by gold/silver ETFs: 'Gold', 'Physical Silver', 'GOLD .995 1KG BAR - Mumbai'.
+PHYSICAL_RE = re.compile(r"^\s*(physical\s+)?(gold|silver)\b(?!.*\b(etf|fund|fof)\b)", re.I)
 
 
 def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:

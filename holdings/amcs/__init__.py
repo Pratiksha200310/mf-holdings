@@ -5,5 +5,6 @@ from .sundaram import Sundaram
 from .hdfc import HDFC
 from .mahindra import MahindraManulife
 from .jioblackrock import JioBlackRock
+from .bandhan import Bandhan
 
-REGISTRY: dict[str, type[AMC]] = {cls.key: cls for cls in [Quant, Sundaram, HDFC, MahindraManulife, JioBlackRock]}
+REGISTRY: dict[str, type[AMC]] = {cls.key: cls for cls in [Quant, Sundaram, HDFC, MahindraManulife, JioBlackRock, Bandhan]}

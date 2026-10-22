@@ -135,7 +135,10 @@ def parse_statement(rows: list[list], layout: Layout, *, sheet: str, scheme_name
             continue
         label, isin = name, isin_cell
 
-        key = (isin, label, num(cell(row, c_qty)), mv, num(row[c_pct]))
+        # The whole row except the serial number, so that two distinct positions with the same
+        # figures (e.g. two swaps with their own codes in a column we do not read) are not
+        # mistaken for a duplicate.
+        key = tuple(text(c) for j, c in enumerate(row) if j != c_sr)
         if key == prev_key:
             warnings.append(f"{sheet}: dropped duplicated line {label!r} (identical to the line above)")
             continue

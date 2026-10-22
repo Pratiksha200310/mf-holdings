@@ -60,7 +60,8 @@ def clean_isin(raw) -> str:
 EXPIRY_RE = re.compile(
     r"(\s*[-(]?\s*(\d{1,2}[/\-. ])?(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|SEPT|OCT|NOV|DEC)[A-Z]*[/\-. ]\d{2,4}\)?"
     r"|\s*[-(]?\s*\d{1,2}[/\-.]\d{1,2}[/\-.]\d{2,4}\)?"
-    r"|\s+(FUT|FUTURE|FUTURES|STOCK FUTURE|INDEX FUTURE|OPT|CE|PE))\s*$", re.I)
+    r"|\s+\d+(\.\d+)?\s*(CALL|PUT|CE|PE)"
+    r"|\s+(FUT|FUTURE|FUTURES|STOCK FUTURE|INDEX FUTURE|OPT|OPTION|OPTIONS|CE|PE))\s*$", re.I)
 
 
 def strip_expiry(name: str) -> str:

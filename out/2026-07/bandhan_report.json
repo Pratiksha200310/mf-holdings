@@ -1,0 +1,1041 @@
+{
+  "amc": "bandhan",
+  "month": "2026-07",
+  "generated_at": "2026-10-22T06:04:08+00:00",
+  "sources": [
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/ca20c65f-bandhan-fixed-term-plan-series-179-3652-days-31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/093cdd70-bandhan-silver-etf-fof-31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/4df74001-bandhan-bse-india-sector-leaders-index-fund_b0ae6ac1-38b2-4dd2-a3b7-d6af7b0f8ae5_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/8cf503f4-bandhan-credit-risk-fund_414d3e1d-eb44-4bb9-8272-bf6daa9a8e96_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/8cf503f4-bandhan-long-duration-fund_333305ca-0447-4099-8e50-bf60897af312_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/3008b73d-bandhan-short-duration-fund_607a765e-0a7f-4ded-8260-7c042852b1c8_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/168fdc34-bandhan-crisil-ibx-9010-sdl-plus-gilt-april-2032-index-fund_2ce3b490-08ea-4877-b8d6-81f3178cb052_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/0b3fbfea-bandhan-crisil-ibx-9010-sdl-plus-gilt-november-2026-index-fund_15ee3b9d-7fb1-4a25-82e6-3708fdc7862d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5c89553a-bandhan-aggressive-hybrid-fund_6de01b41-528b-4f06-8b36-4508627aee0f_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/cc134833-bandhan-us-specific-equity-active-fof_9f8ae049-ed2c-4205-8488-009e67f7470e_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/3242e7b6-bandhan-value-fund_b3b237e8-6caa-4382-b5af-c29724708ae9_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/492c4b48-bandhan-flexi-cap-fund_9eacbb7e-0d58-45e9-95c0-2868c1ec3238_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/492c4b48-bandhan-floater-fund_995848b7-d00e-4640-8579-b80bdd59d36f_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/7f250530-bandhan-multi-cap-fund_5757d135-a338-430b-ad63-f89300e15bbd_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/bd0c8739-bandhan-arbitrage-fund_8545b57c-5ba0-4104-a202-5286a6b90732_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/b5fdd714-bandhan-aggressive-hybrid-passive-fof_a23b12d9-77f3-41cf-98e4-82c5f896a4cf_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/9f58a48b-bandhan-retirement-fund_d015d5b6-f1a2-4faf-9f42-aaedc0e12cab_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/10e9f443-bandhan-liquid-fund_47cdb124-6ba2-4ed7-87a9-e216931e5f56_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1520a7b1-bandhan-silver-etf_5fd6c480-8693-45ba-b738-cee2bbd41a8e_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1520a7b1-bandhan-crisil-ibx-financial-services-3-6-months-debt-index-fund_be41600f-76d9-4a45-a8f2-08ce94334602_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/6ea25b20-bandhan-crisil-ibx-1090-gilt-plus-sdl-index-dec-2029-fund_1f0351e2-4831-41f9-b1c5-497cbef11450_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/ddb8ba26-bandhan-nifty-smallcap-250-index-fund_896b1bd7-2b26-4e5c-a1f4-e1321f4d1fbc_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/9ad52567-bandhan-gold-etf-fof-31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1d4c10cf-bandhan-nifty-bank-index-fund_42e4c330-87a6-4a17-abd3-a867b5262f8c_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1d4c10cf-bandhan-medium-to-long-duration-fund_d69556db-8491-46d6-b2a4-0453b1c46b0b_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/21f23371-bandhan-gilt-fund-with-10-year-constant-duration-fund-31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/cc26dd98-bandhan-nifty-alpha-50-index-fund_b140ec12-91cd-417a-9a44-a4c4c151b5a4_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/8ee01952-bandhan-transportation-and-logistics-fund_3f13264f-c190-4294-b5c0-5c617e862fbf_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/c1557e67-bandhan-ultra-short-duration-fund_b87b63a9-ffc6-45f9-af49-6dc9d55f409d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/c1de6ea6-bandhan-dynamic-bond-fund_89c074e6-6a53-4c73-8a66-2cdc54d170e1_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5970d419-bandhan-nifty100-low-volatility-30-index-fund_a5a6056e-5049-41fa-a5f6-fe4353401b80_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5970d419-bandhan-nifty200-momentum-30-index-fund_387c6303-602a-432c-92d6-881d099ea569_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/efcc98b5-bandhan-gilt-fund_d731cf8d-eaa3-48bf-ae81-eb89a2e80003_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/f9a63f39-bandhan-overnight-fund_7d0878cf-0b60-40e0-bb58-fb3612626a43_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/f1844ee4-bandhan-corporate-bond-fund_8daf34fb-14d9-4cd7-89d5-e7fc8747eeec_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/f1844ee4-bandhan-bse-sensex-etf_19d27ff2-98a7-4def-987c-935a3caa35c3_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/cbd2fb71-bandhan-crisil-ibx-gilt-june-2027-index-fund_456af6ef-7d52-4765-87a9-80a988fce8e0_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/ee347e25-bandhan-nifty-50-etf_bfdadc3c-0424-47a8-b696-cf9d0fc409bf_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/a3533476-bandhan-conservative-hybrid-passive-fof_562df3af-40a8-46b9-b22e-1db340ed2f3d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/29405b0e-bandhan-us-treasury-bond-0-1-year-specific-debt-passive-fund-of-fund_6f668b6e-cf59-4623-919a-3dab3e7ca296_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/709b1b04-bandhan-infrastructure-fund_cceba041-c750-47b5-92a8-a41aecfbdee7_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/7a50bebd-bandhan-innovation-fund_9bf1d237-b805-4cfb-8cc6-0d718b5feebd_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/7a50bebd-bandhan-nifty-next-50-index-fund_1a35d6f5-26fb-4c86-a73f-2f1b0a053b1d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/849c0a37-bandhan-focused-fund_6ab94e1e-c4d0-4c9c-81a6-119dce34df4c_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/f069f623-bandhan-nifty-midcap-150-index-fund_b0c52592-6110-46ac-b8bf-b7d75a8be21d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5da0ccd0-bandhan-nifty-500-momentum-50-index-fund_333ad49d-2ed0-4071-859e-d626cb42035e_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5da0ccd0-bandhan-elss-tax-saver-fund_48f6575e-9747-40d9-9fc7-8cd9f8060ecc_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/0942b234-bandhan-nifty-it-index-fund_daaedf8d-54b5-4d99-a6e0-761f816b2fbf_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/6bf5239f-bandhan-low-duration-fund_96d81c2a-7709-4bd4-858e-73cecc762532_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/6bf5239f-bandhan-midcap-fund_fe0f4ca3-36e5-4076-95ae-e3f3aefbaafb_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/bc908efa-bandhan-large-and-mid-cap-fund_95531d6d-1262-4765-8291-496e6834403d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5ae05a1a-bandhan-nifty-alpha-low-volatility-30-index-fund_35d13a37-ec48-4034-90a0-18434336d17c_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/91475804-bandhan-equity-savings-fund_d83ffd5b-2ce9-4137-bbd0-b276c81b5736_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/91475804-bandhan-multi-asset-passive-fof_cfd021a3-e995-4889-80df-d1d4c4ac8e97_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/26814e60-bandhan-money-market-fund_ae315be1-c8bd-4a6c-a970-adea96567dde_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/5ae32ad5-bandhan-crisil-ibx-gilt-april-2028-index-fund_2a0355e9-9261-472b-8358-72c23839d812_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/809bb088-bandhan-gold-etf_7caaffd4-055b-40d0-b6f6-de20340e7c7e_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/427482da-bandhan-bse-healthcare-index-fund_cd3adca6-c9a9-4bb7-962c-213928744385_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/ba55e8af-bandhan-healthcare-fund-31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/0cbf3ff7-bandhan-balanced-advantage-fund_3aec55ce-c1c0-46e7-8cae-45763dd4019a_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/0cbf3ff7-bandhan-banking-and-psu-fund_a2a32cc4-be30-48cf-902c-6c43154ee37e_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/22eabea1-bandhan-multi-factor-fund_76946f92-91a6-41ec-9f10-ee16635191ac_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/372d705f-bandhan-nifty-100-index-fund_78fe9ace-5f64-4ae5-9580-819cd35d5fe4_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/8574490a-bandhan-income-plus-arbitrage-active-fund-of-funds_45f35718-232f-4697-9540-037838d07917_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1c451b21-bandhan-nifty-total-market-index-fund_a3ae49be-6ebd-4d5b-80e5-3c468b2a582d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1c451b21-bandhan-business-cycle-fund_423be3f9-900e-4e6b-9a49-765fbbb762ab_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/1fb32583-bandhan-large-cap-fund_fc371f0c-c924-4505-9fe5-34416966370a_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/8c00a7ab-bandhan-multi-asset-allocation-fund_3951b910-7e0a-4831-9242-cae05bcf1039_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/9dd2debb-bandhan-medium-duration-fund_bc6fc0de-5a68-4016-a8d2-5578678cd7b9_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/797467c3-bandhan-small-cap-fund_74dec064-fd93-4fe8-950a-e55f077e1a6d_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/03859afd-bandhan-crisil-ibx-9010-sdl-plus-gilt-september-2027-index-fund_42408e9e-e861-44a9-ae21-d147da3cf2da_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/03859afd-bandhan-conservative-hybrid-fund_4af295f9-16c1-416f-afeb-ae4e56353b76_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/611edd58-bandhan-financial-services-fund_4c5277fd-480c-488b-adae-f3b925b95551_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/a70f2ede-bandhan-crisil-ibx-gilt-april-2032-index-fund_65331f2b-acf8-4ebc-985a-b27e66d555fa_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/127b73bc-bandhan-nifty-500-value-50-index-fund_edd3d928-5fe6-41d9-8b03-714eb422d577_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/44e9b707-bandhan-nifty-50-index-fund_3a693737-a9f9-40ec-a27a-1c8540695592_31-july-2026.xlsx",
+    "https://storage.googleapis.com/nonprod-static-assets-121to59kaawfgfi7bol/2026/08/601b9b4c-bandhan-nifty-200-quality-30-index-fund_f9e31c26-7f77-40d2-8583-65cb76edcf79_31-july-2026.xlsx"
+  ],
+  "scheme_count": 77,
+  "expected_scheme_count": 77,
+  "schemes": [
+    {
+      "scheme_name": "Bandhan Fixed Term Plan Series 179 (3652 days)",
+      "pct_of_nav_total": 100.0005,
+      "pct_of_nav_all_lines": 100.0005,
+      "pct_of_nav_excluding_derivatives": 100.0005,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "IDF268"
+    },
+    {
+      "scheme_name": "Bandhan Silver ETF FOF",
+      "pct_of_nav_total": 100.0012,
+      "pct_of_nav_all_lines": 100.0012,
+      "pct_of_nav_excluding_derivatives": 100.0012,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "IDF320"
+    },
+    {
+      "scheme_name": "Bandhan BSE India Sector Leaders Index Fund",
+      "pct_of_nav_total": 100.0019,
+      "pct_of_nav_all_lines": 100.0019,
+      "pct_of_nav_excluding_derivatives": 100.0019,
+      "derivatives_outside_nav_total": false,
+      "holdings": 63,
+      "source": "IDF315"
+    },
+    {
+      "scheme_name": "Bandhan Credit Risk Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 19,
+      "source": "IDF232"
+    },
+    {
+      "scheme_name": "Bandhan Long Duration Fund",
+      "pct_of_nav_total": 100.0002,
+      "pct_of_nav_all_lines": 100.0002,
+      "pct_of_nav_excluding_derivatives": 100.0002,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "IDF299"
+    },
+    {
+      "scheme_name": "Bandhan Short Duration Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 90,
+      "source": "IDF012"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt April 2032 Index Fund",
+      "pct_of_nav_total": 100.0026,
+      "pct_of_nav_all_lines": 100.0026,
+      "pct_of_nav_excluding_derivatives": 100.0026,
+      "derivatives_outside_nav_total": false,
+      "holdings": 35,
+      "source": "IDF287"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt November 2026 Index Fund",
+      "pct_of_nav_total": 100.0001,
+      "pct_of_nav_all_lines": 100.0001,
+      "pct_of_nav_excluding_derivatives": 100.0001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 18,
+      "source": "IDF286"
+    },
+    {
+      "scheme_name": "Bandhan Aggressive Hybrid Fund",
+      "pct_of_nav_total": 100.0021,
+      "pct_of_nav_all_lines": 100.0021,
+      "pct_of_nav_excluding_derivatives": 100.0021,
+      "derivatives_outside_nav_total": false,
+      "holdings": 106,
+      "source": "IDF231"
+    },
+    {
+      "scheme_name": "Bandhan US specific Equity Active FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "IDF276"
+    },
+    {
+      "scheme_name": "Bandhan Value Fund",
+      "pct_of_nav_total": 100.0014,
+      "pct_of_nav_all_lines": 100.0014,
+      "pct_of_nav_excluding_derivatives": 100.0014,
+      "derivatives_outside_nav_total": false,
+      "holdings": 71,
+      "source": "IDF020"
+    },
+    {
+      "scheme_name": "Bandhan Flexi Cap Fund",
+      "pct_of_nav_total": 100.0007,
+      "pct_of_nav_all_lines": 99.5207,
+      "pct_of_nav_excluding_derivatives": 100.0007,
+      "derivatives_outside_nav_total": true,
+      "holdings": 79,
+      "source": "IDF019"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 43,
+      "source": "IDF272"
+    },
+    {
+      "scheme_name": "Bandhan Multi Cap Fund",
+      "pct_of_nav_total": 100.0017,
+      "pct_of_nav_all_lines": 100.0017,
+      "pct_of_nav_excluding_derivatives": 100.0017,
+      "derivatives_outside_nav_total": false,
+      "holdings": 112,
+      "source": "IDF277"
+    },
+    {
+      "scheme_name": "Bandhan Arbitrage Fund",
+      "pct_of_nav_total": 100.0176,
+      "pct_of_nav_all_lines": 29.6313,
+      "pct_of_nav_excluding_derivatives": 100.0176,
+      "derivatives_outside_nav_total": true,
+      "holdings": 392,
+      "source": "IDF013"
+    },
+    {
+      "scheme_name": "Bandhan Aggressive Hybrid Passive FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 6,
+      "source": "IDF026"
+    },
+    {
+      "scheme_name": "Bandhan Retirement Fund",
+      "pct_of_nav_total": 100.0002,
+      "pct_of_nav_all_lines": 91.0802,
+      "pct_of_nav_excluding_derivatives": 100.0002,
+      "derivatives_outside_nav_total": true,
+      "holdings": 64,
+      "source": "IDF294"
+    },
+    {
+      "scheme_name": "Bandhan Liquid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 89,
+      "source": "IDF001"
+    },
+    {
+      "scheme_name": "Bandhan Silver ETF",
+      "pct_of_nav_total": 100.0007,
+      "pct_of_nav_all_lines": 100.0007,
+      "pct_of_nav_excluding_derivatives": 100.0007,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "IDF317"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 18,
+      "source": "IDF313"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL-IBX 10:90 Gilt + SDL Index Dec 2029 Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "IDF312"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Smallcap 250 Index Fund",
+      "pct_of_nav_total": 100.0042,
+      "pct_of_nav_all_lines": 100.0042,
+      "pct_of_nav_excluding_derivatives": 100.0042,
+      "derivatives_outside_nav_total": false,
+      "holdings": 253,
+      "source": "IDF296"
+    },
+    {
+      "scheme_name": "Bandhan Gold ETF FOF",
+      "pct_of_nav_total": 100.0013,
+      "pct_of_nav_all_lines": 100.0013,
+      "pct_of_nav_excluding_derivatives": 100.0013,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "IDF319"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Bank Index Fund",
+      "pct_of_nav_total": 100.0018,
+      "pct_of_nav_all_lines": 100.0018,
+      "pct_of_nav_excluding_derivatives": 100.0018,
+      "derivatives_outside_nav_total": false,
+      "holdings": 17,
+      "source": "IDF302"
+    },
+    {
+      "scheme_name": "Bandhan Medium to Long Duration Fund",
+      "pct_of_nav_total": 100.0012,
+      "pct_of_nav_all_lines": 100.0012,
+      "pct_of_nav_excluding_derivatives": 100.0012,
+      "derivatives_outside_nav_total": false,
+      "holdings": 23,
+      "source": "IDF010"
+    },
+    {
+      "scheme_name": "Bandhan Gilt Fund with 10 year constant duration Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 9,
+      "source": "IDF009"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Alpha 50 Index Fund",
+      "pct_of_nav_total": 100.0008,
+      "pct_of_nav_all_lines": 100.0008,
+      "pct_of_nav_excluding_derivatives": 100.0008,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF295"
+    },
+    {
+      "scheme_name": "Bandhan Transportation and Logistics Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 39,
+      "source": "IDF284"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 81,
+      "source": "IDF255"
+    },
+    {
+      "scheme_name": "Bandhan Dynamic Bond Fund",
+      "pct_of_nav_total": 100.0018,
+      "pct_of_nav_all_lines": 100.0018,
+      "pct_of_nav_excluding_derivatives": 100.0018,
+      "derivatives_outside_nav_total": false,
+      "holdings": 11,
+      "source": "IDF006"
+    },
+    {
+      "scheme_name": "Bandhan Nifty100 Low Volatility 30 Index Fund",
+      "pct_of_nav_total": 100.0008,
+      "pct_of_nav_all_lines": 100.0008,
+      "pct_of_nav_excluding_derivatives": 100.0008,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "IDF283"
+    },
+    {
+      "scheme_name": "Bandhan Nifty200 Momentum 30 Index Fund",
+      "pct_of_nav_total": 100.0005,
+      "pct_of_nav_all_lines": 100.0005,
+      "pct_of_nav_excluding_derivatives": 100.0005,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "IDF282"
+    },
+    {
+      "scheme_name": "Bandhan Gilt Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "IDF007"
+    },
+    {
+      "scheme_name": "Bandhan Overnight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 8,
+      "source": "IDF265"
+    },
+    {
+      "scheme_name": "Bandhan Corporate Bond Fund",
+      "pct_of_nav_total": 100.0036,
+      "pct_of_nav_all_lines": 100.0036,
+      "pct_of_nav_excluding_derivatives": 100.0036,
+      "derivatives_outside_nav_total": false,
+      "holdings": 126,
+      "source": "IDF228"
+    },
+    {
+      "scheme_name": "Bandhan BSE Sensex ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 31,
+      "source": "IDF229"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX Gilt June 2027 Index Fund",
+      "pct_of_nav_total": 100.0002,
+      "pct_of_nav_all_lines": 100.0002,
+      "pct_of_nav_excluding_derivatives": 100.0002,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "IDF273"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 50 ETF",
+      "pct_of_nav_total": 100.0018,
+      "pct_of_nav_all_lines": 100.0018,
+      "pct_of_nav_excluding_derivatives": 100.0018,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF230"
+    },
+    {
+      "scheme_name": "Bandhan Conservative Hybrid Passive FOF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 6,
+      "source": "IDF027"
+    },
+    {
+      "scheme_name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF",
+      "pct_of_nav_total": 100.0047,
+      "pct_of_nav_all_lines": 100.0047,
+      "pct_of_nav_excluding_derivatives": 100.0047,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "IDF291"
+    },
+    {
+      "scheme_name": "Bandhan Infrastructure Fund",
+      "pct_of_nav_total": 100.0033,
+      "pct_of_nav_all_lines": 100.0033,
+      "pct_of_nav_excluding_derivatives": 100.0033,
+      "derivatives_outside_nav_total": false,
+      "holdings": 75,
+      "source": "IDF052"
+    },
+    {
+      "scheme_name": "Bandhan Innovation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 86,
+      "source": "IDF300"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Next 50 Index Fund",
+      "pct_of_nav_total": 100.0025,
+      "pct_of_nav_all_lines": 100.0025,
+      "pct_of_nav_excluding_derivatives": 100.0025,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF311"
+    },
+    {
+      "scheme_name": "Bandhan Focused Fund",
+      "pct_of_nav_total": 100.0031,
+      "pct_of_nav_all_lines": 100.0031,
+      "pct_of_nav_excluding_derivatives": 100.0031,
+      "derivatives_outside_nav_total": false,
+      "holdings": 32,
+      "source": "IDF017"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Midcap 150 Index Fund",
+      "pct_of_nav_total": 100.0007,
+      "pct_of_nav_all_lines": 100.0007,
+      "pct_of_nav_excluding_derivatives": 100.0007,
+      "derivatives_outside_nav_total": false,
+      "holdings": 153,
+      "source": "IDF304"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 500 Momentum 50 Index Fund",
+      "pct_of_nav_total": 100.0013,
+      "pct_of_nav_all_lines": 100.0013,
+      "pct_of_nav_excluding_derivatives": 100.0013,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF307"
+    },
+    {
+      "scheme_name": "Bandhan ELSS Tax Saver Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 61,
+      "source": "IDF022"
+    },
+    {
+      "scheme_name": "Bandhan Nifty IT Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 13,
+      "source": "IDF293"
+    },
+    {
+      "scheme_name": "Bandhan Low Duration Fund",
+      "pct_of_nav_total": 100.0013,
+      "pct_of_nav_all_lines": 100.0013,
+      "pct_of_nav_excluding_derivatives": 100.0013,
+      "derivatives_outside_nav_total": false,
+      "holdings": 83,
+      "source": "IDF002"
+    },
+    {
+      "scheme_name": "Bandhan Midcap Fund",
+      "pct_of_nav_total": 100.0028,
+      "pct_of_nav_all_lines": 100.0028,
+      "pct_of_nav_excluding_derivatives": 100.0028,
+      "derivatives_outside_nav_total": false,
+      "holdings": 94,
+      "source": "IDF281"
+    },
+    {
+      "scheme_name": "Bandhan Large & Mid Cap Fund",
+      "pct_of_nav_total": 100.0084,
+      "pct_of_nav_all_lines": 100.0084,
+      "pct_of_nav_excluding_derivatives": 100.0084,
+      "derivatives_outside_nav_total": false,
+      "holdings": 127,
+      "source": "IDF015"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Alpha Low Volatility 30 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 31,
+      "source": "IDF309"
+    },
+    {
+      "scheme_name": "Bandhan Equity Savings Fund",
+      "pct_of_nav_total": 100.0047,
+      "pct_of_nav_all_lines": 55.6833,
+      "pct_of_nav_excluding_derivatives": 100.0047,
+      "derivatives_outside_nav_total": true,
+      "holdings": 124,
+      "source": "IDF014"
+    },
+    {
+      "scheme_name": "Bandhan Multi-Asset Passive FOF",
+      "pct_of_nav_total": 100.0025,
+      "pct_of_nav_all_lines": 100.0025,
+      "pct_of_nav_excluding_derivatives": 100.0025,
+      "derivatives_outside_nav_total": false,
+      "holdings": 15,
+      "source": "IDF028"
+    },
+    {
+      "scheme_name": "Bandhan Money Market Fund",
+      "pct_of_nav_total": 100.0028,
+      "pct_of_nav_all_lines": 100.0028,
+      "pct_of_nav_excluding_derivatives": 100.0028,
+      "derivatives_outside_nav_total": false,
+      "holdings": 99,
+      "source": "IDF003"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX Gilt April 2028 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "IDF274"
+    },
+    {
+      "scheme_name": "Bandhan Gold ETF",
+      "pct_of_nav_total": 99.9993,
+      "pct_of_nav_all_lines": 99.9993,
+      "pct_of_nav_excluding_derivatives": 99.9993,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "IDF316"
+    },
+    {
+      "scheme_name": "Bandhan BSE Healthcare Index Fund",
+      "pct_of_nav_total": 100.0021,
+      "pct_of_nav_all_lines": 100.0021,
+      "pct_of_nav_excluding_derivatives": 100.0021,
+      "derivatives_outside_nav_total": false,
+      "holdings": 128,
+      "source": "IDF303"
+    },
+    {
+      "scheme_name": "Bandhan Healthcare Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 37,
+      "source": "IDF318"
+    },
+    {
+      "scheme_name": "Bandhan Balanced Advantage Fund",
+      "pct_of_nav_total": 100.0043,
+      "pct_of_nav_all_lines": 88.2201,
+      "pct_of_nav_excluding_derivatives": 100.0043,
+      "derivatives_outside_nav_total": true,
+      "holdings": 168,
+      "source": "IDF223"
+    },
+    {
+      "scheme_name": "Bandhan Banking and PSU Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 102,
+      "source": "IDF138"
+    },
+    {
+      "scheme_name": "Bandhan Multi-Factor Fund",
+      "pct_of_nav_total": 100.0032,
+      "pct_of_nav_all_lines": 100.0032,
+      "pct_of_nav_excluding_derivatives": 100.0032,
+      "derivatives_outside_nav_total": false,
+      "holdings": 39,
+      "source": "IDF314"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 100 Index Fund",
+      "pct_of_nav_total": 100.0005,
+      "pct_of_nav_all_lines": 100.0005,
+      "pct_of_nav_excluding_derivatives": 100.0005,
+      "derivatives_outside_nav_total": false,
+      "holdings": 103,
+      "source": "IDF278"
+    },
+    {
+      "scheme_name": "Bandhan Income Plus Arbitrage Active FOF",
+      "pct_of_nav_total": 100.0007,
+      "pct_of_nav_all_lines": 100.0007,
+      "pct_of_nav_excluding_derivatives": 100.0007,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "IDF024"
+    },
+    {
+      "scheme_name": "Bandhan Nifty Total Market Index Fund",
+      "pct_of_nav_total": 100.0465,
+      "pct_of_nav_all_lines": 100.0465,
+      "pct_of_nav_excluding_derivatives": 100.0465,
+      "derivatives_outside_nav_total": false,
+      "holdings": 755,
+      "source": "IDF301"
+    },
+    {
+      "scheme_name": "Bandhan Business Cycle Fund",
+      "pct_of_nav_total": 100.0121,
+      "pct_of_nav_all_lines": 100.0121,
+      "pct_of_nav_excluding_derivatives": 100.0121,
+      "derivatives_outside_nav_total": false,
+      "holdings": 97,
+      "source": "IDF305"
+    },
+    {
+      "scheme_name": "Bandhan Large Cap Fund",
+      "pct_of_nav_total": 100.0064,
+      "pct_of_nav_all_lines": 100.0064,
+      "pct_of_nav_excluding_derivatives": 100.0064,
+      "derivatives_outside_nav_total": false,
+      "holdings": 73,
+      "source": "IDF016"
+    },
+    {
+      "scheme_name": "Bandhan Multi Asset Allocation Fund",
+      "pct_of_nav_total": 100.0053,
+      "pct_of_nav_all_lines": 84.6095,
+      "pct_of_nav_excluding_derivatives": 100.0053,
+      "derivatives_outside_nav_total": true,
+      "holdings": 184,
+      "source": "IDF297"
+    },
+    {
+      "scheme_name": "Bandhan Medium Duration Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 35,
+      "source": "IDF011"
+    },
+    {
+      "scheme_name": "Bandhan Small Cap Fund",
+      "pct_of_nav_total": 100.0054,
+      "pct_of_nav_all_lines": 100.0054,
+      "pct_of_nav_excluding_derivatives": 100.0054,
+      "derivatives_outside_nav_total": false,
+      "holdings": 265,
+      "source": "IDF271"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX 90:10 SDL Plus Gilt September 2027 Index Fund",
+      "pct_of_nav_total": 100.0001,
+      "pct_of_nav_all_lines": 100.0001,
+      "pct_of_nav_excluding_derivatives": 100.0001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "IDF288"
+    },
+    {
+      "scheme_name": "Bandhan Conservative Hybrid Fund",
+      "pct_of_nav_total": 100.0001,
+      "pct_of_nav_all_lines": 100.0001,
+      "pct_of_nav_excluding_derivatives": 100.0001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 28,
+      "source": "IDF025"
+    },
+    {
+      "scheme_name": "Bandhan Financial Services Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 63,
+      "source": "IDF292"
+    },
+    {
+      "scheme_name": "Bandhan CRISIL IBX GILT APRIL 2032 INDEX FUND",
+      "pct_of_nav_total": 100.0001,
+      "pct_of_nav_all_lines": 100.0001,
+      "pct_of_nav_excluding_derivatives": 100.0001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 6,
+      "source": "IDF289"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 500 Value 50 Index Fund",
+      "pct_of_nav_total": 100.0013,
+      "pct_of_nav_all_lines": 100.0013,
+      "pct_of_nav_excluding_derivatives": 100.0013,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF306"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 50 Index Fund",
+      "pct_of_nav_total": 100.0005,
+      "pct_of_nav_all_lines": 100.0005,
+      "pct_of_nav_excluding_derivatives": 100.0005,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "IDF029"
+    },
+    {
+      "scheme_name": "Bandhan Nifty 200 Quality 30 Index Fund",
+      "pct_of_nav_total": 100.0031,
+      "pct_of_nav_all_lines": 100.0031,
+      "pct_of_nav_excluding_derivatives": 100.0031,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "IDF308"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [
+    {
+      "scheme_name": "Bandhan US specific Equity Active FOF",
+      "instrument_name": "JPMorgan F-US Growth-IA USD",
+      "asset_type": "other"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (07/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (03/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (03/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (31/08/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/07/2029) Pay Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (07/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (11/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (03/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (03/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (31/08/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Floater Fund",
+      "instrument_name": "Interest Rate Swaps (30/07/2029) Receive Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (05/10/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (05/10/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (11/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (23/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Receive Floating",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (30/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (23/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (11/09/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (05/10/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan Ultra Short Duration Fund",
+      "instrument_name": "Interest Rate Swaps (05/10/2026) Pay Fixed",
+      "asset_type": "derivative"
+    },
+    {
+      "scheme_name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF",
+      "instrument_name": "JPMorgan ETFs (Ireland) ICAV - BetaBuilders US Treasury Bond 0-1 yr UCITS ETF",
+      "asset_type": "other"
+    },
+    {
+      "scheme_name": "Bandhan Multi Asset Allocation Fund",
+      "instrument_name": "iShares V PLC - iShares MSCI ACWI UCITS ETF",
+      "asset_type": "other"
+    }
+  ],
+  "isins_failing_check_digit": [],
+  "physical_commodity_lines": [
+    {
+      "scheme_name": "Bandhan Silver ETF",
+      "instrument_name": "SILVER 999 1KG BAR"
+    },
+    {
+      "scheme_name": "Bandhan Gold ETF",
+      "instrument_name": "GOLD .995 1KG BAR"
+    },
+    {
+      "scheme_name": "Bandhan Gold ETF",
+      "instrument_name": "GOLD 999 100GM BAR"
+    }
+  ],
+  "holding_count": 5409,
+  "source_file_warnings": [
+    "IDF268: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF320: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF315: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF299: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF287: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF286: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF231: dropped 'Net Current Assets' = 497.56 (the sum of the 3 cash lines above it)",
+    "IDF231: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF020: dropped 'Net Current Assets' = 3716.46 (the sum of the 3 cash lines above it)",
+    "IDF020: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF019: dropped 'Net Current Assets' = 5515.5 (the sum of the 3 cash lines above it)",
+    "IDF019: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF277: dropped 'Net Current Assets' = 1329.17 (the sum of the 3 cash lines above it)",
+    "IDF277: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF013: 30 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF294: dropped 'Net Current Assets' = 199.71 (the sum of the 3 cash lines above it)",
+    "IDF294: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF001: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF317: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF296: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF319: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF302: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF010: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF295: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF284: dropped 'Net Current Assets' = 764.88 (the sum of the 3 cash lines above it)",
+    "IDF006: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF283: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF282: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF228: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF273: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF230: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF291: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF052: dropped 'Net Current Assets' = 959.26 (the sum of the 3 cash lines above it)",
+    "IDF052: 2 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF300: dropped 'Net Current Assets' = -391.67 (the sum of the 3 cash lines above it)",
+    "IDF311: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF017: dropped 'Net Current Assets' = -31.89 (the sum of the 3 cash lines above it)",
+    "IDF017: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF304: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF307: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF002: 2 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF281: dropped 'Net Current Assets' = 183.0 (the sum of the 3 cash lines above it)",
+    "IDF281: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF015: dropped 'Net Current Assets' = -1611.17 (the sum of the 3 cash lines above it)",
+    "IDF015: 3 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF014: dropped 'Net Current Assets' = 480.92 (the sum of the 3 cash lines above it)",
+    "IDF014: 4 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF028: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF003: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF274: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF316: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF303: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF223: dropped 'Net Current Assets' = 414.79 (the sum of the 3 cash lines above it)",
+    "IDF223: 3 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF314: dropped 'Net Current Assets' = -102.61 (the sum of the 3 cash lines above it)",
+    "IDF314: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF278: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF024: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF301: 13 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF305: dropped 'Net Current Assets' = -70.49 (the sum of the 3 cash lines above it)",
+    "IDF305: 4 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF016: dropped 'Net Current Assets' = 307.66 (the sum of the 3 cash lines above it)",
+    "IDF016: 2 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF297: dropped 'Net Current Assets' = -669.36 (the sum of the 3 cash lines above it)",
+    "IDF297: 4 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF271: dropped 'Net Current Assets' = 3135.94 (the sum of the 3 cash lines above it)",
+    "IDF271: 2 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF288: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF025: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF292: dropped 'Net Current Assets' = 580.69 (the sum of the 3 cash lines above it)",
+    "IDF289: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF306: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF029: 1 line(s) print '$' (< 0.01% of NAV); computed from market value",
+    "IDF308: 1 line(s) print '$' (< 0.01% of NAV); computed from market value"
+  ]
+}
