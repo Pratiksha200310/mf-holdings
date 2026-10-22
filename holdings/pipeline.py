@@ -44,10 +44,9 @@ def enrich(schemes: list[Scheme], tickers: TickerMap) -> None:
                 h.isin = tickers.isin_for_name(h.instrument_name) or h.isin
             if h.isin.startswith("DUMMY"):
                 h.isin = ""  # a placeholder, not an identifier (HDFC, for not-yet-listed demerged shares)
-            if h.asset_type == "derivative" and not h.isin and not h.ticker:
-                h.isin = _match_hedged_equity(h, s)
             if h.isin and not h.ticker and h.asset_type != "cash":
                 h.ticker = tickers.ticker_for(h.isin)
+        _match_hedged_equity(s, tickers)
 
 
 GENERIC = {"LTD", "LIMITED", "INDIA", "THE", "AND", "CO", "CORP", "CORPN", "COMPANY", "OF", "PREV",
@@ -58,20 +57,31 @@ def _tokens(name: str) -> set[str]:
     return {t for t in norm_name(strip_expiry(name)).split() if len(t) >= 3 and t not in GENERIC}
 
 
-def _match_hedged_equity(d, scheme: Scheme) -> str:
-    """Last resort for a stock future whose name matches nothing: the long equity line it hedges.
+def _match_hedged_equity(scheme: Scheme, tickers: TickerMap) -> None:
+    """Last resort for stock futures whose name matches nothing: the long equity line they hedge.
 
-    In arbitrage/hedged books the short future has exactly the same number of shares as the long
-    position, and the names share a distinctive word even when the AMC spells them differently
-    ('Gujarat Ambuja Cement Co.Ltd' vs 'Ambuja Cements Ltd'). Require both, and a unique match.
+    In arbitrage/hedged books the short futures add up to exactly the number of shares held long,
+    though the position may be split across two expiries. The names are often abbreviated past
+    recognition ('PGC LTD FUT' for Power Grid, 'CROMPT GREA CON ELEC' for Crompton Greaves), so we
+    group the unresolved futures by name without the expiry, sum their quantities, and accept an
+    equity line with the same share count that also shares a distinctive word or the same industry.
+    The match must be unique.
     """
-    if d.quantity is None:
-        return ""
-    want = _tokens(d.instrument_name)
-    hits = {h.isin for h in scheme.holdings
-            if h.asset_type == "equity" and h.isin and h.quantity is not None
-            and abs(h.quantity) == abs(d.quantity) and want & _tokens(h.instrument_name)}
-    return hits.pop() if len(hits) == 1 else ""
+    groups: dict[str, list] = {}
+    for h in scheme.holdings:
+        if h.asset_type == "derivative" and not h.isin and not h.ticker and h.quantity is not None:
+            groups.setdefault(norm_name(strip_expiry(h.instrument_name)), []).append(h)
+    for lines in groups.values():
+        qty = abs(sum(h.quantity for h in lines))
+        want, industry = _tokens(lines[0].instrument_name), lines[0].industry_or_rating.strip().lower()
+        hits = {e.isin for e in scheme.holdings
+                if e.asset_type == "equity" and e.isin and e.quantity is not None and abs(e.quantity) == qty
+                and (want & _tokens(e.instrument_name)
+                     or (industry and e.industry_or_rating.strip().lower() == industry))}
+        if len(hits) == 1:
+            isin = hits.pop()
+            for h in lines:
+                h.isin, h.ticker = isin, tickers.ticker_for(isin)
 
 
 def build_report(amc: AMC, month: date, schemes: list[Scheme], docs, expected: int | None) -> dict:

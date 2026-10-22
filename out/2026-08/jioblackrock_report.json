@@ -1,0 +1,170 @@
+{
+  "amc": "jioblackrock",
+  "month": "2026-08",
+  "generated_at": "2026-10-22T05:45:48+00:00",
+  "sources": [
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpnbl6-d8a68b.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpuhga-6c8977.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttptnuy-48c0f5.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttqee57-339f0b.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpwb9s-11afdf.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpsfof-663c83.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpk4jt-205092.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttplzcg-dd7d34.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttqfgax-6344b7.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpooc1-43078c.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpx8og-5cd68a.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttpvge1-918871.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttqq0cz-b27ac2.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mttqo5ds-9cc190.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mtv8ks7e-97b22f.xlsx",
+    "https://cdnstorage-ddh3hqhvg3gyedd9.a02.azurefd.net/brcms/jioblackro-mtv8ptmz-6aaba2.xlsx"
+  ],
+  "scheme_count": 15,
+  "expected_scheme_count": 15,
+  "schemes": [
+    {
+      "scheme_name": "JioBlackRock Arbitrage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 17.3972,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 283,
+      "source": "JioBlackRock Arbitrage Fund-Monthly-Portfolio-31-08-2026 / JBARB"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty Smallcap 250 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 252,
+      "source": "JioBlackRock Nifty Smallcap 250 Index Fund-Monthly-Portfolio-31-08-2026 / JBNS250"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty Next 50 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "JioBlackRock Nifty Next 50 Index Fund-Monthly-Portfolio-31-08-2026 / JBNNX50"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty Midcap 150 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 152,
+      "source": "JioBlackRock Nifty Midcap 150 Index Fund-Monthly-Portfolio-31-08-2026 / JBNM150"
+    },
+    {
+      "scheme_name": "JioBlackRock Overnight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 23,
+      "source": "JioBlackRock Overnight Fund-Monthly-Portfolio-31-08-2026 / JBOF"
+    },
+    {
+      "scheme_name": "JioBlackRock Liquid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 66,
+      "source": "JioBlackRock Liquid Fund-Monthly-Portfolio-31-08-2026 / JBLF"
+    },
+    {
+      "scheme_name": "JioBlackRock Sector Rotation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0944,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 300,
+      "source": "JioBlackRock Sector Rotation Fund-Monthly-Portfolio-31-08-2026 / JBSECRO"
+    },
+    {
+      "scheme_name": "JioBlackRock Large Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 77,
+      "source": "JioBlackRock Large Cap Fund-Monthly-Portfolio-31-08-2026 / JBLARGE"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty 50 Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "JioBlackRock Nifty 50 Index Fund-Monthly-Portfolio-31-08-2026 / JBN50"
+    },
+    {
+      "scheme_name": "JioBlackRock Flexi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.5487,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": true,
+      "holdings": 140,
+      "source": "JioBlackRock Flexi Cap Fund-Monthly-Portfolio-31-08-2026 / JBFLEXI"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty 8-13 yr G-Sec Index Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 5,
+      "source": "JioBlackRock Nifty 8-13 yr G-Sec Index Fund-Monthly-Portfolio-31-08-2026 / JBN8-13"
+    },
+    {
+      "scheme_name": "JioBlackRock Money Market Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 36,
+      "source": "JioBlackRock Money Market Fund-Monthly-Portfolio-31-08-2026 / JBMMF"
+    },
+    {
+      "scheme_name": "JioBlackRock Nifty 50 ETF",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 52,
+      "source": "JioBlackRock Nifty 50 ETF-Monthly-Portfolio-31-08-2026 / NIFTYJBLK"
+    },
+    {
+      "scheme_name": "JioBlackRock Ultra Short to Short Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 25,
+      "source": "JioBlackRock Ultra Short to Short Term Fund-Monthly-Portfolio-31-08-2026 / JBLOW"
+    },
+    {
+      "scheme_name": "JioBlackRock Short Term Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "JioBlackRock Short Term Fund-Monthly-Portfolio-31-08-2026 / JBSHORT"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [],
+  "isins_failing_check_digit": [],
+  "physical_commodity_lines": [],
+  "holding_count": 1529,
+  "source_file_warnings": [
+    "JBARB: heading 'Money Market Instruments' carries values ['', '', '48118.710402499986', '82.03876997662752']; ignored"
+  ]
+}
