@@ -19,9 +19,12 @@ def read_workbook(path: Path) -> dict[str, list[list]]:
         finally:
             wb.close()
     if magic.startswith(b"\xd0\xcf\x11\xe0"):
+        import os
+
         import xlrd
 
-        book = xlrd.open_workbook(path)
+        with open(os.devnull, "w") as quiet:  # xlrd prints warnings about formulas it ignores
+            book = xlrd.open_workbook(path, logfile=quiet)
         return {sh.name: [sh.row_values(i) for i in range(sh.nrows)] for sh in book.sheets()}
     raise ValueError(f"{path.name}: not an Excel file (starts with {magic!r})")
 

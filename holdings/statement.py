@@ -28,6 +28,7 @@ from .excel import col, find_header, lakhs_factor, num, text
 from .model import Holding, LayoutError, Scheme
 
 DATE_RE = re.compile(r"(\d{1,2})(?:st|nd|rd|th)?[\s\-_/.,]*([A-Za-z]{3,9})[\s\-_/.,]*(\d{4})")
+ISIN_LIKE = re.compile(r"^[A-Z]{2}[A-Z0-9]{9}[0-9]$")
 NA = {"", "N.A.", "NA", "N.A", "-", "--", "NIL"}
 
 
@@ -95,7 +96,12 @@ def parse_statement(rows: list[list], layout: Layout, *, sheet: str, scheme_name
 
     for row in rows[h + 1:]:
         row = list(row) + [None] * (width - len(row))
-        label = text(row[c_name])
+        name = text(row[c_name])
+        isin_cell = text(cell(row, c_isin))
+        looks_isin = ISIN_LIKE.match(isin_cell.replace(" ", "")) is not None
+        # Headings and total lines sit in the name column for most AMCs, but in the ISIN column
+        # (or the first column) for others, e.g. HDFC.
+        label = name or (isin_cell if not looks_isin else "") or next((text(c) for c in row if text(c)), "")
         low = label.lower()
         if low.startswith("grand total"):
             grand_total = (num(row[c_mv]), num(row[c_pct]))
@@ -112,10 +118,9 @@ def parse_statement(rows: list[list], layout: Layout, *, sheet: str, scheme_name
         if low == "total" or low.startswith("total "):
             continue
 
-        isin = text(cell(row, c_isin))
         serial = num(cell(row, c_sr))
         mv = num(row[c_mv])
-        is_holding = serial is not None or bool(isin) or mv is not None
+        is_holding = bool(name) and (serial is not None or looks_isin or mv is not None)
         if not is_holding:
             if layout.is_major(label):
                 major, sub = label, ""
@@ -123,6 +128,7 @@ def parse_statement(rows: list[list], layout: Layout, *, sheet: str, scheme_name
                 sub = label
             section_rows = []
             continue
+        label, isin = name, isin_cell
 
         key = (isin, label, num(cell(row, c_qty)), mv, num(row[c_pct]))
         if key == prev_key:
