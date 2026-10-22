@@ -1,0 +1,7 @@
+requests==2.34.2
+openpyxl==3.1.5
+xlrd==2.0.1
+beautifulsoup4==4.15.0
+cryptography==50.0.1
+# Bandhan only (headless browser for its file list). Also run: python -m playwright install chromium
+playwright==1.48.0
