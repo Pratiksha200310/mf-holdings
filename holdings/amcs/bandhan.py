@@ -153,12 +153,12 @@ class Bandhan(AMC):
         if self.fetcher.offline:
             if not cached.exists():
                 raise FileNotFoundError(f"offline mode and no cached Bandhan listing for {month:%Y-%m}")
-            return cached.read_text()
+            return cached.read_text(encoding="utf-8")
         got = browser.collect(PAGE, HOOK % (json.dumps(str(month.year)), json.dumps(f"{month:%B}"), PAGE_SIZE), RESULT)
         raw = got[-1]
         if json.loads(raw).get("data"):  # an empty month is not cached: it may be published later
             cached.parent.mkdir(parents=True, exist_ok=True)
-            cached.write_text(raw)
+            cached.write_text(raw, encoding="utf-8")
         return raw
 
     def discover(self, month: date) -> list[Document]:

@@ -18,13 +18,33 @@ with status 1 if anything failed. One AMC failing does not stop the others.
 
 ## Setup
 
-Python 3.11 or newer.
+Python 3.11, 3.12 or 3.13. Python 3.14 is not supported yet: the pinned Playwright depends on a
+`greenlet` release that has no 3.14 wheel, so `pip install` would try to compile it.
+
+macOS / Linux:
 
 ```
-python -m venv .venv && . .venv/bin/activate
+git clone https://github.com/Pratiksha200310/mf-holdings.git
+cd mf-holdings
+python3 -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 python -m playwright install chromium      # only needed for Bandhan
 ```
+
+Windows (PowerShell):
+
+```
+git clone https://github.com/Pratiksha200310/mf-holdings.git
+cd mf-holdings
+py -3.12 -m venv .venv
+.venv\Scripts\Activate.ps1                 # if blocked: Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+pip install -r requirements.txt
+python -m playwright install chromium
+```
+
+A full run of three months downloads about 650 files at one per second per site, so it takes
+15 to 20 minutes the first time and under a minute after that (everything is cached). The
+committed `out/` is overwritten by a run; use `--out somewhere-else` to keep it untouched.
 
 Bandhan is the only AMC that uses a browser, and only to get its list of files (see
 [NOTES.md](NOTES.md#bandhan)). If Chromium lives somewhere else, set `HOLDINGS_CHROMIUM` to the
