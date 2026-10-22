@@ -28,6 +28,7 @@ from .excel import col, find_header, lakhs_factor, num, text
 from .model import Holding, LayoutError, Scheme
 
 DATE_RE = re.compile(r"(\d{1,2})(?:st|nd|rd|th)?[\s\-_/.,]*([A-Za-z]{3,9})[\s\-_/.,]*(\d{4})")
+US_DATE_RE = re.compile(r"([A-Za-z]{3,9})[\s.]+(\d{1,2})(?:st|nd|rd|th)?[\s,]+(\d{4})")  # September 30, 2026
 ISIN_LIKE = re.compile(r"^[A-Z]{2}[A-Z0-9]{9}[0-9]$")
 NA = {"", "N.A.", "NA", "N.A", "-", "--", "NIL"}
 
@@ -40,9 +41,11 @@ def month_names(m: int) -> set[str]:
 
 
 def parse_date(s: str) -> date:
-    """'... AS ON 30 Sep 2026' / '... ended 30 September 2026' -> date(2026, 9, 30)."""
-    for m in DATE_RE.finditer(s):
-        day, mon, year = m.groups()
+    """'... AS ON 30 Sep 2026' / '... ended 30 September 2026' / '... as on September 30, 2026'
+    -> date(2026, 9, 30)."""
+    found = [m.groups() for m in DATE_RE.finditer(s)]
+    found += [(d, mon, y) for mon, d, y in US_DATE_RE.findall(s)]
+    for day, mon, year in found:
         for i in range(1, 13):
             if mon.lower() in month_names(i):
                 return date(int(year), i, int(day))

@@ -1,0 +1,289 @@
+{
+  "amc": "mahindra",
+  "month": "2026-09",
+  "generated_at": "2026-10-22T05:33:47+00:00",
+  "sources": [
+    "https://cms.mahindramanulife.com/storage/mmimplweb/uploads/download/f8b7dba2-32b7-4188-99a7-8764ac6e15ac.xlsx"
+  ],
+  "scheme_count": 27,
+  "expected_scheme_count": null,
+  "schemes": [
+    {
+      "scheme_name": "Mahindra Manulife Liquid Fund",
+      "pct_of_nav_total": 100.0001,
+      "pct_of_nav_all_lines": 100.0001,
+      "pct_of_nav_excluding_derivatives": 100.0001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 36,
+      "source": "MMF01"
+    },
+    {
+      "scheme_name": "Mahindra Manulife ELSS Tax Saver Fund",
+      "pct_of_nav_total": 99.9928,
+      "pct_of_nav_all_lines": 99.9928,
+      "pct_of_nav_excluding_derivatives": 99.9928,
+      "derivatives_outside_nav_total": false,
+      "holdings": 57,
+      "source": "MMF02"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Equity Savings Fund",
+      "pct_of_nav_total": 99.9917,
+      "pct_of_nav_all_lines": 99.9917,
+      "pct_of_nav_excluding_derivatives": 131.3617,
+      "derivatives_outside_nav_total": false,
+      "holdings": 106,
+      "source": "MMF03"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Ultra Short to Short Term Fund",
+      "pct_of_nav_total": 100.0275,
+      "pct_of_nav_all_lines": 100.0275,
+      "pct_of_nav_excluding_derivatives": 100.0275,
+      "derivatives_outside_nav_total": false,
+      "holdings": 43,
+      "source": "MMF04"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Multi Cap Fund",
+      "pct_of_nav_total": 100.0623,
+      "pct_of_nav_all_lines": 100.0623,
+      "pct_of_nav_excluding_derivatives": 100.0623,
+      "derivatives_outside_nav_total": false,
+      "holdings": 77,
+      "source": "MMF05"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Mid Cap Fund",
+      "pct_of_nav_total": 99.9804,
+      "pct_of_nav_all_lines": 99.9804,
+      "pct_of_nav_excluding_derivatives": 99.9804,
+      "derivatives_outside_nav_total": false,
+      "holdings": 66,
+      "source": "MMF07"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Dynamic Term Fund",
+      "pct_of_nav_total": 100.0217,
+      "pct_of_nav_all_lines": 100.0217,
+      "pct_of_nav_excluding_derivatives": 100.0217,
+      "derivatives_outside_nav_total": false,
+      "holdings": 18,
+      "source": "MMF08"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Consumption Fund",
+      "pct_of_nav_total": 99.9832,
+      "pct_of_nav_all_lines": 99.9832,
+      "pct_of_nav_excluding_derivatives": 99.9832,
+      "derivatives_outside_nav_total": false,
+      "holdings": 51,
+      "source": "MMF09"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Large Cap Fund",
+      "pct_of_nav_total": 100.0141,
+      "pct_of_nav_all_lines": 100.0141,
+      "pct_of_nav_excluding_derivatives": 100.0141,
+      "derivatives_outside_nav_total": false,
+      "holdings": 47,
+      "source": "MMF10"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Aggressive Hybrid Fund",
+      "pct_of_nav_total": 100.0351,
+      "pct_of_nav_all_lines": 100.0351,
+      "pct_of_nav_excluding_derivatives": 100.0351,
+      "derivatives_outside_nav_total": false,
+      "holdings": 114,
+      "source": "MMF11"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Overnight Fund",
+      "pct_of_nav_total": 100.0054,
+      "pct_of_nav_all_lines": 100.0054,
+      "pct_of_nav_excluding_derivatives": 100.0054,
+      "derivatives_outside_nav_total": false,
+      "holdings": 7,
+      "source": "MMF12"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Ultra Short Term Fund",
+      "pct_of_nav_total": 99.9958,
+      "pct_of_nav_all_lines": 99.9958,
+      "pct_of_nav_excluding_derivatives": 99.9958,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "MMF13"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Large & Mid Cap Fund",
+      "pct_of_nav_total": 100.0235,
+      "pct_of_nav_all_lines": 100.0235,
+      "pct_of_nav_excluding_derivatives": 100.0235,
+      "derivatives_outside_nav_total": false,
+      "holdings": 72,
+      "source": "MMF14"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Arbitrage Fund",
+      "pct_of_nav_total": 100.0051,
+      "pct_of_nav_all_lines": 100.0051,
+      "pct_of_nav_excluding_derivatives": 167.3551,
+      "derivatives_outside_nav_total": false,
+      "holdings": 75,
+      "source": "MMF15"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Focused Fund",
+      "pct_of_nav_total": 100.012,
+      "pct_of_nav_all_lines": 100.012,
+      "pct_of_nav_excluding_derivatives": 100.012,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "MMF16"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Short Term Fund",
+      "pct_of_nav_total": 99.9954,
+      "pct_of_nav_all_lines": 99.9954,
+      "pct_of_nav_excluding_derivatives": 99.9954,
+      "derivatives_outside_nav_total": false,
+      "holdings": 27,
+      "source": "MMF17"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Flexi Cap Fund",
+      "pct_of_nav_total": 99.9854,
+      "pct_of_nav_all_lines": 99.9854,
+      "pct_of_nav_excluding_derivatives": 99.9854,
+      "derivatives_outside_nav_total": false,
+      "holdings": 75,
+      "source": "MMF18"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Asia Pacific REITs FOF",
+      "pct_of_nav_total": 100.0011,
+      "pct_of_nav_all_lines": 100.0011,
+      "pct_of_nav_excluding_derivatives": 100.0011,
+      "derivatives_outside_nav_total": false,
+      "holdings": 4,
+      "source": "MMF19"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Balanced Advantage Fund",
+      "pct_of_nav_total": 99.9607,
+      "pct_of_nav_all_lines": 99.9607,
+      "pct_of_nav_excluding_derivatives": 99.9607,
+      "derivatives_outside_nav_total": false,
+      "holdings": 82,
+      "source": "MMF20"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Small Cap Fund",
+      "pct_of_nav_total": 100.0159,
+      "pct_of_nav_all_lines": 100.0159,
+      "pct_of_nav_excluding_derivatives": 100.0159,
+      "derivatives_outside_nav_total": false,
+      "holdings": 88,
+      "source": "MMF21"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Business Cycle Fund",
+      "pct_of_nav_total": 99.9525,
+      "pct_of_nav_all_lines": 99.9525,
+      "pct_of_nav_excluding_derivatives": 99.9525,
+      "derivatives_outside_nav_total": false,
+      "holdings": 71,
+      "source": "MMF22"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Multi Asset Allocation Fund",
+      "pct_of_nav_total": 100.0035,
+      "pct_of_nav_all_lines": 100.0035,
+      "pct_of_nav_excluding_derivatives": 100.0035,
+      "derivatives_outside_nav_total": false,
+      "holdings": 84,
+      "source": "MMF23"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Manufacturing Fund",
+      "pct_of_nav_total": 99.974,
+      "pct_of_nav_all_lines": 99.974,
+      "pct_of_nav_excluding_derivatives": 99.974,
+      "derivatives_outside_nav_total": false,
+      "holdings": 53,
+      "source": "MMF24"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Value Fund",
+      "pct_of_nav_total": 99.9995,
+      "pct_of_nav_all_lines": 99.9995,
+      "pct_of_nav_excluding_derivatives": 99.9995,
+      "derivatives_outside_nav_total": false,
+      "holdings": 71,
+      "source": "MMF25"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Banking & Financial Services Fund",
+      "pct_of_nav_total": 100.0242,
+      "pct_of_nav_all_lines": 100.0242,
+      "pct_of_nav_excluding_derivatives": 100.0242,
+      "derivatives_outside_nav_total": false,
+      "holdings": 34,
+      "source": "MMF26"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Income Plus Arbitrage Active FOF",
+      "pct_of_nav_total": 100.0095,
+      "pct_of_nav_all_lines": 100.0095,
+      "pct_of_nav_excluding_derivatives": 100.0095,
+      "derivatives_outside_nav_total": false,
+      "holdings": 6,
+      "source": "MMF27"
+    },
+    {
+      "scheme_name": "Mahindra Manulife Innovation Opportunities Fund",
+      "pct_of_nav_total": 100.001,
+      "pct_of_nav_all_lines": 100.001,
+      "pct_of_nav_excluding_derivatives": 100.001,
+      "derivatives_outside_nav_total": false,
+      "holdings": 57,
+      "source": "MMF28"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [],
+  "isins_failing_check_digit": [],
+  "physical_commodity_lines": [],
+  "holding_count": 1487,
+  "source_file_warnings": [
+    "MMF01: dropped 'Net Receivables / (Payables)' = -13644.6 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF02: dropped 'Net Receivables / (Payables)' = -14.27 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF03: dropped 'Net Receivables / (Payables)' = 17083.43 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF04: dropped 'Net Receivables / (Payables)' = 1226.38 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF05: dropped 'Net Receivables / (Payables)' = 5610.24 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF07: dropped 'Net Receivables / (Payables)' = 1114.74 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF08: dropped 'Net Receivables / (Payables)' = 125.35 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF09: dropped 'Net Receivables / (Payables)' = 177.99 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF10: dropped 'Net Receivables / (Payables)' = 578.28 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF11: dropped 'Net Receivables / (Payables)' = 1833.19 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF12: dropped 'Net Receivables / (Payables)' = -8.36 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF13: dropped 'Net Receivables / (Payables)' = -3372.85 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF14: dropped 'Net Receivables / (Payables)' = 890.5 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF15: dropped 'Net Receivables / (Payables)' = 9320.33 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF16: dropped 'Net Receivables / (Payables)' = -401.39 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF17: dropped 'Net Receivables / (Payables)' = 182.88 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF18: dropped 'Net Receivables / (Payables)' = 1381.9 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF19: dropped 'Net Receivables / (Payables)' = -4.31 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF20: dropped 'Net Receivables / (Payables)' = 1055.14 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF21: dropped 'Net Receivables / (Payables)' = 85.17 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF22: dropped 'Net Receivables / (Payables)' = 1913.34 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF23: dropped 'Net Receivables / (Payables)' = 926.98 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF24: dropped 'Net Receivables / (Payables)' = 333.1 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF25: dropped 'Net Receivables / (Payables)' = -10.7 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF26: dropped 'Net Receivables / (Payables)' = 37.47 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF27: dropped 'Net Receivables / (Payables)' = 0.1 (a subtotal of the 2 lines above it, not a holding)",
+    "MMF28: dropped 'Net Receivables / (Payables)' = 31.08 (a subtotal of the 2 lines above it, not a holding)"
+  ]
+}
