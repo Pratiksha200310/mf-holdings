@@ -1,0 +1,281 @@
+{
+  "amc": "quant",
+  "month": "2026-07",
+  "generated_at": "2026-10-22T05:04:59+00:00",
+  "sources": [
+    "https://www.quantmutual.com/Admin/disclouser/Monthly_Portfolio_July26.xlsx"
+  ],
+  "scheme_count": 29,
+  "expected_scheme_count": 29,
+  "schemes": [
+    {
+      "scheme_name": "quant Aggressive Hybrid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 94.3439,
+      "derivatives_outside_nav_total": false,
+      "holdings": 31,
+      "source": "qAF"
+    },
+    {
+      "scheme_name": "quant Momentum Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 72.0839,
+      "derivatives_outside_nav_total": false,
+      "holdings": 29,
+      "source": "qMMO"
+    },
+    {
+      "scheme_name": "quant Value Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 78.2833,
+      "derivatives_outside_nav_total": false,
+      "holdings": 41,
+      "source": "qVF"
+    },
+    {
+      "scheme_name": "quant Arbitrage Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 82,
+      "source": "qMAB"
+    },
+    {
+      "scheme_name": "quant Dynamic Asset Allocation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 98.6596,
+      "derivatives_outside_nav_total": false,
+      "holdings": 26,
+      "source": "qMDA"
+    },
+    {
+      "scheme_name": "quant Gilt Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 14,
+      "source": "qMGG"
+    },
+    {
+      "scheme_name": "quant Multi Asset Allocation Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 109.2473,
+      "derivatives_outside_nav_total": false,
+      "holdings": 63,
+      "source": "qMAF"
+    },
+    {
+      "scheme_name": "quant Large & Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 77.0685,
+      "derivatives_outside_nav_total": false,
+      "holdings": 39,
+      "source": "qL&MF"
+    },
+    {
+      "scheme_name": "quant Manufacturing Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 83.3472,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "qMMF"
+    },
+    {
+      "scheme_name": "quant ELSS Tax Saver Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 33,
+      "source": "qTP"
+    },
+    {
+      "scheme_name": "quant BFSI Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 82.0349,
+      "derivatives_outside_nav_total": false,
+      "holdings": 28,
+      "source": "qMBS"
+    },
+    {
+      "scheme_name": "quant Consumption Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 87.2907,
+      "derivatives_outside_nav_total": false,
+      "holdings": 25,
+      "source": "qMCN"
+    },
+    {
+      "scheme_name": "quant Small Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 94.6368,
+      "derivatives_outside_nav_total": false,
+      "holdings": 128,
+      "source": "qSCF"
+    },
+    {
+      "scheme_name": "quant Large Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 71.1155,
+      "derivatives_outside_nav_total": false,
+      "holdings": 34,
+      "source": "qMLC"
+    },
+    {
+      "scheme_name": "quant Equity Savings Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 22,
+      "source": "qMES"
+    },
+    {
+      "scheme_name": "quant Healthcare Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 80.8584,
+      "derivatives_outside_nav_total": false,
+      "holdings": 25,
+      "source": "qMHC"
+    },
+    {
+      "scheme_name": "quant Infrastructure Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 87.1644,
+      "derivatives_outside_nav_total": false,
+      "holdings": 42,
+      "source": "qIF"
+    },
+    {
+      "scheme_name": "quant Overnight Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 2,
+      "source": "qMON"
+    },
+    {
+      "scheme_name": "quant Quantamental Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 77.1514,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "qMQM"
+    },
+    {
+      "scheme_name": "quant Multi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 80.7017,
+      "derivatives_outside_nav_total": false,
+      "holdings": 77,
+      "source": "qActive"
+    },
+    {
+      "scheme_name": "quant PSU Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 75.8515,
+      "derivatives_outside_nav_total": false,
+      "holdings": 24,
+      "source": "qMPU"
+    },
+    {
+      "scheme_name": "quant Commodities Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 86.8553,
+      "derivatives_outside_nav_total": false,
+      "holdings": 25,
+      "source": "qMCO"
+    },
+    {
+      "scheme_name": "quant Liquid Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 100.0,
+      "derivatives_outside_nav_total": false,
+      "holdings": 19,
+      "source": "qLF"
+    },
+    {
+      "scheme_name": "quant Flexi Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 77.2379,
+      "derivatives_outside_nav_total": false,
+      "holdings": 50,
+      "source": "qFLEXI"
+    },
+    {
+      "scheme_name": "quant Business Cycle Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 72.6287,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "qMBC"
+    },
+    {
+      "scheme_name": "quant ESG Integration Strategy Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 72.7341,
+      "derivatives_outside_nav_total": false,
+      "holdings": 30,
+      "source": "qESG"
+    },
+    {
+      "scheme_name": "quant Focused Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 80.9577,
+      "derivatives_outside_nav_total": false,
+      "holdings": 27,
+      "source": "qFF"
+    },
+    {
+      "scheme_name": "quant Mid Cap Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 84.4454,
+      "derivatives_outside_nav_total": false,
+      "holdings": 43,
+      "source": "qMCF"
+    },
+    {
+      "scheme_name": "quant Teck Fund",
+      "pct_of_nav_total": 100.0,
+      "pct_of_nav_all_lines": 100.0,
+      "pct_of_nav_excluding_derivatives": 84.7722,
+      "derivatives_outside_nav_total": false,
+      "holdings": 27,
+      "source": "qMTK"
+    }
+  ],
+  "schemes_outside_97_103": [],
+  "security_lines_without_identifier": [],
+  "isins_failing_check_digit": [],
+  "holding_count": 1076,
+  "source_file_warnings": [
+    "qMAB / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -57727.64 lakhs (-77.203183% of NAV); the missing lines are not in the AMC's file",
+    "qMES / (a) Index / Stock Futures: 0 lines add up to 0.00 lakhs but the printed Sub Total is -1718.89 lakhs (-31.388406% of NAV); the missing lines are not in the AMC's file"
+  ]
+}

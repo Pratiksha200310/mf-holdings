@@ -1,0 +1,1075 @@
+amc,scheme_name,month_end,instrument_name,isin,ticker,industry_or_rating,asset_type,quantity,market_value_lakhs,pct_of_nav
+quant,quant Equity Savings Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,125559,488.17,8.212501
+quant,quant Equity Savings Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,21939,462.91,7.787546
+quant,quant Equity Savings Fund,2026-08-31,Gujarat Themis Biosyn Ltd -QIP,,,Pharmaceuticals & Biotechnology,equity,118644,420,7.065622
+quant,quant Equity Savings Fund,2026-08-31,Info Edge (India) Ltd,INE663F01032,NAUKRI,Retailing,equity,24100,316.43,5.323326
+quant,quant Equity Savings Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,21672,276.75,4.655767
+quant,quant Equity Savings Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,72799,247.52,4.163951
+quant,quant Equity Savings Fund,2026-08-31,Bajaj Finance Limited,INE296A01032,BAJFINANCE,Finance,equity,22500,237.83,4.000911
+quant,quant Equity Savings Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,52371,218.91,3.682718
+quant,quant Equity Savings Fund,2026-08-31,Eternal Limited,INE758T01015,ETERNAL,Retailing,equity,65475,214.82,3.613958
+quant,quant Equity Savings Fund,2026-08-31,Fortis Healthcare Ltd,INE061F01013,FORTIS,Healthcare Services,equity,21700,196.8,3.310705
+quant,quant Equity Savings Fund,2026-08-31,Bandhan Bank Ltd.,INE545U01014,BANDHANBNK,Banks,equity,118800,194.24,3.26765
+quant,quant Equity Savings Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,9500,172.13,2.895737
+quant,quant Equity Savings Fund,2026-08-31,Kalyan Jewellers India Limited,INE303R01014,KALYANKJIL,Consumer Durables,equity,28350,170.38,2.866348
+quant,quant Equity Savings Fund,2026-08-31,Rural Electrification Corporation Ltd,INE020B01018,RECLTD,Finance,equity,50400,162.94,2.74118
+quant,quant Equity Savings Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,79950,136.46,2.295633
+quant,quant Equity Savings Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,8400,95.24,1.602201
+quant,quant Equity Savings Fund,2026-08-31,Canara Bank,INE476A01022,CANBK,Banks,equity,74250,94.22,1.58511
+quant,quant Equity Savings Fund,2026-08-31,NMDC Ltd,INE584A01023,NMDC,Minerals & Mining,equity,101250,89.3,1.502329
+quant,quant Equity Savings Fund,2026-08-31,Glenmark Pharmaceuticals Ltd,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,equity,2491,61.78,1.039266
+quant,quant Equity Savings Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,15000,158,2.657937
+quant,quant Equity Savings Fund,2026-08-31,Quant Liquid Fund-Growth -Direct Plan,INF966L01820,,,other,1278901.26,580.52,9.766043
+quant,quant Equity Savings Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,9363.9,936.39,15.752812
+quant,quant Equity Savings Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,170.52,2.868687
+quant,quant Healthcare Fund,2026-08-31,Glaxosmithkline Pharmaceuticals Ltd,INE159A01016,GLAXO,Pharmaceuticals & Biotechnology,equity,148558,4531.17,10.579544
+quant,quant Healthcare Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,342900,3982.1,9.297555
+quant,quant Healthcare Fund,2026-08-31,Pfizer Ltd,INE182A01018,PFIZER,Pharmaceuticals & Biotechnology,equity,80707,3780.64,8.827181
+quant,quant Healthcare Fund,2026-08-31,Alivus Life Sciences,INE03Q201024,ALIVUS,Pharmaceuticals & Biotechnology,equity,246298,3462.21,8.083703
+quant,quant Healthcare Fund,2026-08-31,Concord Biotech Limited,INE338H01029,CONCORDBIO,Pharmaceuticals & Biotechnology,equity,208326,3012.6,7.03394
+quant,quant Healthcare Fund,2026-08-31,SMS Pharmaceuticals Limited,INE812G01025,SMSPHARMA,Pharmaceuticals & Biotechnology,equity,772728,2873.39,6.708899
+quant,quant Healthcare Fund,2026-08-31,IPCA Laboratories Ltd,INE571A01038,IPCALAB,Pharmaceuticals & Biotechnology,equity,134835,2662.86,6.21734
+quant,quant Healthcare Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,455818,2417.66,5.644842
+quant,quant Healthcare Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,129172,2217.88,5.178399
+quant,quant Healthcare Fund,2026-08-31,Strides Pharma Science Ltd,INE939A01011,STAR,Pharmaceuticals & Biotechnology,equity,102255,1048.11,2.447176
+quant,quant Healthcare Fund,2026-08-31,Sumitomo Chemical India Limited,INE258G01013,SUMICHEM,Fertilizers & Agrochemicals,equity,25514,132.02,0.30825
+quant,quant Healthcare Fund,2026-08-31,Glenmark Pharmaceuticals Ltd 29/09/2026,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,derivative,168000,4209.07,9.827503
+quant,quant Healthcare Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,43800,4052.38,9.461643
+quant,quant Healthcare Fund,2026-08-31,Torrent Pharmaceuticals Ltd 29/09/2026,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,derivative,68125,3368.78,7.86556
+quant,quant Healthcare Fund,2026-08-31,Aurobindo Pharma Limited 29/09/2026,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,derivative,37950,642.27,1.499587
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,300000,299.91,0.700252
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,300000,299.62,0.699558
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,300000,299.34,0.69892
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,300000,298.16,0.696161
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,300000,297.88,0.695495
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,300000,297.22,0.693969
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,300000,296.62,0.692567
+quant,quant Healthcare Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,300000,296.28,0.691763
+quant,quant Healthcare Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,97043.9,9704.39,22.658183
+quant,quant Healthcare Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-11653.05,-27.207992
+quant,quant Infrastructure Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,18357158,31332,9.903574
+quant,quant Infrastructure Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,1988626,24159.82,7.636556
+quant,quant Infrastructure Fund,2026-08-31,Kalyani Steels Ltd,INE907A01026,KSL,Industrial Products,equity,2459488,22375.19,7.072463
+quant,quant Infrastructure Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,9999441,19798.89,6.258133
+quant,quant Infrastructure Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,647895,18523.97,5.855148
+quant,quant Infrastructure Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,3591000,15895.56,5.024349
+quant,quant Infrastructure Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,1060240,15415.89,4.872732
+quant,quant Infrastructure Fund,2026-08-31,NCC Ltd,INE868B01028,NCC,Construction,equity,8706522,12917.87,4.083144
+quant,quant Infrastructure Fund,2026-08-31,Afcons Infrastructure Limited,INE101I01011,AFCONS,Construction,equity,4319654,12339.09,3.900202
+quant,quant Infrastructure Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,2950277,11470.68,3.625709
+quant,quant Infrastructure Fund,2026-08-31,Welspun Corp Limited,INE191B01025,WELCORP,Industrial Products,equity,451282,10790.15,3.410605
+quant,quant Infrastructure Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,716943,10161.95,3.21204
+quant,quant Infrastructure Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,1425600,9851.61,3.113946
+quant,quant Infrastructure Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,2807204,9544.49,3.016871
+quant,quant Infrastructure Fund,2026-08-31,Simplex Infrastructures Limited,INE059B01024,SIMPLEXINF,Construction,equity,3507707,9429.77,2.980608
+quant,quant Infrastructure Fund,2026-08-31,BLACKBUCK LIMITED,INE0UIZ01018,BLACKBUCK,Transport Services,equity,1578877,9375.37,2.963414
+quant,quant Infrastructure Fund,2026-08-31,Mangalam Cement Limited,INE347A01017,MANGLMCEM,Cement & Cement Products,equity,869494,9318.8,2.945534
+quant,quant Infrastructure Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,472025,8470.96,2.677544
+quant,quant Infrastructure Fund,2026-08-31,Tata Power Company Limited,INE245A01021,TATAPOWER,Power,equity,2129270,7388.57,2.335415
+quant,quant Infrastructure Fund,2026-08-31,Swan Corp Limited,INE665A01038,SWANCORP,Chemicals & Petrochemicals,equity,1200000,3519.6,1.112493
+quant,quant Infrastructure Fund,2026-08-31,OM INFRA LIMITED,INE239D01028,OMINFRAL,Construction,equity,3772048,3101.38,0.980299
+quant,quant Infrastructure Fund,2026-08-31,Bharat Bijlee Limited,INE464A01036,BBL,Electrical Equipment,equity,128940,3047.5,0.963268
+quant,quant Infrastructure Fund,2026-08-31,The Orissa Minerals Development Co Ltd,INE725E01024,ORISSAMINE,Minerals & Mining,equity,50521,2179.68,0.688964
+quant,quant Infrastructure Fund,2026-08-31,Ravindra Energy Limited,INE206N01018,RELTD,Electrical Equipment,equity,329507,524.48,0.165779
+quant,quant Infrastructure Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,1262075,23660.12,7.478609
+quant,quant Infrastructure Fund,2026-08-31,Tata Power Company Limited 29/09/2026,INE245A01021,TATAPOWER,Power,derivative,2296800,8051.43,2.544937
+quant,quant Infrastructure Fund,2026-08-31,Adani Power Limited 29/09/2026,INE814H01029,ADANIPOWER,Power,derivative,812950,1660.45,0.524843
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,2700000,2675.01,0.845531
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,2200000,2193.09,0.693203
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,2000000,1999.43,0.63199
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,2000000,1995.63,0.630787
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,2000000,1985.85,0.627697
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,2000000,1977.49,0.625054
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1500000,1498.09,0.473523
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,1500000,1490.81,0.471223
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1500000,1481.39,0.468246
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,1000000,995.82,0.314763
+quant,quant Infrastructure Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,500000,497.42,0.157227
+quant,quant Infrastructure Fund,2026-08-31,India Grid Trust (InvIT),INE219X23014,540565,Power,other,1165644,2046.87,0.646985
+quant,quant Infrastructure Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,150378.5,15037.85,4.753239
+quant,quant Infrastructure Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-33809.41,-10.686647
+quant,quant Overnight Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,57451.4,5745.14,98.922765
+quant,quant Overnight Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,62.56,1.077235
+quant,quant Quantamental Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,747350,17192.04,10.534614
+quant,quant Quantamental Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,482968,13808.54,8.461336
+quant,quant Quantamental Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,1094471,13296.73,8.147718
+quant,quant Quantamental Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,672929,11554.19,7.079959
+quant,quant Quantamental Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,2588523,10820.03,6.630092
+quant,quant Quantamental Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,1340188,9261.37,5.675007
+quant,quant Quantamental Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,2276300,8850.25,5.423092
+quant,quant Quantamental Fund,2026-08-31,LTIMindtree Limited,INE214T01019,LTM,IT - Software,equity,157905,7168.89,4.392815
+quant,quant Quantamental Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,601486,6985.06,4.280171
+quant,quant Quantamental Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,225809,6921.27,4.241086
+quant,quant Quantamental Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,3210276,6356.35,3.894922
+quant,quant Quantamental Fund,2026-08-31,Kotak Mahindra Bank Limited,INE237A01036,KOTAKBANK,Banks,equity,1286656,5396.24,3.306603
+quant,quant Quantamental Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1078875,4775.64,2.926327
+quant,quant Quantamental Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,165961,3007.05,1.842602
+quant,quant Quantamental Fund,2026-08-31,Black Box Limited,INE676A01027,BBOX,IT - Services,equity,368439,2754.63,1.687933
+quant,quant Quantamental Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,1113500,14487.75,8.877529
+quant,quant Quantamental Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,618450,11594.08,7.104403
+quant,quant Quantamental Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,352125,8229.51,5.042726
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,1300000,1290.8,0.790953
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,1250000,1238.43,0.758863
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,1200000,1199.66,0.735104
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1200000,1198.47,0.734376
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,1200000,1197.38,0.733705
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,1200000,1192.65,0.73081
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,1200000,1190.27,0.729352
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,1200000,1186.49,0.727036
+quant,quant Quantamental Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1200000,1185.12,0.726193
+quant,quant Quantamental Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,241871.7,24187.17,14.820958
+quant,quant Quantamental Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-34330.32,-21.036284
+quant,quant BFSI Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,3642932,9342.66,10.132834
+quant,quant BFSI Fund,2026-08-31,IDBI Bank Limited,INE008A01015,IDBI,Banks,equity,10146300,9220.96,10.000834
+quant,quant BFSI Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,381878,8784.72,9.527703
+quant,quant BFSI Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,2020462,8445.53,9.159825
+quant,quant BFSI Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,274795,8422.74,9.135108
+quant,quant BFSI Fund,2026-08-31,Union Bank of India,INE692A01016,UNIONBANK,Banks,equity,4402385,8304.22,9.006561
+quant,quant BFSI Fund,2026-08-31,OnEMI Technology Solutions Limited,INE12F801023,KISSHT,Finance,equity,1526850,4689.72,5.08636
+quant,quant BFSI Fund,2026-08-31,TSF INVESTMENTS LIMITED,INE202Z01029,TSFINV,Finance,equity,886036,3554.78,3.855427
+quant,quant BFSI Fund,2026-08-31,Karnataka Bank Ltd,INE614B01018,KTKBANK,Banks,equity,824864,2764.53,2.998346
+quant,quant BFSI Fund,2026-08-31,Kotak Mahindra Bank Limited,INE237A01036,KOTAKBANK,Banks,equity,616790,2586.82,2.805601
+quant,quant BFSI Fund,2026-08-31,ICICI Prudential Life Insurance Co Ltd,INE726G01019,ICICIPRULI,Insurance,equity,233240,1205.97,1.307964
+quant,quant BFSI Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,789000,8310.54,9.013414
+quant,quant BFSI Fund,2026-08-31,Kotak Mahindra Bank Limited 29/09/2026,INE237A01036,KOTAKBANK,Banks,derivative,1468000,6264.69,6.794536
+quant,quant BFSI Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,297500,3619.39,3.9255
+quant,quant BFSI Fund,2026-08-31,ICICI Prudential Life Insurance Co Ltd 29/09/2026,INE726G01019,ICICIPRULI,Insurance,derivative,533725,2672.36,2.89838
+quant,quant BFSI Fund,2026-08-31,Manappuram Finance Ltd 29/09/2026,INE522D01027,MANAPPURAM,Finance,derivative,324000,1122.82,1.217786
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,700000,695.05,0.753831
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,700000,694.33,0.753049
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,700000,691.32,0.749786
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,650000,643.98,0.69845
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,650000,642.68,0.697039
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,600000,599.83,0.65056
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,600000,599.24,0.649916
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,600000,598.69,0.649323
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,600000,598.12,0.648702
+quant,quant BFSI Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,600000,596.33,0.64676
+quant,quant BFSI Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,160523.9,16052.39,17.410046
+quant,quant BFSI Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-19522.5,-21.173644
+quant,quant Consumption Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,769489,1973.43,10.374928
+quant,quant Consumption Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,114926,1951.21,10.258122
+quant,quant Consumption Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,56101,1719.55,9.040205
+quant,quant Consumption Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,90058,1546.3,8.129347
+quant,quant Consumption Fund,2026-08-31,Ventive Hospitality Limited,INE781S01027,VENTIVE,Leisure Services,equity,258392,1527.61,8.031128
+quant,quant Consumption Fund,2026-08-31,Heritage Foods Limited,INE978A01027,HERITGFOOD,Food Products,equity,398165,1438.57,7.563
+quant,quant Consumption Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,253942,1346.91,7.081106
+quant,quant Consumption Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,46766,847.35,4.454793
+quant,quant Consumption Fund,2026-08-31,Procter & Gamble Hygiene & Health Care Limited,INE179A01014,PGHH,Personal Products,equity,5728,457.07,2.402933
+quant,quant Consumption Fund,2026-08-31,Torrent Pharmaceuticals Ltd,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,equity,3373,170.88,0.898348
+quant,quant Consumption Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,137500,1789.01,9.405382
+quant,quant Consumption Fund,2026-08-31,Adani Power Limited 29/09/2026,INE814H01029,ADANIPOWER,Power,derivative,568000,1160.14,6.099208
+quant,quant Consumption Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,39900,748.01,3.932491
+quant,quant Consumption Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,90250,608.15,3.197227
+quant,quant Consumption Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,47700,559.19,2.939816
+quant,quant Consumption Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,26250,319.36,1.678959
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,200000,199.94,1.051161
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,200000,199.75,1.05012
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,200000,198.58,1.044021
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,150000,148.61,0.781297
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,150000,148.31,0.779718
+quant,quant Consumption Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,150000,148.14,0.778814
+quant,quant Consumption Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,50911.3,5091.13,26.765615
+quant,quant Consumption Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-5276.04,-27.737739
+quant,quant Small Cap Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,95588251,238100.77,6.696273
+quant,quant Small Cap Fund,2026-08-31,RBL Bank Limited,INE976G01028,RBLBANK,Banks,equity,42156379,160341.79,4.509403
+quant,quant Small Cap Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,5342708,152753.36,4.295989
+quant,quant Small Cap Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,59930545,118662.48,3.337227
+quant,quant Small Cap Fund,2026-08-31,Aegis Logistics Limited,INE208C01025,AEGISLOG,Gas,equity,9023836,114115.43,3.209347
+quant,quant Small Cap Fund,2026-08-31,Welspun Corp Limited,INE191B01025,WELCORP,Industrial Products,equity,4428147,105876.99,2.977652
+quant,quant Small Cap Fund,2026-08-31,Anand Rathi Wealth Limited,INE463V01026,ANANDRATHI,Capital Markets,equity,4746834,104629.72,2.942574
+quant,quant Small Cap Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,4335570,99735.45,2.804929
+quant,quant Small Cap Fund,2026-08-31,Sona BLW Precision Forgings Limited,INE073K01018,SONACOMS,Auto Components,equity,11444694,93051.08,2.61694
+quant,quant Small Cap Fund,2026-08-31,Manappuram Finance Ltd,INE522D01027,MANAPPURAM,Finance,equity,26177966,89031.26,2.503888
+quant,quant Small Cap Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,7275840,88394.18,2.485971
+quant,quant Small Cap Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,33250797,85274.99,2.398248
+quant,quant Small Cap Fund,2026-08-31,Arvind Limited,INE034A01011,ARVIND,Textiles & Apparels,equity,14805881,82268.88,2.313705
+quant,quant Small Cap Fund,2026-08-31,Aster DM Healthcare Limited,INE914M01019,ASTERDM,Healthcare Services,equity,10673152,80689.03,2.269274
+quant,quant Small Cap Fund,2026-08-31,Poly Medicure Limited,INE205C01021,POLYMED,Healthcare Equipment & Supplies,equity,4357016,76666.05,2.156133
+quant,quant Small Cap Fund,2026-08-31,Pfizer Ltd,INE182A01018,PFIZER,Pharmaceuticals & Biotechnology,equity,1625687,76153.68,2.141723
+quant,quant Small Cap Fund,2026-08-31,SUN TV Network Limited,INE424H01027,SUNTV,Entertainment,equity,14661224,68343.3,1.922066
+quant,quant Small Cap Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,4265833,62025.21,1.744378
+quant,quant Small Cap Fund,2026-08-31,Karnataka Bank Ltd,INE614B01018,KTKBANK,Banks,equity,17482567,58592.82,1.647847
+quant,quant Small Cap Fund,2026-08-31,Bikaji Foods International Limited,INE00E101023,BIKAJI,Food Products,equity,8672820,54265.83,1.526156
+quant,quant Small Cap Fund,2026-08-31,Usha Martin Limited,INE228A01035,USHAMART,Industrial Products,equity,10716104,53468,1.503718
+quant,quant Small Cap Fund,2026-08-31,Indegene Limited,INE065X01017,INDGN,Healthcare Services,equity,8515709,52086.33,1.46486
+quant,quant Small Cap Fund,2026-08-31,Ventive Hospitality Limited,INE781S01027,VENTIVE,Leisure Services,equity,8416925,49760.86,1.399459
+quant,quant Small Cap Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,9033845,47915.51,1.347561
+quant,quant Small Cap Fund,2026-08-31,Welspun Enterprises Limited,INE625G01013,WELENT,Construction,equity,6712318,45999.52,1.293676
+quant,quant Small Cap Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,26531392,45283.78,1.273547
+quant,quant Small Cap Fund,2026-08-31,Hexaware Technologies Limited,INE093A01041,HEXT,IT - Software,equity,7593970,42127.55,1.184782
+quant,quant Small Cap Fund,2026-08-31,Bayer Cropscience Ltd,INE462A01022,BAYERCROP,Fertilizers & Agrochemicals,equity,1037211,41186.61,1.15832
+quant,quant Small Cap Fund,2026-08-31,Strides Pharma Science Ltd,INE939A01011,STAR,Pharmaceuticals & Biotechnology,equity,3672706,37645.24,1.058723
+quant,quant Small Cap Fund,2026-08-31,Aditya Birla Lifestyle Brands Limited,INE14LE01019,ABLBL,Retailing,equity,39945165,34636.45,0.974105
+quant,quant Small Cap Fund,2026-08-31,Welspun Living Limited,INE192B01031,WELSPUNLIV,Textiles & Apparels,equity,17575290,34484.48,0.969831
+quant,quant Small Cap Fund,2026-08-31,Orchid Pharma Limited,INE191A01027,ORCHPHARMA,Pharmaceuticals & Biotechnology,equity,3465947,33650.88,0.946387
+quant,quant Small Cap Fund,2026-08-31,Alivus Life Sciences,INE03Q201024,ALIVUS,Pharmaceuticals & Biotechnology,equity,2224804,31274.07,0.879542
+quant,quant Small Cap Fund,2026-08-31,Just Dial Limited,INE599M01018,JUSTDIAL,Retailing,equity,3920237,27841.52,0.783006
+quant,quant Small Cap Fund,2026-08-31,Marathon Nextgen Realty Limited,INE182D01020,MARATHON,Realty,equity,6699605,27672.72,0.778259
+quant,quant Small Cap Fund,2026-08-31,Jubilant Pharmova Limited,INE700A01033,JUBLPHARMA,Pharmaceuticals & Biotechnology,equity,2947185,25991.22,0.730969
+quant,quant Small Cap Fund,2026-08-31,NCC Ltd,INE868B01028,NCC,Construction,equity,17305369,25675.98,0.722103
+quant,quant Small Cap Fund,2026-08-31,Black Box Limited,INE676A01027,BBOX,IT - Services,equity,3192923,23871.89,0.671366
+quant,quant Small Cap Fund,2026-08-31,KEYSTONE REALTORS LIMITED,INE263M01029,RUSTOMJEE,Realty,equity,6219091,23567.25,0.662798
+quant,quant Small Cap Fund,2026-08-31,JM FINANCIAL LIMITED,INE780C01023,JMFINANCIL,Finance,equity,16714161,21392.45,0.601635
+quant,quant Small Cap Fund,2026-08-31,TVS Srichakra Limited,INE421C01016,TVSSRICHAK,Auto Components,equity,377551,20839.3,0.586078
+quant,quant Small Cap Fund,2026-08-31,Gujarat Themis Biosyn Ltd -QIP,,,Pharmaceuticals & Biotechnology,equity,5437833,19249.93,0.541379
+quant,quant Small Cap Fund,2026-08-31,Afcons Infrastructure Limited,INE101I01011,AFCONS,Construction,equity,6641314,18970.91,0.533532
+quant,quant Small Cap Fund,2026-08-31,IRB Infrastructure Developers Limited,INE821I01022,IRB,Construction,equity,89488799,17325.03,0.487244
+quant,quant Small Cap Fund,2026-08-31,BLACKBUCK LIMITED,INE0UIZ01018,BLACKBUCK,Transport Services,equity,2889316,17156.76,0.482511
+quant,quant Small Cap Fund,2026-08-31,Nitin Spinners Limited,INE229H01012,NITINSPIN,Textiles & Apparels,equity,2730499,17131.15,0.481791
+quant,quant Small Cap Fund,2026-08-31,Apollo Tyres Ltd,INE438A01022,APOLLOTYRE,Auto Components,equity,3691711,16204.77,0.455738
+quant,quant Small Cap Fund,2026-08-31,ETHOS LIMITED,INE04TZ01018,ETHOSLTD,Consumer Durables,equity,549337,15923.63,0.447831
+quant,quant Small Cap Fund,2026-08-31,LIC Housing Finance Ltd,INE115A01026,LICHSGFIN,Finance,equity,2911655,15676.35,0.440877
+quant,quant Small Cap Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,892208,15319.21,0.430833
+quant,quant Small Cap Fund,2026-08-31,National Building Construction Corp,INE095N01031,NBCC,Construction,equity,16341750,14086.59,0.396167
+quant,quant Small Cap Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,782740,14047.05,0.395055
+quant,quant Small Cap Fund,2026-08-31,Juniper Hotels Limited,INE696F01016,JUNIPER,Leisure Services,equity,5979730,12818.15,0.360494
+quant,quant Small Cap Fund,2026-08-31,Gabriel India Limited,INE524A01029,GABRIEL,Auto Components,equity,856647,12317.73,0.34642
+quant,quant Small Cap Fund,2026-08-31,Apeejay Surrendra Park Hotels Limited,INE988S01028,PARKHOTELS,Leisure Services,equity,10610336,11934.51,0.335642
+quant,quant Small Cap Fund,2026-08-31,Redington Limited,INE891D01026,REDINGTON,Commercial Services & Supplies,equity,3220259,11520.48,0.323998
+quant,quant Small Cap Fund,2026-08-31,Gujarat State Fert & Chemicals Ltd,INE026A01025,GSFC,Fertilizers & Agrochemicals,equity,6511502,10297.94,0.289616
+quant,quant Small Cap Fund,2026-08-31,INDOCO REMEDIES LIMITED,INE873D01024,INDOCO,Pharmaceuticals & Biotechnology,equity,4199230,10218.41,0.287379
+quant,quant Small Cap Fund,2026-08-31,Aditya Birla Fashion And Retail Ltd,INE647O01011,ABFRL,Retailing,equity,18082269,9420.86,0.264949
+quant,quant Small Cap Fund,2026-08-31,Sumitomo Chemical India Limited,INE258G01013,SUMICHEM,Fertilizers & Agrochemicals,equity,1682572,8706.47,0.244858
+quant,quant Small Cap Fund,2026-08-31,Maharashtra Seamless Ltd,INE271B01025,MAHSEAMLES,Industrial Products,equity,1300497,8624.9,0.242564
+quant,quant Small Cap Fund,2026-08-31,S. P. Apparels Limited,INE212I01016,SPAL,Textiles & Apparels,equity,805180,8456.4,0.237825
+quant,quant Small Cap Fund,2026-08-31,K.P.R. Mill Limited,INE930H01031,KPRMILL,Textiles & Apparels,equity,700492,8248.99,0.231992
+quant,quant Small Cap Fund,2026-08-31,Bandhan Bank Ltd.,INE545U01014,BANDHANBNK,Banks,equity,4626000,7563.51,0.212714
+quant,quant Small Cap Fund,2026-08-31,KPIT Technologies Limited,INE04I401011,KPITTECH,IT - Software,equity,1281951,7499.41,0.210911
+quant,quant Small Cap Fund,2026-08-31,Info Edge (India) Ltd,INE663F01032,NAUKRI,Retailing,equity,557296,7317.3,0.205789
+quant,quant Small Cap Fund,2026-08-31,Sonata Software Limited,INE269A01021,SONATSOFTW,IT - Software,equity,2465825,7201.44,0.202531
+quant,quant Small Cap Fund,2026-08-31,Bata India Ltd,INE176A01028,BATAINDIA,Consumer Durables,equity,875658,5975.49,0.168053
+quant,quant Small Cap Fund,2026-08-31,MANGALORE REFINERY & PETROCHEMICALS LTD,INE103A01014,MRPL,Petroleum Products,equity,3376782,5753.02,0.161796
+quant,quant Small Cap Fund,2026-08-31,Castrol India Limited,INE172A01027,CASTROLIND,Petroleum Products,equity,3100714,5720.51,0.160882
+quant,quant Small Cap Fund,2026-08-31,Triveni Turbine Limited,INE152M01016,TRITURBINE,Electrical Equipment,equity,910067,5261.55,0.147974
+quant,quant Small Cap Fund,2026-08-31,Embassy Developments Limited,INE069I01010,EMBDL,Realty,equity,7962774,4942.49,0.139001
+quant,quant Small Cap Fund,2026-08-31,Prime Securities Limited,INE032B01021,PRIMESECU,Finance,equity,1649942,4734.51,0.133152
+quant,quant Small Cap Fund,2026-08-31,The Orissa Minerals Development Co Ltd,INE725E01024,ORISSAMINE,Minerals & Mining,equity,107059,4618.95,0.129902
+quant,quant Small Cap Fund,2026-08-31,Capacite Infraprojects Limited,INE264T01014,CAPACITE,Construction,equity,2064804,4418.68,0.12427
+quant,quant Small Cap Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,242245,4389.24,0.123442
+quant,quant Small Cap Fund,2026-08-31,Delhivery Limited,INE148O01028,DELHIVERY,Transport Services,equity,952425,4344.96,0.122196
+quant,quant Small Cap Fund,2026-08-31,Ravindra Energy Limited,INE206N01018,RELTD,Electrical Equipment,equity,2708888,4311.74,0.121262
+quant,quant Small Cap Fund,2026-08-31,Intellect Design Arena Limited,INE306R01017,INTELLECT,IT - Software,equity,503950,3431.65,0.096511
+quant,quant Small Cap Fund,2026-08-31,Sula Vineyards Limited,INE142Q01026,SULA,Beverages,equity,2229281,3281.5,0.092288
+quant,quant Small Cap Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,688754,3048.77,0.085743
+quant,quant Small Cap Fund,2026-08-31,Graphite India Limited,INE371A01025,GRAPHITE,Industrial Products,equity,429207,3015.39,0.084804
+quant,quant Small Cap Fund,2026-08-31,Oriental Hotels Limited,INE750A01020,ORIENTHOT,Leisure Services,equity,2040266,2836.38,0.079769
+quant,quant Small Cap Fund,2026-08-31,SMS Pharmaceuticals Limited,INE812G01025,SMSPHARMA,Pharmaceuticals & Biotechnology,equity,758917,2822.03,0.079366
+quant,quant Small Cap Fund,2026-08-31,RISHABH INSTRUMENTS LIMITED,INE0N2P01017,RISHABH,Electrical Equipment,equity,389843,2750.15,0.077344
+quant,quant Small Cap Fund,2026-08-31,Newgen Software Technologies Limited,INE619B01017,NEWGEN,IT - Software,equity,503579,2663.18,0.074898
+quant,quant Small Cap Fund,2026-08-31,Sudarshan Chemical Industries Limited,INE659A01023,SUDARSCHEM,Chemicals & Petrochemicals,equity,209786,2657.57,0.074741
+quant,quant Small Cap Fund,2026-08-31,Digitide Solutions Limited,INE0U4701011,DIGITIDE,IT - Services,equity,2669275,2597.2,0.073043
+quant,quant Small Cap Fund,2026-08-31,Mahindra Holidays & Resorts Ind Ltd,INE998I01010,MHRIL,Leisure Services,equity,999412,2095.27,0.058927
+quant,quant Small Cap Fund,2026-08-31,SANOFI INDIA LIMITED,INE058A01010,SANOFI,Pharmaceuticals & Biotechnology,equity,63911,1996.58,0.056151
+quant,quant Small Cap Fund,2026-08-31,Emami Limited,INE548C01032,EMAMILTD,Personal Products,equity,544628,1982.45,0.055754
+quant,quant Small Cap Fund,2026-08-31,Safari Industries (India) Limited,INE429E01023,SAFARI,Consumer Durables,equity,122576,1852.12,0.052089
+quant,quant Small Cap Fund,2026-08-31,Sai Silks (Kalamandir) Limited,INE438K01021,KALAMANDIR,Retailing,equity,2095455,1798.74,0.050587
+quant,quant Small Cap Fund,2026-08-31,Sudeep Pharma Limited,INE0QPI01025,SUDEEPPHRM,Chemicals & Petrochemicals,equity,148058,1791.06,0.050371
+quant,quant Small Cap Fund,2026-08-31,PTC India Limited,INE877F01012,PTC,Power,equity,1170809,1766.63,0.049684
+quant,quant Small Cap Fund,2026-08-31,Vishnu Prakash R Punglia Limited,INE0AE001013,VPRPL,Construction,equity,5087689,1701.83,0.047862
+quant,quant Small Cap Fund,2026-08-31,Heritage Foods Limited,INE978A01027,HERITGFOOD,Food Products,equity,400000,1445.2,0.040644
+quant,quant Small Cap Fund,2026-08-31,Best Agrolife Limited,INE052T01021,BESTAGRO,Fertilizers & Agrochemicals,equity,7500000,1287,0.036195
+quant,quant Small Cap Fund,2026-08-31,OSWAL PUMPS LIMITED,INE0BYP01024,OSWALPUMPS,Industrial Products,equity,435464,1272.86,0.035798
+quant,quant Small Cap Fund,2026-08-31,Gillette India Ltd,INE322A01010,GILLETTE,Personal Products,equity,15998,1172.49,0.032975
+quant,quant Small Cap Fund,2026-08-31,PUNJAB ALKALIES AND CHEMICALS LTD,INE607A01022,PRIMO,Chemicals & Petrochemicals,equity,4556962,962.43,0.027067
+quant,quant Small Cap Fund,2026-08-31,Kalyani Steels Ltd,INE907A01026,KSL,Industrial Products,equity,33473,304.52,0.008564
+quant,quant Small Cap Fund,2026-08-31,Caliber Mining and Logistics Limited,INE11XY01018,CMLL,Consumable Fuels,equity,44988,226.9,0.006381
+quant,quant Small Cap Fund,2026-08-31,OM INFRA LIMITED,INE239D01028,OMINFRAL,Construction,equity,140571,115.58,0.00325
+quant,quant Small Cap Fund,2026-08-31,KPIT Technologies Limited 29/09/2026,INE04I401011,KPITTECH,IT - Software,derivative,-62775,-369.18,-0.010383
+quant,quant Small Cap Fund,2026-08-31,LIC Housing Finance Ltd 29/09/2026,INE115A01026,LICHSGFIN,Finance,derivative,-684000,-3690.52,-0.103791
+quant,quant Small Cap Fund,2026-08-31,RBL Bank Limited 29/09/2026,INE976G01028,RBLBANK,Banks,derivative,-996950,-3817.32,-0.107357
+quant,quant Small Cap Fund,2026-08-31,Delhivery Limited 29/09/2026,INE148O01028,DELHIVERY,Transport Services,derivative,-952425,-4437.82,-0.124808
+quant,quant Small Cap Fund,2026-08-31,Bandhan Bank Ltd. 29/09/2026,INE545U01014,BANDHANBNK,Banks,derivative,-4626000,-7662.51,-0.215498
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,5500000,5487.97,0.154342
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,5400000,5361.79,0.150793
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,4500000,4449.34,0.125132
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,4400000,4394.39,0.123586
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,4100000,4049.14,0.113877
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,3600000,3598.97,0.101216
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,3550000,3535.15,0.099422
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,3450000,3432.19,0.096526
+quant,quant Small Cap Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,2750000,2733.16,0.076866
+quant,quant Small Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,3248453.5,324845.35,9.135851
+quant,quant Small Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,29882.21,0.840398
+quant,quant Large Cap Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,1049564,32170.19,8.811147
+quant,quant Large Cap Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,2433485,29564.41,8.097447
+quant,quant Large Cap Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,1031747,29498.68,8.079444
+quant,quant Large Cap Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,1573919,26722,7.318934
+quant,quant Large Cap Fund,2026-08-31,Divi's Laboratories Limited,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,equity,191808,18158.46,4.973453
+quant,quant Large Cap Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,10173861,17364.75,4.75606
+quant,quant Large Cap Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,5875634,15068.65,4.127179
+quant,quant Large Cap Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,1014044,14373.06,3.936662
+quant,quant Large Cap Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,1152481,13066.83,3.578896
+quant,quant Large Cap Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,670415,12147.25,3.327031
+quant,quant Large Cap Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,861959,11007.22,3.014785
+quant,quant Large Cap Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,875700,10169.5,2.785343
+quant,quant Large Cap Fund,2026-08-31,State Bank of India,INE062A01020,SBIN,Banks,equity,821040,8703.02,2.383686
+quant,quant Large Cap Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,1258087,8694.01,2.381217
+quant,quant Large Cap Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,1057767,4421.47,1.211003
+quant,quant Large Cap Fund,2026-08-31,Oil and Natural Gas Corporation Ltd.,INE213A01029,ONGC,Oil,equity,750000,1738.5,0.476161
+quant,quant Large Cap Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,1249650,29205.57,7.999164
+quant,quant Large Cap Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,1675000,21793.43,5.969039
+quant,quant Large Cap Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,1004150,18824.8,5.155957
+quant,quant Large Cap Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,2635300,17757.97,4.863761
+quant,quant Large Cap Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,1404750,14796.23,4.052565
+quant,quant Large Cap Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,78800,7290.58,1.996828
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,2750000,2724.55,0.746231
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,2500000,2499.29,0.684534
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,2500000,2492.15,0.682579
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,2500000,2471.86,0.677021
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,2400000,2380.54,0.652011
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,2000000,1995.63,0.546585
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,2000000,1985.85,0.543907
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1500000,1498.09,0.410314
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,1500000,1493.73,0.409119
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,1500000,1490.81,0.408321
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1500000,1481.39,0.405742
+quant,quant Large Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,500000,497.42,0.136239
+quant,quant Large Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,897184.9,89718.49,24.573151
+quant,quant Large Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-110158.56,-30.171516
+quant,quant Arbitrage Fund,2026-08-31,HDFC Life Insurance Co Ltd,INE795G01014,HDFCLIFE,Insurance,equity,617100,3353.01,3.804806
+quant,quant Arbitrage Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,260500,3326.59,3.774818
+quant,quant Arbitrage Fund,2026-08-31,Info Edge (India) Ltd,INE663F01032,NAUKRI,Retailing,equity,250250,3285.78,3.728517
+quant,quant Arbitrage Fund,2026-08-31,Oracle Financial Services Software Ltd,INE881D01027,OFSS,IT - Software,equity,26000,3260.4,3.699715
+quant,quant Arbitrage Fund,2026-08-31,Oil and Natural Gas Corporation Ltd.,INE213A01029,ONGC,Oil,equity,1062000,2461.72,2.793414
+quant,quant Arbitrage Fund,2026-08-31,National Building Construction Corp,INE095N01031,NBCC,Construction,equity,2717000,2342.05,2.657628
+quant,quant Arbitrage Fund,2026-08-31,State Bank of India,INE062A01020,SBIN,Banks,equity,189750,2011.35,2.282364
+quant,quant Arbitrage Fund,2026-08-31,One 97 Communications Limited,INE982J01020,PAYTM,Financial Technology (Fintech),equity,113100,1942.04,2.203716
+quant,quant Arbitrage Fund,2026-08-31,Cholamandalam Investment & Finance Co,INE121A01024,CHOLAFIN,Finance,equity,100000,1857.4,2.107671
+quant,quant Arbitrage Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,159300,1849.95,2.099218
+quant,quant Arbitrage Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,464100,1804.42,2.047553
+quant,quant Arbitrage Fund,2026-08-31,NTPC Limited,INE733E01010,NTPC,Power,equity,504000,1650.1,1.872434
+quant,quant Arbitrage Fund,2026-08-31,Punjab National Bank,INE160A01022,PNB,Banks,equity,1424000,1626.64,1.845812
+quant,quant Arbitrage Fund,2026-08-31,LIC Housing Finance Ltd,INE115A01026,LICHSGFIN,Finance,equity,274000,1475.22,1.67399
+quant,quant Arbitrage Fund,2026-08-31,Varun Beverages Limited,INE200M01039,VBL,Beverages,equity,364650,1460.24,1.656998
+quant,quant Arbitrage Fund,2026-08-31,HDFC Bank Limited,INE040A01034,HDFCBANK,Banks,equity,204750,1451.68,1.64728
+quant,quant Arbitrage Fund,2026-08-31,Vodafone Idea Ltd.,INE669E01016,IDEA,Telecom - Services,equity,10006500,1433.93,1.627143
+quant,quant Arbitrage Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,768750,1312.1,1.488899
+quant,quant Arbitrage Fund,2026-08-31,Adani Ports & Special Economic Zone Ltd,INE742F01042,ADANIPORTS,Transport Infrastructure,equity,81700,1301.56,1.476939
+quant,quant Arbitrage Fund,2026-08-31,YES Bank Ltd.,INE528G01035,YESBANK,Banks,equity,5660200,1292.22,1.466341
+quant,quant Arbitrage Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,286125,1266.53,1.437188
+quant,quant Arbitrage Fund,2026-08-31,ITC Limited,INE154A01025,ITC,Diversified FMCG,equity,484725,1238.47,1.405347
+quant,quant Arbitrage Fund,2026-08-31,Union Bank of India,INE692A01016,UNIONBANK,Banks,equity,588525,1110.13,1.259717
+quant,quant Arbitrage Fund,2026-08-31,Amber Enterprises India Ltd,INE371P01015,AMBER,Consumer Durables,equity,13800,1051.56,1.19325
+quant,quant Arbitrage Fund,2026-08-31,Maruti Suzuki India Limited,INE585B01010,MARUTI,Automobiles,equity,7300,988.93,1.122182
+quant,quant Arbitrage Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,49400,895.08,1.015684
+quant,quant Arbitrage Fund,2026-08-31,Hindustan Aeronautics Limited,INE066F01020,HAL,Aerospace & Defense,equity,18450,885.9,1.005263
+quant,quant Arbitrage Fund,2026-08-31,Hindustan Unilever Limited,INE030A01027,HINDUNILVR,Diversified FMCG,equity,44700,879.43,0.997924
+quant,quant Arbitrage Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,49500,849.92,0.964435
+quant,quant Arbitrage Fund,2026-08-31,Hindustan Petroleum Corporation Ltd,INE094A01015,HINDPETRO,Petroleum Products,equity,230850,844.33,0.958102
+quant,quant Arbitrage Fund,2026-08-31,Manappuram Finance Ltd,INE522D01027,MANAPPURAM,Finance,equity,246000,836.65,0.949378
+quant,quant Arbitrage Fund,2026-08-31,Godrej Consumer Products Limited,INE102D01028,GODREJCP,Personal Products,equity,92500,833.7,0.946038
+quant,quant Arbitrage Fund,2026-08-31,Canara Bank,INE476A01022,CANBK,Banks,equity,654750,830.88,0.942832
+quant,quant Arbitrage Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,418900,829.42,0.94118
+quant,quant Arbitrage Fund,2026-08-31,Bajaj Finance Limited,INE296A01032,BAJFINANCE,Finance,equity,72000,761.04,0.863584
+quant,quant Arbitrage Fund,2026-08-31,Cochin Shipyard Limited,INE704P01025,COCHINSHIP,Industrial Manufacturing,equity,50000,755,0.856731
+quant,quant Arbitrage Fund,2026-08-31,Glenmark Pharmaceuticals Ltd,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,equity,29250,725.4,0.823142
+quant,quant Arbitrage Fund,2026-08-31,KPIT Technologies Limited,INE04I401011,KPITTECH,IT - Software,equity,115475,675.53,0.766551
+quant,quant Arbitrage Fund,2026-08-31,Shriram Finance Limited,INE721A01047,SHRIRAMFIN,Finance,equity,60225,668.44,0.758504
+quant,quant Arbitrage Fund,2026-08-31,Biocon Ltd,INE376G01013,BIOCON,Pharmaceuticals & Biotechnology,equity,150000,618,0.701271
+quant,quant Arbitrage Fund,2026-08-31,GE Vernova T&D India Limited,INE200A01026,GVT&D,Electrical Equipment,equity,13875,616.77,0.699877
+quant,quant Arbitrage Fund,2026-08-31,ICICI Prudential Life Insurance Co Ltd,INE726G01019,ICICIPRULI,Insurance,equity,116550,602.62,0.683821
+quant,quant Arbitrage Fund,2026-08-31,Bharat Petroleum Corp Ltd,INE029A01011,BPCL,Petroleum Products,equity,165900,537.6,0.610036
+quant,quant Arbitrage Fund,2026-08-31,NMDC Ltd,INE584A01023,NMDC,Minerals & Mining,equity,594000,523.91,0.594501
+quant,quant Arbitrage Fund,2026-08-31,SRF Limited,INE647A01010,SRF,Chemicals & Petrochemicals,equity,20000,512.08,0.581079
+quant,quant Arbitrage Fund,2026-08-31,JSW Steel Limited,INE019A01038,JSWSTEEL,Ferrous Metals,equity,38475,503.14,0.570932
+quant,quant Arbitrage Fund,2026-08-31,PG Electroplast Limited,INE457L01029,PGEL,Consumer Durables,equity,86450,502.27,0.569952
+quant,quant Arbitrage Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,40800,495.68,0.562468
+quant,quant Arbitrage Fund,2026-08-31,Bajaj Finserv Ltd.,INE918I01026,BAJAJFINSV,Finance,equity,23700,478.98,0.543516
+quant,quant Arbitrage Fund,2026-08-31,Dabur India Limited,INE016A01026,DABUR,Personal Products,equity,121250,461.96,0.524209
+quant,quant Arbitrage Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,31500,458.01,0.519723
+quant,quant Arbitrage Fund,2026-08-31,Divi's Laboratories Limited,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,equity,4700,444.95,0.504903
+quant,quant Arbitrage Fund,2026-08-31,UPL Limited,INE628A01036,UPL,Fertilizers & Agrochemicals,equity,78590,441.87,0.501411
+quant,quant Arbitrage Fund,2026-08-31,Eicher Motors Ltd,INE066A01021,EICHERMOT,Automobiles,equity,5500,437.44,0.496385
+quant,quant Arbitrage Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,15141,432.9,0.491226
+quant,quant Arbitrage Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,100800,421.34,0.478117
+quant,quant Arbitrage Fund,2026-08-31,Tata Power Company Limited,INE245A01021,TATAPOWER,Power,equity,120350,417.61,0.473885
+quant,quant Arbitrage Fund,2026-08-31,Jio Financial Services Limited,INE758E01017,JIOFIN,Finance,equity,159800,385.68,0.437644
+quant,quant Arbitrage Fund,2026-08-31,Axis Bank Limited,INE238A01034,AXISBANK,Banks,equity,26875,349.38,0.396451
+quant,quant Arbitrage Fund,2026-08-31,Tata Consumer Products Ltd,INE192A01025,TATACONSUM,Agricultural Food & other Products,equity,26400,273.9,0.310806
+quant,quant Arbitrage Fund,2026-08-31,Asian Paints Limited,INE021A01026,ASIANPAINT,Consumer Durables,equity,10000,265.36,0.301115
+quant,quant Arbitrage Fund,2026-08-31,Kotak Mahindra Bank Limited,INE237A01036,KOTAKBANK,Banks,equity,62000,260.03,0.295065
+quant,quant Arbitrage Fund,2026-08-31,HDFC Asset Management Company Ltd,INE127D01025,HDFCAMC,Capital Markets,equity,9900,259.59,0.294565
+quant,quant Arbitrage Fund,2026-08-31,Hitachi Energy India Limited,INE07Y701011,POWERINDIA,Electrical Equipment,equity,700,236.32,0.268162
+quant,quant Arbitrage Fund,2026-08-31,Nippon Life India Asset Management Ltd,INE298J01013,NAM-INDIA,Capital Markets,equity,20000,234.46,0.266052
+quant,quant Arbitrage Fund,2026-08-31,Steel Authority of India Ltd,INE114A01011,SAIL,Ferrous Metals,equity,112800,219.96,0.249598
+quant,quant Arbitrage Fund,2026-08-31,Ashok Leyland Limited,INE208A01029,ASHOKLEY,"Agricultural, Commercial & Construction Vehicles",equity,125000,219.55,0.249133
+quant,quant Arbitrage Fund,2026-08-31,APL Apollo Tubes Limited,INE702C01027,APLAPOLLO,Industrial Products,equity,9800,217.89,0.247253
+quant,quant Arbitrage Fund,2026-08-31,Godrej Properties Limited,INE484J01027,GODREJPROP,Realty,equity,10725,216.08,0.245191
+quant,quant Arbitrage Fund,2026-08-31,Power Grid Corporation of India Limited,INE752E01010,POWERGRID,Power,equity,81700,215.32,0.244333
+quant,quant Arbitrage Fund,2026-08-31,Bank of India,INE084A01016,BANKINDIA,Banks,equity,150800,213.52,0.242288
+quant,quant Arbitrage Fund,2026-08-31,Bharat Electronics Ltd,INE263A01024,BEL,Aerospace & Defense,equity,44175,183.08,0.207752
+quant,quant Arbitrage Fund,2026-08-31,Bandhan Bank Ltd.,INE545U01014,BANDHANBNK,Banks,equity,100800,164.81,0.187015
+quant,quant Arbitrage Fund,2026-08-31,Max Healthcare Institute Limited,INE027H01010,MAXHEALTH,Healthcare Services,equity,13650,142.25,0.161413
+quant,quant Arbitrage Fund,2026-08-31,Oil India Limited,INE274J01014,OIL,Oil,equity,28000,135.28,0.15351
+quant,quant Arbitrage Fund,2026-08-31,Larsen & Toubro Limited,INE018A01030,LT,Construction,equity,3150,127.41,0.144582
+quant,quant Arbitrage Fund,2026-08-31,Computer Age Management Services Ltd,INE596I01020,CAMS,Capital Markets,equity,15675,122.58,0.139095
+quant,quant Arbitrage Fund,2026-08-31,GMR Airports Limited,INE776C01039,GMRAIRPORT,Transport Infrastructure,equity,118575,111.02,0.125981
+quant,quant Arbitrage Fund,2026-08-31,Sona BLW Precision Forgings Limited,INE073K01018,SONACOMS,Auto Components,equity,1225,9.96,0.011302
+quant,quant Arbitrage Fund,2026-08-31,SIDBI CD 25-Mar-2027,INE556F16CD0,,,debt,2500000,2406.73,2.731019
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 01-Jul-2027,IN002026Z136,,,debt,2000000,1908.94,2.166158
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 29-Jul-2027,IN002026Z177,,,debt,2000000,1900.94,2.157082
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 05-Aug-2027,IN002026Z185,,,debt,2000000,1898.35,2.154141
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 20-May-2027,IN002026Z078,,,debt,1500000,1441.42,1.635643
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 28-May-2027,IN002026Z086,,,debt,1500000,1439.7,1.633687
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 08-Apr-2027,IN002026Z011,,,debt,1000000,967.01,1.097307
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 29-Apr-2027,IN002026Z045,,,debt,1000000,963.96,1.093848
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 15-Jul-2027,IN002026Z151,,,debt,1000000,952.47,1.080805
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 22-Jul-2027,IN002026Z169,,,debt,1000000,951.47,1.079671
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 04-Mar-2027,IN002025Z484,,,debt,500000,486.14,0.551649
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 15-Apr-2027,IN002026Z029,,,debt,500000,483,0.548076
+quant,quant Arbitrage Fund,2026-08-31,364 Days Treasury Bill 19-Mar-2027,IN002025Z500,,,debt,300000,291.03,0.330243
+quant,quant Arbitrage Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,23251.4,2325.14,2.638435
+quant,quant Arbitrage Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-1185.88,-1.34567
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,496695,8528.25,10.005073
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,442225,8012.67,9.400213
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,2000418,7777.63,9.12446
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,263781,7541.76,8.847754
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,602005,7313.76,8.580267
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1520002,6728.29,7.893413
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Ventive Hospitality Limited,INE781S01027,VENTIVE,Leisure Services,equity,793155,4689.13,5.50114
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Glaxosmithkline Pharmaceuticals Ltd,INE159A01016,GLAXO,Pharmaceuticals & Biotechnology,equity,82471,2515.45,2.951043
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,132646,1693.89,1.987217
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Sumitomo Chemical India Limited,INE258G01013,SUMICHEM,Fertilizers & Agrochemicals,equity,151295,782.88,0.918445
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,89600,374.53,0.439384
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Bagmane Prime Office REIT,INE2OVN25015,544758,Realty,other,6499950,6934.8,8.135681
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,498000,6479.48,7.601516
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,462000,4866.25,5.708924
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,368600,2483.81,2.913927
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,700000,699.8,0.820983
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,700000,699.11,0.82017
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,700000,698.47,0.819422
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,700000,695.05,0.815407
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,700000,694.33,0.81456
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,650000,643.98,0.755502
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,650000,642.68,0.753975
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,650000,641.94,0.7531
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,600000,596.33,0.699589
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,Quant Arbitrage Fund -Direct Plan Growth,INF966L01DW8,,,other,26238012.72,2903.55,3.406353
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,136287.7,13628.77,15.988836
+quant,quant Dynamic Asset Allocation Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-14027.28,-16.456353
+quant,quant Gilt Fund,2026-08-31,7.68% Karnataka SDL - 21-Dec-2034,IN1920220127,,SOV,debt,1000000,1012.71,13.379466
+quant,quant Gilt Fund,2026-08-31,6.36% GOI 16-Feb-2031,IN0020250141,,SOV,debt,1000000,991.19,13.095126
+quant,quant Gilt Fund,2026-08-31,7.46% Maharashtra SDL - 13-Sep-2033,IN2220230113,,SOV,debt,761600,763.53,10.087381
+quant,quant Gilt Fund,2026-08-31,7.49% Tamil Nadu SDL - 24-Apr-2034,IN3120240038,,SOV,debt,640600,641.26,8.472034
+quant,quant Gilt Fund,2026-08-31,7.29% GOI SGRB MAT 27-Jan-2033,IN0020220144,,SOV,debt,500000,514.03,6.791165
+quant,quant Gilt Fund,2026-08-31,7.46% Madhya Pradesh SDL - 14-Sep-2032,IN2120220024,,SOV,debt,500000,501.2,6.62164
+quant,quant Gilt Fund,2026-08-31,7.06% GOI 27-Jul-2041,IN0020260041,,SOV,debt,500000,497.88,6.577824
+quant,quant Gilt Fund,2026-08-31,7.23% Andhra Pradesh SDL - 04-Sep-2034,IN1020240488,,SOV,debt,362000,355.1,4.691419
+quant,quant Gilt Fund,2026-08-31,8.23% GOI 12-FEB-2027,IN0020060029,,SOV,debt,100000,100.9,1.333074
+quant,quant Gilt Fund,2026-08-31,0% GS2027 CSTRIP 12 Sep 2027,IN000927C052,,SOV,debt,552000,519.05,6.857489
+quant,quant Gilt Fund,2026-08-31,0% GS2026 CSTRIP 19 Sep 2026,IN000926C047,,SOV,debt,500000,498.67,6.588222
+quant,quant Gilt Fund,2026-08-31,Gsec Strip Mat 12/03/28,IN000328C053,,SOV,debt,200000,181.89,2.403013
+quant,quant Gilt Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,9070,907,11.982909
+quant,quant Gilt Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,84.72,1.11924
+quant,quant Multi Asset Allocation Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,4730166,60404.22,9.253406
+quant,quant Multi Asset Allocation Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,3153276,57134.21,8.752468
+quant,quant Multi Asset Allocation Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,1567103,44805.04,6.863746
+quant,quant Multi Asset Allocation Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,3181116,38647.38,5.920445
+quant,quant Multi Asset Allocation Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,2602282,37837.18,5.79633
+quant,quant Multi Asset Allocation Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,1797304,30859.71,4.727441
+quant,quant Multi Asset Allocation Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,5616576,21837.25,3.345278
+quant,quant Multi Asset Allocation Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,649749,19915.46,3.050876
+quant,quant Multi Asset Allocation Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,4615130,19291.24,2.955252
+quant,quant Multi Asset Allocation Fund,2026-08-31,Oil and Natural Gas Corporation Ltd.,INE213A01029,ONGC,Oil,equity,7198164,16685.34,2.556051
+quant,quant Multi Asset Allocation Fund,2026-08-31,HDFC Bank Limited,INE040A01034,HDFCBANK,Banks,equity,1918150,13599.68,2.083354
+quant,quant Multi Asset Allocation Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,1170731,12132.29,1.858561
+quant,quant Multi Asset Allocation Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,1749922,12092.84,1.852518
+quant,quant Multi Asset Allocation Fund,2026-08-31,Black Box Limited,INE676A01027,BBOX,IT - Services,equity,1414999,10579.24,1.620648
+quant,quant Multi Asset Allocation Fund,2026-08-31,Larsen & Toubro Limited,INE018A01030,LT,Construction,equity,257775,10426.74,1.597287
+quant,quant Multi Asset Allocation Fund,2026-08-31,Tata Steel Limited,INE081A01020,TATASTEEL,Ferrous Metals,equity,3828000,7056.92,1.081059
+quant,quant Multi Asset Allocation Fund,2026-08-31,Tata Motors Passenger Vehicles Limited,INE155A01022,TMPV,Automobiles,equity,1614400,4986.07,0.763824
+quant,quant Multi Asset Allocation Fund,2026-08-31,Ventive Hospitality Limited,INE781S01027,VENTIVE,Leisure Services,equity,793155,4689.13,0.718335
+quant,quant Multi Asset Allocation Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,279512,3961.8,0.606914
+quant,quant Multi Asset Allocation Fund,2026-08-31,Bajaj Finserv Ltd.,INE918I01026,BAJAJFINSV,Finance,equity,184250,3723.69,0.570438
+quant,quant Multi Asset Allocation Fund,2026-08-31,Godrej Properties Limited,INE484J01027,GODREJPROP,Realty,equity,182050,3667.76,0.561869
+quant,quant Multi Asset Allocation Fund,2026-08-31,Biocon Ltd,INE376G01013,BIOCON,Pharmaceuticals & Biotechnology,equity,842500,3471.1,0.531743
+quant,quant Multi Asset Allocation Fund,2026-08-31,Varun Beverages Limited,INE200M01039,VBL,Beverages,equity,707625,2833.68,0.434096
+quant,quant Multi Asset Allocation Fund,2026-08-31,Anand Rathi Share & Stock Brokers Ltd,INE549H01021,ARSSBL,Capital Markets,equity,485064,2467.76,0.37804
+quant,quant Multi Asset Allocation Fund,2026-08-31,ITC Limited,INE154A01025,ITC,Diversified FMCG,equity,609600,1557.53,0.2386
+quant,quant Multi Asset Allocation Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,121113,1406.49,0.215461
+quant,quant Multi Asset Allocation Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,435600,5106.54,0.782278
+quant,quant Multi Asset Allocation Fund,2026-08-31,ITC Limited 29/09/2026,INE154A01025,ITC,Diversified FMCG,derivative,-608925,-1615.48,-0.247477
+quant,quant Multi Asset Allocation Fund,2026-08-31,Varun Beverages Limited 29/09/2026,INE200M01039,VBL,Beverages,derivative,-707625,-2907.63,-0.445424
+quant,quant Multi Asset Allocation Fund,2026-08-31,Biocon Ltd 29/09/2026,INE376G01013,BIOCON,Pharmaceuticals & Biotechnology,derivative,-842500,-3428.55,-0.525225
+quant,quant Multi Asset Allocation Fund,2026-08-31,Godrej Properties Limited 29/09/2026,INE484J01027,GODREJPROP,Realty,derivative,-182000,-3666.39,-0.561659
+quant,quant Multi Asset Allocation Fund,2026-08-31,Bajaj Finserv Ltd. 29/09/2026,INE918I01026,BAJAJFINSV,Finance,derivative,-184200,-3691.92,-0.56557
+quant,quant Multi Asset Allocation Fund,2026-08-31,Tata Motors Passenger Vehicles Limited 29/09/2026,INE155A01022,TMPV,Automobiles,derivative,-1614400,-5150.74,-0.789049
+quant,quant Multi Asset Allocation Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,-800850,-5396.53,-0.826702
+quant,quant Multi Asset Allocation Fund,2026-08-31,Tata Steel Limited 29/09/2026,INE081A01020,TATASTEEL,Ferrous Metals,derivative,-3828000,-7014.43,-1.07455
+quant,quant Multi Asset Allocation Fund,2026-08-31,Premier Energies Limited 29/09/2026,INE0BS701011,PREMIERENE,Electrical Equipment,derivative,-990600,-10061.52,-1.541339
+quant,quant Multi Asset Allocation Fund,2026-08-31,Larsen & Toubro Limited 29/09/2026,INE018A01030,LT,Construction,derivative,-257775,-10448.65,-1.600643
+quant,quant Multi Asset Allocation Fund,2026-08-31,HDFC Bank Limited 29/09/2026,INE040A01034,HDFCBANK,Banks,derivative,-1918150,-13719.57,-2.101719
+quant,quant Multi Asset Allocation Fund,2026-08-31,ICICI Bank Limited 29/09/2026,INE090A01021,ICICIBANK,Banks,derivative,-2601900,-37875.86,-5.802255
+quant,quant Multi Asset Allocation Fund,2026-08-31,6.92% GOI 18-Nov-2039,IN0020240134,,SOV,debt,6500000,6422.42,0.98386
+quant,quant Multi Asset Allocation Fund,2026-08-31,6.79% GOI - 07-OCT-2034,IN0020240126,,SOV,debt,3500000,3480,0.533106
+quant,quant Multi Asset Allocation Fund,2026-08-31,7.09% GOI 05-AUG-2054,IN0020240118,,SOV,debt,3500000,3305.35,0.506351
+quant,quant Multi Asset Allocation Fund,2026-08-31,7.27% Gujarat SDL - 17-Dec-2034,IN1520250227,,SOV,debt,2500000,2469.15,0.378252
+quant,quant Multi Asset Allocation Fund,2026-08-31,7.23% Maharashtra SDL - 04-Sep-2035,IN2220240229,,SOV,debt,2500000,2443.53,0.374328
+quant,quant Multi Asset Allocation Fund,2026-08-31,6.9% GOI 15-Apr-2065,IN0020250018,800808,SOV,debt,2500000,2269.51,0.34767
+quant,quant Multi Asset Allocation Fund,2026-08-31,6.48% GOI 06-Oct-2035,IN0020250091,,SOV,debt,2000000,1942.03,0.297502
+quant,quant Multi Asset Allocation Fund,2026-08-31,5.74% GOI - 15-Nov-2026,IN0020210186,,SOV,debt,1600000,1601.26,0.245299
+quant,quant Multi Asset Allocation Fund,2026-08-31,6.64% GOI - 16-Jun-2035,IN0020210020,,SOV,debt,1166400,1143.54,0.17518
+quant,quant Multi Asset Allocation Fund,2026-08-31,7.26% GOI MAT 06-Feb-2033,IN0020220151,800576,SOV,debt,1000000,1028.25,0.157519
+quant,quant Multi Asset Allocation Fund,2026-08-31,7.29% GOI SGRB MAT 27-Jan-2033,IN0020220144,,SOV,debt,1000000,1028.06,0.15749
+quant,quant Multi Asset Allocation Fund,2026-08-31,Muthoot Finance Ltd CP 08-Sep-2026,INE414G14UT3,,A1+,debt,1500000,1498.03,0.229486
+quant,quant Multi Asset Allocation Fund,2026-08-31,NABARD CD 19-Jan-2027,INE261F16AE9,,A1+,debt,10000000,9743.99,1.492695
+quant,quant Multi Asset Allocation Fund,2026-08-31,EXIM Bank CD 11-Nov-2026,INE514E16CN1,,A1+,debt,7500000,7408.14,1.134863
+quant,quant Multi Asset Allocation Fund,2026-08-31,Canara Bank CD 28-Jan-2027,INE476A16G28,,A1+,debt,5000000,4866.38,0.745487
+quant,quant Multi Asset Allocation Fund,2026-08-31,SIDBI CD 25-Mar-2027,INE556F16CD0,,A1+,debt,4000000,3850.77,0.589904
+quant,quant Multi Asset Allocation Fund,2026-08-31,Canara Bank CD 29-Jun-2027,INE476A16K22,,A1+,debt,4000000,3775.81,0.578421
+quant,quant Multi Asset Allocation Fund,2026-08-31,SIDBI CD 27-Oct-2026,INE556F16BN1,,A1+,debt,1000000,990.39,0.151719
+quant,quant Multi Asset Allocation Fund,2026-08-31,182 Days Treasury Bill 19-Nov-2026,IN002026Y071,,SOV,debt,5000000,4943.72,0.757334
+quant,quant Multi Asset Allocation Fund,2026-08-31,364 Days Treasury Bill 15-JAN-2027,IN002025Z419,,SOV,debt,5000000,4898.35,0.750384
+quant,quant Multi Asset Allocation Fund,2026-08-31,0% GS2027 CSTRIP 12 Sep 2027,IN000927C052,,SOV,debt,2024000,1903.19,0.291552
+quant,quant Multi Asset Allocation Fund,2026-08-31,0% GS2027 CSTRIP 12 Sep 2026,IN000926C054,,SOV,debt,1300000,1297.88,0.198824
+quant,quant Multi Asset Allocation Fund,2026-08-31,364 Days Treasury Bill 19-Mar-2027,IN002025Z500,,SOV,debt,200000,194.02,0.029722
+quant,quant Multi Asset Allocation Fund,2026-08-31,Nippon India ETF Gold Bees,INF204KB17I5,GOLDBEES,,other,46176293,58791.66,9.006375
+quant,quant Multi Asset Allocation Fund,2026-08-31,Nippon India MF- Nippon India Silver ETF,INF204KC1402,SILVERBEES,,other,4826986,10774.32,1.650532
+quant,quant Multi Asset Allocation Fund,2026-08-31,quant Silver ETF - Direct Growth,INF966L01EI5,SILVER001,,other,20976505,4946.26,0.757724
+quant,quant Multi Asset Allocation Fund,2026-08-31,QUANT GILT FUND -DIRECT PLAN-GROWTH,INF966L01BF7,,,other,999950,125.78,0.019269
+quant,quant Multi Asset Allocation Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,615530.5,61553.05,9.429396
+quant,quant Multi Asset Allocation Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,97884.43,14.99505
+quant,quant Large & Mid Cap Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,1976168,33930.8,9.729353
+quant,quant Large & Mid Cap Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,1749659,31399.38,9.00349
+quant,quant Large & Mid Cap Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,16633720,28390.43,8.140702
+quant,quant Large & Mid Cap Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,785708,22464.18,6.441401
+quant,quant Large & Mid Cap Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,1633862,19849.79,5.691749
+quant,quant Large & Mid Cap Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,9082938,17984.22,5.156813
+quant,quant Large & Mid Cap Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,3617363,16012.26,4.591371
+quant,quant Large & Mid Cap Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,1206835,12506.43,3.586107
+quant,quant Large & Mid Cap Fund,2026-08-31,Sona BLW Precision Forgings Limited,INE073K01018,SONACOMS,Auto Components,equity,1342600,10916.01,3.130068
+quant,quant Large & Mid Cap Fund,2026-08-31,K.P.R. Mill Limited,INE930H01031,KPRMILL,Textiles & Apparels,equity,914615,10770.51,3.088346
+quant,quant Large & Mid Cap Fund,2026-08-31,Tata Communications Limited,INE151A01013,TATACOMM,Telecom - Services,equity,592548,10211.97,2.928191
+quant,quant Large & Mid Cap Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,689400,8006,2.295649
+quant,quant Large & Mid Cap Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,1761099,5987.74,1.71693
+quant,quant Large & Mid Cap Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,422350,5986.39,1.716543
+quant,quant Large & Mid Cap Fund,2026-08-31,AWL Agri Business Limited,INE699H01024,AWL,Agricultural Food & other Products,equity,2863745,5514.14,1.58113
+quant,quant Large & Mid Cap Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,988928,4133.72,1.185307
+quant,quant Large & Mid Cap Fund,2026-08-31,3M India Limited,INE470A01017,3MINDIA,Diversified,equity,12200,4065.04,1.165614
+quant,quant Large & Mid Cap Fund,2026-08-31,Hexaware Technologies Limited,INE093A01041,HEXT,IT - Software,equity,565559,3137.44,0.899632
+quant,quant Large & Mid Cap Fund,2026-08-31,Procter & Gamble Hygiene & Health Care Limited,INE179A01014,PGHH,Personal Products,equity,13803,1101.41,0.31582
+quant,quant Large & Mid Cap Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,1023625,19189.9,5.502531
+quant,quant Large & Mid Cap Fund,2026-08-31,Glenmark Pharmaceuticals Ltd 29/09/2026,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,derivative,571500,14318.36,4.105661
+quant,quant Large & Mid Cap Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,2026350,13654.56,3.915322
+quant,quant Large & Mid Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,973750,11846.64,3.396918
+quant,quant Large & Mid Cap Fund,2026-08-31,LTIMindtree Limited 29/09/2026,INE214T01019,LTM,IT - Software,derivative,228300,10325.32,2.960694
+quant,quant Large & Mid Cap Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,433575,10133.08,2.90557
+quant,quant Large & Mid Cap Fund,2026-08-31,Info Edge (India) Ltd 29/09/2026,INE663F01032,NAUKRI,Retailing,derivative,677050,9220.74,2.643965
+quant,quant Large & Mid Cap Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,98100,1150.03,0.32976
+quant,quant Large & Mid Cap Fund,2026-08-31,Torrent Pharmaceuticals Ltd 29/09/2026,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,derivative,20500,1013.73,0.290677
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,2500000,2499.29,0.716648
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,2500000,2494.53,0.715285
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,2500000,2492.15,0.714601
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,2500000,2471.86,0.708783
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,2000000,1985.85,0.569424
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1500000,1498.09,0.429563
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,1500000,1493.73,0.428313
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1500000,1481.39,0.424776
+quant,quant Large & Mid Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,500000,497.42,0.14263
+quant,quant Large & Mid Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,741700.9,74170.09,21.267607
+quant,quant Large & Mid Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-85557.85,-24.532944
+quant,quant Manufacturing Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,423544,7272.25,9.861992
+quant,quant Manufacturing Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1624875,7192.51,9.753854
+quant,quant Manufacturing Fund,2026-08-31,Ador Welding Limited,INE045A01017,ADOR,Industrial Products,equity,379436,6470.14,8.774244
+quant,quant Manufacturing Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,223892,6401.3,8.68088
+quant,quant Manufacturing Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,1056863,5605.6,7.601828
+quant,quant Manufacturing Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,305592,5484.15,7.437132
+quant,quant Manufacturing Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,437613,5316.56,7.209856
+quant,quant Manufacturing Fund,2026-08-31,Ravindra Energy Limited,INE206N01018,RELTD,Electrical Equipment,equity,2864864,4560,6.18388
+quant,quant Manufacturing Fund,2026-08-31,Gujarat Themis Biosyn Ltd,INE942C01045,GUJTHEM,Pharmaceuticals & Biotechnology,equity,996000,4205.11,5.702606
+quant,quant Manufacturing Fund,2026-08-31,Sumitomo Chemical India Limited,INE258G01013,SUMICHEM,Fertilizers & Agrochemicals,equity,637907,3300.85,4.476325
+quant,quant Manufacturing Fund,2026-08-31,Tata Chemicals Ltd,INE092A01019,TATACHEM,Chemicals & Petrochemicals,equity,329874,2121.09,2.876437
+quant,quant Manufacturing Fund,2026-08-31,Pfizer Ltd,INE182A01018,PFIZER,Pharmaceuticals & Biotechnology,equity,21720,1017.45,1.379779
+quant,quant Manufacturing Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,46161,783.72,1.062815
+quant,quant Manufacturing Fund,2026-08-31,PTC India Limited,INE877F01012,PTC,Power,equity,208009,313.86,0.425636
+quant,quant Manufacturing Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,493000,6414.42,8.698682
+quant,quant Manufacturing Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,56900,5264.39,7.139104
+quant,quant Manufacturing Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,96425,1807.68,2.451417
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,550000,544.91,0.738959
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,550000,543.18,0.73661
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,500000,499.86,0.677863
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,500000,499.36,0.677192
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,500000,498.91,0.676574
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,500000,497.91,0.675221
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,500000,496.94,0.673903
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,500000,496.46,0.673259
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,500000,495.95,0.672559
+quant,quant Manufacturing Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,500000,494.37,0.670424
+quant,quant Manufacturing Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,87648.4,8764.84,11.886112
+quant,quant Manufacturing Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-13623.6,-18.475145
+quant,quant ELSS Tax Saver Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,9121299,132623.69,9.854889
+quant,quant ELSS Tax Saver Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,75189750,128333.87,9.536125
+quant,quant ELSS Tax Saver Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,6652259,114219.29,8.487311
+quant,quant ELSS Tax Saver Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,52302543,103559.04,7.695177
+quant,quant ELSS Tax Saver Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,4903757,59575.74,4.426904
+quant,quant ELSS Tax Saver Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,1932477,59232.35,4.401388
+quant,quant ELSS Tax Saver Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,3119319,56518.94,4.199762
+quant,quant ELSS Tax Saver Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,3918593,55542.14,4.127178
+quant,quant ELSS Tax Saver Fund,2026-08-31,Tata Power Company Limited,INE245A01021,TATAPOWER,Power,equity,15986665,55473.73,4.122095
+quant,quant ELSS Tax Saver Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,11769845,52099.22,3.871345
+quant,quant ELSS Tax Saver Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,6715209,46405.45,3.448257
+quant,quant ELSS Tax Saver Fund,2026-08-31,Divi's Laboratories Limited,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,equity,470156,44509.67,3.307387
+quant,quant ELSS Tax Saver Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,4083769,42320.1,3.144686
+quant,quant ELSS Tax Saver Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,1285776,36761.62,2.731652
+quant,quant ELSS Tax Saver Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,2083429,35372.46,2.628427
+quant,quant ELSS Tax Saver Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,3085962,34988.64,2.599906
+quant,quant ELSS Tax Saver Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,12631600,32395,2.40718
+quant,quant ELSS Tax Saver Fund,2026-08-31,Tata Consultancy Services Limited,INE467B01029,TCS,IT - Software,equity,1128269,27070.56,2.011536
+quant,quant ELSS Tax Saver Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,1984848,25346.51,1.883427
+quant,quant ELSS Tax Saver Fund,2026-08-31,Kotak Mahindra Bank Limited,INE237A01036,KOTAKBANK,Banks,equity,4593105,19263.48,1.431415
+quant,quant ELSS Tax Saver Fund,2026-08-31,Swan Defence and Heavy Industries Ltd,INE542F01020,SWANDEF,Industrial Manufacturing,equity,657922,16105.93,1.196786
+quant,quant ELSS Tax Saver Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,655815,11769.26,0.87454
+quant,quant ELSS Tax Saver Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,893589,10377.25,0.771104
+quant,quant ELSS Tax Saver Fund,2026-08-31,Ventive Hospitality Limited,INE781S01027,VENTIVE,Leisure Services,equity,1388512,8208.88,0.609979
+quant,quant ELSS Tax Saver Fund,2026-08-31,LTIMindtree Limited,INE214T01019,LTM,IT - Software,equity,170111,7723.04,0.573877
+quant,quant ELSS Tax Saver Fund,2026-08-31,Welspun Living Limited,INE192B01031,WELSPUNLIV,Textiles & Apparels,equity,3240519,6358.22,0.472461
+quant,quant ELSS Tax Saver Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,1294416,5032.69,0.373965
+quant,quant ELSS Tax Saver Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,1120489,4683.64,0.348028
+quant,quant ELSS Tax Saver Fund,2026-08-31,Afcons Infrastructure Limited,INE101I01011,AFCONS,Construction,equity,1226109,3502.38,0.260252
+quant,quant ELSS Tax Saver Fund,2026-08-31,Krystal Integrated Services Limited,INE0QN801017,KRYSTAL,Commercial Services & Supplies,equity,525704,3294.85,0.244831
+quant,quant ELSS Tax Saver Fund,2026-08-31,Embassy Developments Limited,INE069I01010,EMBDL,Realty,equity,5188813,3220.7,0.239321
+quant,quant ELSS Tax Saver Fund,2026-08-31,Juniper Hotels Limited,INE696F01016,JUNIPER,Leisure Services,equity,1336243,2864.37,0.212843
+quant,quant ELSS Tax Saver Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,1042934.4,104293.44,7.749749
+quant,quant ELSS Tax Saver Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-3280.75,-0.243783
+quant,quant Multi Cap Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,4257303,73097.89,9.463038
+quant,quant Multi Cap Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,2865182,41659.75,5.393148
+quant,quant Multi Cap Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,18840984,37305.15,4.829415
+quant,quant Multi Cap Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,1197088,34225.94,4.43079
+quant,quant Multi Cap Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,8808966,29950.48,3.877301
+quant,quant Multi Cap Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,17484000,29841.69,3.863217
+quant,quant Multi Cap Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,2269622,27573.64,3.569602
+quant,quant Multi Cap Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,1341942,22783.49,2.949484
+quant,quant Multi Cap Fund,2026-08-31,Swan Corp Limited,INE665A01038,SWANCORP,Chemicals & Petrochemicals,equity,6537314,19173.94,2.482202
+quant,quant Multi Cap Fund,2026-08-31,IRB Infrastructure Developers Limited,INE821I01022,IRB,Construction,equity,90215884,17465.8,2.26107
+quant,quant Multi Cap Fund,2026-08-31,AWL Agri Business Limited,INE699H01024,AWL,Agricultural Food & other Products,equity,8928426,17191.68,2.225585
+quant,quant Multi Cap Fund,2026-08-31,CRISIL Limited,INE007A01025,CRISIL,Finance,equity,349522,16853.25,2.181772
+quant,quant Multi Cap Fund,2026-08-31,K.P.R. Mill Limited,INE930H01031,KPRMILL,Textiles & Apparels,equity,1315789,15494.73,2.005902
+quant,quant Multi Cap Fund,2026-08-31,SUN TV Network Limited,INE424H01027,SUNTV,Entertainment,equity,3261000,15201.15,1.967896
+quant,quant Multi Cap Fund,2026-08-31,LIC Housing Finance Ltd,INE115A01026,LICHSGFIN,Finance,equity,2779729,14966.06,1.937462
+quant,quant Multi Cap Fund,2026-08-31,Strides Pharma Science Ltd,INE939A01011,STAR,Pharmaceuticals & Biotechnology,equity,1422000,14575.5,1.886901
+quant,quant Multi Cap Fund,2026-08-31,Embassy Developments Limited,INE069I01010,EMBDL,Realty,equity,22852575,14184.59,1.836296
+quant,quant Multi Cap Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,1000000,14174,1.834924
+quant,quant Multi Cap Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,1194348,13869.96,1.795565
+quant,quant Multi Cap Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,634263,11492.21,1.487748
+quant,quant Multi Cap Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,1099054,11389.5,1.474451
+quant,quant Multi Cap Fund,2026-08-31,Torrent Pharmaceuticals Ltd,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,equity,220000,11145.2,1.442825
+quant,quant Multi Cap Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,526769,9453.4,1.223809
+quant,quant Multi Cap Fund,2026-08-31,Century Enka Limited,INE485A01015,CENTENKA,Textiles & Apparels,equity,1720053,9405.25,1.217576
+quant,quant Multi Cap Fund,2026-08-31,Maharashtra Seamless Ltd,INE271B01025,MAHSEAMLES,Industrial Products,equity,1382031,9165.63,1.186555
+quant,quant Multi Cap Fund,2026-08-31,Welspun Corp Limited,INE191B01025,WELCORP,Industrial Products,equity,374610,8956.93,1.159537
+quant,quant Multi Cap Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,1675485,8886.77,1.150455
+quant,quant Multi Cap Fund,2026-08-31,Honda India Power Products Limited,INE634A01018,HONDAPOWER,Industrial Manufacturing,equity,432082,8719.41,1.12879
+quant,quant Multi Cap Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,3463172,8626.42,1.11675
+quant,quant Multi Cap Fund,2026-08-31,Tata Communications Limited,INE151A01013,TATACOMM,Telecom - Services,equity,499229,8603.71,1.113811
+quant,quant Multi Cap Fund,2026-08-31,Gujarat State Fert & Chemicals Ltd,INE026A01025,GSFC,Fertilizers & Agrochemicals,equity,4991068,7893.37,1.021853
+quant,quant Multi Cap Fund,2026-08-31,Juniper Hotels Limited,INE696F01016,JUNIPER,Leisure Services,equity,3227555,6918.59,0.89566
+quant,quant Multi Cap Fund,2026-08-31,NCC Ltd,INE868B01028,NCC,Construction,equity,3612332,5359.62,0.69384
+quant,quant Multi Cap Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,757576,5235.23,0.677737
+quant,quant Multi Cap Fund,2026-08-31,IDBI Bank Limited,INE008A01015,IDBI,Banks,equity,5282728,4800.94,0.621516
+quant,quant Multi Cap Fund,2026-08-31,Poly Medicure Limited,INE205C01021,POLYMED,Healthcare Equipment & Supplies,equity,264798,4659.39,0.60319
+quant,quant Multi Cap Fund,2026-08-31,Aditya Birla Lifestyle Brands Limited,INE14LE01019,ABLBL,Retailing,equity,5036010,4366.72,0.565303
+quant,quant Multi Cap Fund,2026-08-31,Indo Count Industries Limited,INE483B01026,ICIL,Textiles & Apparels,equity,922314,4329.8,0.560524
+quant,quant Multi Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd,INE298J01013,NAM-INDIA,Capital Markets,equity,320462,3756.78,0.486341
+quant,quant Multi Cap Fund,2026-08-31,YES Bank Ltd.,INE528G01035,YESBANK,Banks,equity,15268120,3485.71,0.45125
+quant,quant Multi Cap Fund,2026-08-31,Usha Martin Limited,INE228A01035,USHAMART,Industrial Products,equity,698546,3485.4,0.451209
+quant,quant Multi Cap Fund,2026-08-31,Tata Chemicals Ltd,INE092A01019,TATACHEM,Chemicals & Petrochemicals,equity,404182,2598.89,0.336445
+quant,quant Multi Cap Fund,2026-08-31,Pfizer Ltd,INE182A01018,PFIZER,Pharmaceuticals & Biotechnology,equity,53834,2521.8,0.326465
+quant,quant Multi Cap Fund,2026-08-31,3M India Limited,INE470A01017,3MINDIA,Diversified,equity,7304,2433.69,0.315059
+quant,quant Multi Cap Fund,2026-08-31,Glaxosmithkline Pharmaceuticals Ltd,INE159A01016,GLAXO,Pharmaceuticals & Biotechnology,equity,60000,1830.06,0.236914
+quant,quant Multi Cap Fund,2026-08-31,Digitide Solutions Limited,INE0U4701011,DIGITIDE,IT - Services,equity,1425304,1386.82,0.179534
+quant,quant Multi Cap Fund,2026-08-31,Lancer Container Lines Ltd.,INE359U01028,LANCER,Transport Services,equity,5780096,758.35,0.098174
+quant,quant Multi Cap Fund,2026-08-31,Aditya Birla Fashion And Retail Ltd,INE647O01011,ABFRL,Retailing,equity,1124917,586.08,0.075872
+quant,quant Multi Cap Fund,2026-08-31,Mahindra Holidays & Resorts Ind Ltd,INE998I01010,MHRIL,Leisure Services,equity,199882,419.05,0.054249
+quant,quant Multi Cap Fund,2026-08-31,Rossell India Limited,INE847C01020,ROSSELLIND,Agricultural Food & other Products,equity,101451,59.31,0.007678
+quant,quant Multi Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,1141875,13892.05,1.798424
+quant,quant Multi Cap Fund,2026-08-31,Info Edge (India) Ltd 29/09/2026,INE663F01032,NAUKRI,Retailing,derivative,823350,11213.2,1.451628
+quant,quant Multi Cap Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,452475,10574.79,1.368982
+quant,quant Multi Cap Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,109600,10140.19,1.312719
+quant,quant Multi Cap Fund,2026-08-31,Tata Power Company Limited 29/09/2026,INE245A01021,TATAPOWER,Power,derivative,2820250,9886.39,1.279862
+quant,quant Multi Cap Fund,2026-08-31,Infosys Limited 29/09/2026,INE009A01021,INFY,IT - Software,derivative,677600,7694.15,0.996062
+quant,quant Multi Cap Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,404225,7578.01,0.981026
+quant,quant Multi Cap Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,531000,6224.91,0.805859
+quant,quant Multi Cap Fund,2026-08-31,Glenmark Pharmaceuticals Ltd 29/09/2026,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,derivative,154500,3870.84,0.501108
+quant,quant Multi Cap Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,550050,3706.51,0.479834
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,3500000,3499,0.452971
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,3500000,3489.01,0.451677
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,3000000,2993.44,0.387522
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,3000000,2978.77,0.385623
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,3000000,2966.23,0.383999
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,2500000,2496.81,0.32323
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,2500000,2479.73,0.321019
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,2500000,2468.99,0.319628
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,2000000,1991.64,0.257831
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,2000000,1987.75,0.257328
+quant,quant Multi Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,1500000,1492.26,0.193183
+quant,quant Multi Cap Fund,2026-08-31,QUANT HEALTHCARE -DIRECT PLAN-GROWTH,INF966L01CD0,,,other,14478240.19,2811.33,0.363946
+quant,quant Multi Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,956664.4,95666.44,12.384695
+quant,quant Multi Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-81964.23,-10.610848
+quant,quant PSU Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,960790,4252.94,9.86808
+quant,quant PSU Fund,2026-08-31,Container Corporation of India Ltd,INE111A01025,CONCOR,Transport Services,equity,827950,4238.28,9.834062
+quant,quant PSU Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,1009504,4219.73,9.791022
+quant,quant PSU Fund,2026-08-31,Shipping Corporation Of India Limited,INE109A01011,SCI,Transport Services,equity,1453620,4209.68,9.767719
+quant,quant PSU Fund,2026-08-31,LIC Housing Finance Ltd,INE115A01026,LICHSGFIN,Finance,equity,736127,3963.31,9.196054
+quant,quant PSU Fund,2026-08-31,Cochin Shipyard Limited,INE704P01025,COCHINSHIP,Industrial Manufacturing,equity,248058,3745.68,8.691083
+quant,quant PSU Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,305996,3717.55,8.625812
+quant,quant PSU Fund,2026-08-31,PTC India Limited,INE877F01012,PTC,Power,equity,2394476,3613.02,8.383293
+quant,quant PSU Fund,2026-08-31,Coal India Ltd,INE522F01014,COALINDIA,Consumable Fuels,equity,459079,1844.35,4.279441
+quant,quant PSU Fund,2026-08-31,Union Bank of India 29/09/2026,INE692A01016,UNIONBANK,Banks,derivative,2252325,4172.88,9.68233
+quant,quant PSU Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,386250,4068.37,9.439833
+quant,quant PSU Fund,2026-08-31,NHPC Ltd 29/09/2026,INE848E01016,NHPC,Power,derivative,1146750,853.53,1.980435
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,400000,399.89,0.927855
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,400000,399.49,0.926936
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,400000,399.13,0.926089
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,400000,397.17,0.921552
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,400000,396.76,0.920595
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,350000,346.76,0.804588
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,300000,298.16,0.691826
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,300000,296.62,0.688253
+quant,quant PSU Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,300000,296.28,0.687455
+quant,quant PSU Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,54102.4,5410.24,12.553368
+quant,quant PSU Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-8441.88,-19.587681
+quant,quant Aggressive Hybrid Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,675047,19300.27,8.942492
+quant,quant Aggressive Hybrid Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,1012165,17378.87,8.052242
+quant,quant Aggressive Hybrid Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,1361098,16535.98,7.6617
+quant,quant Aggressive Hybrid Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,6902987,13667.91,6.332824
+quant,quant Aggressive Hybrid Fund,2026-08-31,Tata Consultancy Services Limited,INE467B01029,TCS,IT - Software,equity,552589,13258.27,6.143021
+quant,quant Aggressive Hybrid Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,3169545,13248.7,6.138587
+quant,quant Aggressive Hybrid Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,612182,11092.13,5.139371
+quant,quant Aggressive Hybrid Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,806997,10305.35,4.774831
+quant,quant Aggressive Hybrid Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1939083,8583.35,3.976968
+quant,quant Aggressive Hybrid Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,675485,7844.41,3.634589
+quant,quant Aggressive Hybrid Fund,2026-08-31,State Bank of India,INE062A01020,SBIN,Banks,equity,595786,6315.33,2.926115
+quant,quant Aggressive Hybrid Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,512545,5811.24,2.692549
+quant,quant Aggressive Hybrid Fund,2026-08-31,LTIMindtree Limited,INE214T01019,LTM,IT - Software,equity,80977,3676.36,1.703385
+quant,quant Aggressive Hybrid Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,661500,8606.78,3.987822
+quant,quant Aggressive Hybrid Fund,2026-08-31,Infosys Limited 29/09/2026,INE009A01021,INFY,IT - Software,derivative,739200,8393.62,3.889057
+quant,quant Aggressive Hybrid Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,46100,4265.17,1.976204
+quant,quant Aggressive Hybrid Fund,2026-08-31,7.23% Maharashtra SDL - 04-Sep-2035,IN2220240229,,SOV,debt,5000000,4887.07,2.264349
+quant,quant Aggressive Hybrid Fund,2026-08-31,6.79% GOI - 07-OCT-2034,IN0020240126,,SOV,debt,3500000,3480,1.612407
+quant,quant Aggressive Hybrid Fund,2026-08-31,9% Capri Global Capital Ltd 30Apr2028,INE180C07288,941035,,debt,2500000,2486.28,1.151982
+quant,quant Aggressive Hybrid Fund,2026-08-31,6.9% GOI 15-Apr-2065,IN0020250018,800808,SOV,debt,2500000,2269.51,1.051545
+quant,quant Aggressive Hybrid Fund,2026-08-31,7.26% GOI MAT 06-Feb-2033,IN0020220151,800576,SOV,debt,2000000,2056.51,0.952851
+quant,quant Aggressive Hybrid Fund,2026-08-31,6.64% GOI - 16-Jun-2035,IN0020210020,,SOV,debt,1833600,1797.66,0.832918
+quant,quant Aggressive Hybrid Fund,2026-08-31,7.29% GOI SGRB MAT 27-Jan-2033,IN0020220144,,SOV,debt,1000000,1028.06,0.476337
+quant,quant Aggressive Hybrid Fund,2026-08-31,5.74% GOI - 15-Nov-2026,IN0020210186,,SOV,debt,400000,400.31,0.18548
+quant,quant Aggressive Hybrid Fund,2026-08-31,SIDBI CD 10-Nov-2026,INE556F16BR2,,A1+,debt,10000000,9877.91,4.576782
+quant,quant Aggressive Hybrid Fund,2026-08-31,364 Days Treasury Bill 19-Feb-2027,IN002025Z468,,SOV,debt,10000000,9744.03,4.514751
+quant,quant Aggressive Hybrid Fund,2026-08-31,182 Days Treasury Bill 19-Nov-2026,IN002026Y071,,SOV,debt,5000000,4943.72,2.290597
+quant,quant Aggressive Hybrid Fund,2026-08-31,Gsec Strip Mat 12/03/28,IN000328C053,,SOV,debt,1860800,1692.27,0.78409
+quant,quant Aggressive Hybrid Fund,2026-08-31,QUANT GILT FUND -DIRECT PLAN-GROWTH,INF966L01BF7,,,other,4999750,628.9,0.291393
+quant,quant Aggressive Hybrid Fund,2026-08-31,Raajmarg Infra Investment Trust (InvIT),INE2PB023011,544734,Transport Infrastructure,other,900000,1093.41,0.506615
+quant,quant Aggressive Hybrid Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,221960.7,22196.07,10.284218
+quant,quant Aggressive Hybrid Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-21038.93,-9.748073
+quant,quant Momentum Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,548121,12608.98,9.306302
+quant,quant Momentum Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,3194178,12418.96,9.16606
+quant,quant Momentum Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,708612,12166.87,8.979996
+quant,quant Momentum Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,395958,11320.84,8.355565
+quant,quant Momentum Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,827061,10047.96,7.416097
+quant,quant Momentum Fund,2026-08-31,Reliance Industries Limited,INE002A01018,RELIANCE,Petroleum Products,equity,717241,9159.17,6.760104
+quant,quant Momentum Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1498636,6633.71,4.896142
+quant,quant Momentum Fund,2026-08-31,Hexaware Technologies Limited,INE093A01041,HEXT,IT - Software,equity,1039372,5765.92,4.255648
+quant,quant Momentum Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,1233692,5156.83,3.806102
+quant,quant Momentum Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,1926274,4798.16,3.541373
+quant,quant Momentum Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,218606,3960.92,2.923436
+quant,quant Momentum Fund,2026-08-31,Torrent Pharmaceuticals Ltd,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,equity,78125,3957.81,2.921141
+quant,quant Momentum Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,455625,10648.41,7.85927
+quant,quant Momentum Fund,2026-08-31,Kotak Mahindra Bank Limited 29/09/2026,INE237A01036,KOTAKBANK,Banks,derivative,2286000,9755.51,7.200242
+quant,quant Momentum Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,1030750,6945.71,5.126417
+quant,quant Momentum Fund,2026-08-31,LTIMindtree Limited 29/09/2026,INE214T01019,LTM,IT - Software,derivative,120900,5467.94,4.035724
+quant,quant Momentum Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,242500,3155.17,2.328733
+quant,quant Momentum Fund,2026-08-31,Life Insurance Corporation Of India 29/09/2026,INE0J1Y01017,LICI,Insurance,derivative,359800,1506.84,1.112155
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,1000000,999.72,0.737859
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1000000,998.73,0.737129
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,1000000,997.81,0.736455
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,1000000,993.88,0.733549
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,1000000,992.92,0.732847
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,1000000,991.89,0.732086
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,1000000,990.75,0.731239
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,1000000,988.74,0.729761
+quant,quant Momentum Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1000000,987.6,0.728915
+quant,quant Momentum Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,275010.9,27501.09,20.29772
+quant,quant Momentum Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-36430.26,-26.888066
+quant,quant Value Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,856385,19700.28,9.962009
+quant,quant Value Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,615555,17599.33,8.899605
+quant,quant Value Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,1226742,14903.69,7.536475
+quant,quant Value Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,3756103,14603.73,7.384792
+quant,quant Value Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,5507022,13717.44,6.936615
+quant,quant Value Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,6698595,13263.22,6.706924
+quant,quant Value Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,2160375,9562.9,4.835753
+quant,quant Value Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,495566,8508.87,4.302752
+quant,quant Value Fund,2026-08-31,Manappuram Finance Ltd,INE522D01027,MANAPPURAM,Finance,equity,1465246,4983.3,2.519949
+quant,quant Value Fund,2026-08-31,BLACKBUCK LIMITED,INE0UIZ01018,BLACKBUCK,Transport Services,equity,725590,4308.55,2.178743
+quant,quant Value Fund,2026-08-31,Tata Power Company Limited,INE245A01021,TATAPOWER,Power,equity,1232112,4275.43,2.161992
+quant,quant Value Fund,2026-08-31,Mangalam Cement Limited,INE347A01017,MANGLMCEM,Cement & Cement Products,equity,288813,3095.35,1.565254
+quant,quant Value Fund,2026-08-31,Life Insurance Corporation Of India,INE0J1Y01017,LICI,Insurance,equity,693241,2897.75,1.465329
+quant,quant Value Fund,2026-08-31,SUN TV Network Limited,INE424H01027,SUNTV,Entertainment,equity,578000,2694.35,1.362473
+quant,quant Value Fund,2026-08-31,NCC Ltd,INE868B01028,NCC,Construction,equity,1714286,2543.49,1.286186
+quant,quant Value Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,972896,2495.09,1.261713
+quant,quant Value Fund,2026-08-31,Aditya Birla Lifestyle Brands Limited,INE14LE01019,ABLBL,Retailing,equity,1790000,1552.11,0.784868
+quant,quant Value Fund,2026-08-31,Digitide Solutions Limited,INE0U4701011,DIGITIDE,IT - Services,equity,1482285,1442.26,0.729322
+quant,quant Value Fund,2026-08-31,Gujarat Themis Biosyn Ltd,INE942C01045,GUJTHEM,Pharmaceuticals & Biotechnology,equity,258000,1089.28,0.550823
+quant,quant Value Fund,2026-08-31,Capacite Infraprojects Limited,INE264T01014,CAPACITE,Construction,equity,92378,197.69,0.099967
+quant,quant Value Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,576900,13482.73,6.817927
+quant,quant Value Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,1938950,13065.61,6.607001
+quant,quant Value Fund,2026-08-31,Life Insurance Corporation Of India 29/09/2026,INE0J1Y01017,LICI,Insurance,derivative,2619400,10970.05,5.547317
+quant,quant Value Fund,2026-08-31,Infosys Limited 29/09/2026,INE009A01021,INFY,IT - Software,derivative,751200,8529.88,4.313375
+quant,quant Value Fund,2026-08-31,LTIMindtree Limited 29/09/2026,INE214T01019,LTM,IT - Software,derivative,99300,4491.04,2.271023
+quant,quant Value Fund,2026-08-31,Adani Power Limited 29/09/2026,INE814H01029,ADANIPOWER,Power,derivative,1143100,2334.78,1.180649
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,1500000,1489.39,0.753151
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1500000,1481.39,0.749109
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,1450000,1436.58,0.726448
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,1400000,1398.22,0.707047
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,1400000,1396.94,0.706402
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,1400000,1388.65,0.702211
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,1400000,1384.24,0.699981
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,1200000,1199.66,0.606641
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,1200000,1192.65,0.603097
+quant,quant Value Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,500000,497.91,0.251782
+quant,quant Value Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,413229.3,41322.93,20.896118
+quant,quant Value Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-52742.64,-26.670821
+quant,quant Business Cycle Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,465467,10707.6,10.874533
+quant,quant Business Cycle Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,577381,9913.63,10.068184
+quant,quant Business Cycle Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,2167432,8426.98,8.558351
+quant,quant Business Cycle Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,660107,8019.64,8.144665
+quant,quant Business Cycle Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,2762652,4715.29,4.788805
+quant,quant Business Cycle Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,452353,4687.73,4.760815
+quant,quant Business Cycle Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,163522,4675.26,4.748144
+quant,quant Business Cycle Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,229720,4122.56,4.186825
+quant,quant Business Cycle Fund,2026-08-31,Tata Chemicals Ltd,INE092A01019,TATACHEM,Chemicals & Petrochemicals,equity,591519,3803.47,3.862763
+quant,quant Business Cycle Fund,2026-08-31,Zydus Wellness Ltd,INE768C01028,ZYDUSWELL,Food Products,equity,671413,3561.17,3.616693
+quant,quant Business Cycle Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,185858,3155.5,3.204691
+quant,quant Business Cycle Fund,2026-08-31,BROOKS Laboratories Limited,INE650L01011,BROOKS,Pharmaceuticals & Biotechnology,equity,2916111,1940.38,1.97063
+quant,quant Business Cycle Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,701000,9120.71,9.262901
+quant,quant Business Cycle Fund,2026-08-31,Infosys Limited 29/09/2026,INE009A01021,INFY,IT - Software,derivative,594800,6753.95,6.859247
+quant,quant Business Cycle Fund,2026-08-31,Kotak Mahindra Bank Limited 29/09/2026,INE237A01036,KOTAKBANK,Banks,derivative,1564000,6674.37,6.778422
+quant,quant Business Cycle Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,312000,3286.3,3.337529
+quant,quant Business Cycle Fund,2026-08-31,LTIMindtree Limited 29/09/2026,INE214T01019,LTM,IT - Software,derivative,50250,2272.66,2.308087
+quant,quant Business Cycle Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,92925,2171.75,2.205607
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,800000,798.25,0.810695
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,800000,797.49,0.80992
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,800000,794.34,0.806723
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,750000,743.06,0.754643
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,750000,740.7,0.752244
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,700000,699.8,0.71071
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,700000,699.11,0.710006
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,700000,692.12,0.70291
+quant,quant Business Cycle Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,600000,596.33,0.605622
+quant,quant Business Cycle Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,234544.3,23454.43,23.82008
+quant,quant Business Cycle Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-29559.62,-30.020444
+quant,quant ESG Integration Strategy Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,795264,3091.99,9.178945
+quant,quant ESG Integration Strategy Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,1126469,2805.92,8.329726
+quant,quant ESG Integration Strategy Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,92753,2651.9,7.872497
+quant,quant ESG Integration Strategy Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,114806,2641,7.840128
+quant,quant ESG Integration Strategy Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,193249,2347.78,6.969682
+quant,quant ESG Integration Strategy Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,792467,2032.36,6.033315
+quant,quant ESG Integration Strategy Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,110632,1899.55,5.639054
+quant,quant ESG Integration Strategy Fund,2026-08-31,BLACKBUCK LIMITED,INE0UIZ01018,BLACKBUCK,Transport Services,equity,315688,1874.56,5.56485
+quant,quant ESG Integration Strategy Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,88338,1499.8,4.45235
+quant,quant ESG Integration Strategy Fund,2026-08-31,Black Box Limited,INE676A01027,BBOX,IT - Services,equity,164025,1226.33,3.640521
+quant,quant ESG Integration Strategy Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,76352,865.68,2.569875
+quant,quant ESG Integration Strategy Fund,2026-08-31,Info Edge (India) Ltd 29/09/2026,INE663F01032,NAUKRI,Retailing,derivative,224400,3056.1,9.072423
+quant,quant ESG Integration Strategy Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,225500,2933.98,8.709885
+quant,quant ESG Integration Strategy Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,65925,1540.73,4.573858
+quant,quant ESG Integration Strategy Fund,2026-08-31,HCL Technologies Limited 29/09/2026,INE860A01027,HCLTECH,IT - Software,derivative,75600,1001.78,2.973895
+quant,quant ESG Integration Strategy Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,63750,775.58,2.302413
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,,debt,300000,299.06,0.88779
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,,debt,250000,247.69,0.735287
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,,debt,250000,247.19,0.733802
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,,debt,250000,246.9,0.73295
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,,debt,200000,199.94,0.593556
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,,debt,200000,199.75,0.592968
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,,debt,200000,199.56,0.592426
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,,debt,200000,199.16,0.591242
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,,debt,200000,198.78,0.590088
+quant,quant ESG Integration Strategy Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,,debt,200000,198.58,0.589524
+quant,quant ESG Integration Strategy Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,85252.3,8525.23,25.308203
+quant,quant ESG Integration Strategy Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-9321.24,-27.671253
+quant,quant Focused Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,260646,7989.06,9.396679
+quant,quant Focused Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,503956,7143.07,8.401633
+quant,quant Focused Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,248257,7097.92,8.348521
+quant,quant Focused Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,582254,7073.8,8.32016
+quant,quant Focused Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,375595,6376.85,7.50041
+quant,quant Focused Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1260462,5579.44,6.562494
+quant,quant Focused Fund,2026-08-31,Divi's Laboratories Limited,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,equity,53175,5034.08,5.921048
+quant,quant Focused Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,2621838,4474.95,5.26341
+quant,quant Focused Fund,2026-08-31,Capri Global Capital Limited,INE180C01042,CGCL,Finance,equity,1742225,4468.11,5.255361
+quant,quant Focused Fund,2026-08-31,Infosys Limited,INE009A01021,INFY,IT - Software,equity,369223,4186.25,4.923839
+quant,quant Focused Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,1338442,3333.93,3.92134
+quant,quant Focused Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,615500,8008.27,9.419274
+quant,quant Focused Fund,2026-08-31,Bharti Airtel Limited 29/09/2026,INE397D01024,BHARTIARTL,Telecom - Services,derivative,392350,7355.39,8.651355
+quant,quant Focused Fund,2026-08-31,State Bank of India 29/09/2026,INE062A01020,SBIN,Banks,derivative,459750,4842.55,5.695771
+quant,quant Focused Fund,2026-08-31,Info Edge (India) Ltd 29/09/2026,INE663F01032,NAUKRI,Retailing,derivative,78650,1071.13,1.259861
+quant,quant Focused Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,5200,481.1,0.565871
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,700000,694.33,0.81666
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,650000,643.98,0.75745
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,650000,641.94,0.755042
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,600000,599.83,0.705515
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,600000,599.24,0.704816
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,600000,598.69,0.704173
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,600000,596.33,0.701393
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,600000,595.75,0.700722
+quant,quant Focused Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,600000,593.25,0.697772
+quant,quant Focused Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,167840.8,16784.08,19.741321
+quant,quant Focused Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-21843.26,-25.691891
+quant,quant Mid Cap Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,4902846,84181.87,10.450127
+quant,quant Mid Cap Fund,2026-08-31,Tata Communications Limited,INE151A01013,TATACOMM,Telecom - Services,equity,3924185,67629.4,8.395346
+quant,quant Mid Cap Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,3671000,65879.77,8.17815
+quant,quant Mid Cap Fund,2026-08-31,IRB Infrastructure Developers Limited,INE821I01022,IRB,Construction,equity,249532148,48309.42,5.997011
+quant,quant Mid Cap Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,12329026,47935.25,5.950563
+quant,quant Mid Cap Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,4038919,41855.32,5.195815
+quant,quant Mid Cap Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,9271500,41040.29,5.09464
+quant,quant Mid Cap Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,2261447,38394.85,4.766241
+quant,quant Mid Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd,INE298J01013,NAM-INDIA,Capital Markets,equity,3167729,37135.29,4.609882
+quant,quant Mid Cap Fund,2026-08-31,Sona BLW Precision Forgings Limited,INE073K01018,SONACOMS,Auto Components,equity,3722720,30267.57,3.757341
+quant,quant Mid Cap Fund,2026-08-31,Linde India Ltd.,INE473A01011,LINDEINDIA,Chemicals & Petrochemicals,equity,429640,27434.66,3.405671
+quant,quant Mid Cap Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,1729725,24517.12,3.043494
+quant,quant Mid Cap Fund,2026-08-31,Glaxosmithkline Pharmaceuticals Ltd,INE159A01016,GLAXO,Pharmaceuticals & Biotechnology,equity,773550,23594.05,2.928906
+quant,quant Mid Cap Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,6796550,23108.27,2.868603
+quant,quant Mid Cap Fund,2026-08-31,IPCA Laboratories Ltd,INE571A01038,IPCALAB,Pharmaceuticals & Biotechnology,equity,800000,15799.2,1.961273
+quant,quant Mid Cap Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,1264500,14684.64,1.822914
+quant,quant Mid Cap Fund,2026-08-31,Container Corporation of India Ltd,INE111A01025,CONCOR,Transport Services,equity,2828930,14481.29,1.797672
+quant,quant Mid Cap Fund,2026-08-31,Persistent Systems Limited,INE262H01021,PERSISTENT,IT - Software,equity,248740,13915.76,1.727468
+quant,quant Mid Cap Fund,2026-08-31,UNITED BREWERIES LIMITED,INE686F01025,UBL,Beverages,equity,743600,9730.01,1.207859
+quant,quant Mid Cap Fund,2026-08-31,AWL Agri Business Limited,INE699H01024,AWL,Agricultural Food & other Products,equity,4962457,9555.21,1.18616
+quant,quant Mid Cap Fund,2026-08-31,Welspun Corp Limited,INE191B01025,WELCORP,Industrial Products,equity,369397,8832.28,1.096418
+quant,quant Mid Cap Fund,2026-08-31,Cochin Shipyard Limited,INE704P01025,COCHINSHIP,Industrial Manufacturing,equity,498951,7534.16,0.935272
+quant,quant Mid Cap Fund,2026-08-31,UPL Limited,INE628A01036,UPL,Fertilizers & Agrochemicals,equity,1162652,6537.01,0.811488
+quant,quant Mid Cap Fund,2026-08-31,Godrej Properties Limited,INE484J01027,GODREJPROP,Realty,equity,206031,4150.91,0.515283
+quant,quant Mid Cap Fund,2026-08-31,IDBI Bank Limited,INE008A01015,IDBI,Banks,equity,4558722,4142.97,0.514298
+quant,quant Mid Cap Fund,2026-08-31,Godrej Properties Limited 29/09/2026,INE484J01027,GODREJPROP,Realty,derivative,1417000,28545.47,3.543563
+quant,quant Mid Cap Fund,2026-08-31,Cochin Shipyard Limited 29/09/2026,INE704P01025,COCHINSHIP,Industrial Manufacturing,derivative,1076800,16338.29,2.028194
+quant,quant Mid Cap Fund,2026-08-31,Dixon Technologies (India) Ltd. 29/09/2026,INE935N01020,DIXON,Consumer Durables,derivative,113100,16310.15,2.024701
+quant,quant Mid Cap Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,798300,9358.47,1.161737
+quant,quant Mid Cap Fund,2026-08-31,Torrent Pharmaceuticals Ltd 29/09/2026,INE685A01028,TORNTPHARM,Pharmaceuticals & Biotechnology,derivative,111250,5501.31,0.682919
+quant,quant Mid Cap Fund,2026-08-31,UPL Limited 29/09/2026,INE628A01036,UPL,Fertilizers & Agrochemicals,derivative,799450,4538.48,0.563395
+quant,quant Mid Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,172500,2098.64,0.260519
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,4000000,3971.7,0.493036
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,3600000,3588.69,0.445491
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,3500000,3499,0.434357
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,3000000,2993.44,0.371598
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,3000000,2966.23,0.36822
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,2500000,2496.81,0.309948
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,2500000,2468.99,0.306494
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,2000000,1991.64,0.247237
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,2000000,1989.67,0.246993
+quant,quant Mid Cap Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,2000000,1987.75,0.246754
+quant,quant Mid Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,632260.7,63226.07,7.848727
+quant,quant Mid Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-78959.06,-9.80178
+quant,quant Teck Fund,2026-08-31,Redington Limited,INE891D01026,REDINGTON,Commercial Services & Supplies,equity,686739,2456.81,9.299294
+quant,quant Teck Fund,2026-08-31,Sonata Software Limited,INE269A01021,SONATSOFTW,IT - Software,equity,821587,2399.44,9.082165
+quant,quant Teck Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,122937,2227.5,8.431318
+quant,quant Teck Fund,2026-08-31,Hexaware Technologies Limited,INE093A01041,HEXT,IT - Software,equity,361398,2004.86,7.5886
+quant,quant Teck Fund,2026-08-31,Black Box Limited,INE676A01027,BBOX,IT - Services,equity,228884,1711.25,6.477276
+quant,quant Teck Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,672142,1674.24,6.337179
+quant,quant Teck Fund,2026-08-31,Digitide Solutions Limited,INE0U4701011,DIGITIDE,IT - Services,equity,1664852,1619.9,6.131505
+quant,quant Teck Fund,2026-08-31,63 moons technologies limited,INE111B01023,63MOONS,IT - Software,equity,172940,1346.94,5.098329
+quant,quant Teck Fund,2026-08-31,BLACKBUCK LIMITED,INE0UIZ01018,BLACKBUCK,Transport Services,equity,176148,1045.97,3.959101
+quant,quant Teck Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,268784,1045.03,3.955563
+quant,quant Teck Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,189500,2465.58,9.332511
+quant,quant Teck Fund,2026-08-31,Info Edge (India) Ltd 29/09/2026,INE663F01032,NAUKRI,Retailing,derivative,180400,2456.87,9.299517
+quant,quant Teck Fund,2026-08-31,LTIMindtree Limited 29/09/2026,INE214T01019,LTM,IT - Software,derivative,53100,2401.55,9.090147
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,200000,199.94,0.756806
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,200000,199.75,0.756057
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,200000,199.56,0.755367
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,200000,199.37,0.754644
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,200000,198.58,0.751666
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,200000,198.15,0.750016
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,200000,197.75,0.7485
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,200000,197.52,0.747632
+quant,quant Teck Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,100000,99.39,0.376193
+quant,quant Teck Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,69995.4,6999.54,26.494036
+quant,quant Teck Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-7126.19,-26.97342
+quant,quant Commodities Fund,2026-08-31,Kalyani Steels Ltd,INE907A01026,KSL,Industrial Products,equity,403724,3672.88,10.723846
+quant,quant Commodities Fund,2026-08-31,Premier Energies Limited,INE0BS701011,PREMIERENE,Electrical Equipment,equity,324630,3364.14,9.82241
+quant,quant Commodities Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,112282,3210.25,9.373103
+quant,quant Commodities Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,244656,2972.33,8.678413
+quant,quant Commodities Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,204300,2895.75,8.454827
+quant,quant Commodities Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,144940,2601.09,7.594511
+quant,quant Commodities Fund,2026-08-31,HFCL Limited,INE548A01028,HFCL,Telecom - Services,equity,966919,2408.5,7.032185
+quant,quant Commodities Fund,2026-08-31,Sumitomo Chemical India Limited,INE258G01013,SUMICHEM,Fertilizers & Agrochemicals,equity,409897,2121.01,6.1928
+quant,quant Commodities Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,557046,1102.95,3.220328
+quant,quant Commodities Fund,2026-08-31,PTC India Limited,INE877F01012,PTC,Power,equity,235794,355.79,1.038812
+quant,quant Commodities Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,246000,3200.71,9.345224
+quant,quant Commodities Fund,2026-08-31,Tata Power Company Limited 29/09/2026,INE245A01021,TATAPOWER,Power,derivative,703250,2465.24,7.197864
+quant,quant Commodities Fund,2026-08-31,Adani Power Limited 29/09/2026,INE814H01029,ADANIPOWER,Power,derivative,1050800,2146.26,6.266514
+quant,quant Commodities Fund,2026-08-31,Coal India Ltd 29/09/2026,INE522F01014,COALINDIA,Consumable Fuels,derivative,417150,1663.59,4.85726
+quant,quant Commodities Fund,2026-08-31,Premier Energies Limited 29/09/2026,INE0BS701011,PREMIERENE,Electrical Equipment,derivative,-192400,-1954.21,-5.705772
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,300000,299.91,0.875672
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,300000,299.62,0.874805
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,300000,299.34,0.874006
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,300000,298.16,0.870556
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,300000,297.88,0.869723
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 05-Nov-2026,IN002026X180,,SOV,debt,250000,247.69,0.723179
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,250000,247.19,0.721718
+quant,quant Commodities Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,250000,246.9,0.72088
+quant,quant Commodities Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,74327.3,7432.73,21.701626
+quant,quant Commodities Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-7646.06,-22.324492
+quant,quant Liquid Fund,2026-08-31,EXIM Bank CP 22-Sept-2026,INE514E14TP5,,A1+,debt,10000000,9964.89,6.988527
+quant,quant Liquid Fund,2026-08-31,REC Ltd CP 22-Oct-2026,INE020B14714,,A1+,debt,10000000,9912.19,6.951568
+quant,quant Liquid Fund,2026-08-31,PNB Housing Finance Ltd CP 27-Oct-2026,INE572E14KQ0,,A1+,debt,10000000,9901.11,6.943798
+quant,quant Liquid Fund,2026-08-31,ICICI Securities Ltd CP 05-Nov-2026,INE763G14M51,,,debt,10000000,9875.57,6.925886
+quant,quant Liquid Fund,2026-08-31,Godrej Industries Ltd CP 23-Oct-2026,INE233A149O7,,A1+,debt,7500000,7431.82,5.212046
+quant,quant Liquid Fund,2026-08-31,Bajaj Finance Limited CP 05-Nov-2026,INE296A14J09,,A1+,debt,7500000,7407.79,5.195193
+quant,quant Liquid Fund,2026-08-31,Mirae Asset Fin Services CP -27-Oct-2026,INE0JRU14529,,A1+,debt,5000000,4943.09,3.46666
+quant,quant Liquid Fund,2026-08-31,L&T Finance Ltd CP 05-Nov-2026,INE498L14GG2,,A1+,debt,5000000,4938.1,3.46316
+quant,quant Liquid Fund,2026-08-31,Indian Bank CD 01-Oct-2026,INE562A16RG0,,A1+,debt,10000000,9949.1,6.977454
+quant,quant Liquid Fund,2026-08-31,Axis Bank Limited CD 16-Oct-2026,INE238AD6BJ6,,A1+,debt,10000000,9922.75,6.958974
+quant,quant Liquid Fund,2026-08-31,Bank Of Baroda CD 06-Nov-2026,INE028A16KI3,,A1+,debt,10000000,9885.95,6.933166
+quant,quant Liquid Fund,2026-08-31,Canara Bank CD 05-Oct-2026,INE476A16K48,,A1+,debt,5000000,4971.13,3.486328
+quant,quant Liquid Fund,2026-08-31,HDFC Bank Ltd CD 16-Oct-2026,INE040A16JT7,,A1+,debt,5000000,4961.38,3.479491
+quant,quant Liquid Fund,2026-08-31,Union Bank Of India CD 15-Sep-2026,INE692A16LJ2,,A1+,debt,2500000,2494.22,1.749236
+quant,quant Liquid Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,10000000,9918.93,6.956295
+quant,quant Liquid Fund,2026-08-31,Corp Debt Mkt Devlop Fund (SBI AIF Fund) (Category I),INF0RQ622028,,,other,6458.48,773.12,0.542201
+quant,quant Liquid Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,252584.4,25258.44,17.714124
+quant,quant Liquid Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,79.7,0.055893
+quant,quant Flexi Cap Fund,2026-08-31,Samvardhana Motherson International Ltd,INE775A01035,MOTHERSON,Auto Components,equity,41565737,70944.4,9.63405
+quant,quant Flexi Cap Fund,2026-08-31,Adani Enterprises Limited,INE423A01024,ADANIENT,Metals & Minerals Trading,equity,2026768,57947.32,7.869084
+quant,quant Flexi Cap Fund,2026-08-31,Adani Power Limited,INE814H01029,ADANIPOWER,Power,equity,28710097,56845.99,7.719526
+quant,quant Flexi Cap Fund,2026-08-31,Aurobindo Pharma Limited,INE406A01037,AUROPHARMA,Pharmaceuticals & Biotechnology,equity,3004373,51585.08,7.00511
+quant,quant Flexi Cap Fund,2026-08-31,ICICI Prudential AMC Ltd,INE346A01027,ICICIAMC,Capital Markets,equity,1348099,41320.58,5.611219
+quant,quant Flexi Cap Fund,2026-08-31,Adani Green Energy Limited,INE364U01010,ADANIGREEN,Power,equity,2098562,25495.43,3.462208
+quant,quant Flexi Cap Fund,2026-08-31,Adani Energy Solutions Limited,INE931S01010,ADANIENSOL,Power,equity,1765530,25024.62,3.398273
+quant,quant Flexi Cap Fund,2026-08-31,Bharti Airtel Limited,INE397D01024,BHARTIARTL,Telecom - Services,equity,1151970,20872.54,2.834433
+quant,quant Flexi Cap Fund,2026-08-31,Tata Power Company Limited,INE245A01021,TATAPOWER,Power,equity,5873750,20381.91,2.767807
+quant,quant Flexi Cap Fund,2026-08-31,K.P.R. Mill Limited,INE930H01031,KPRMILL,Textiles & Apparels,equity,1320925,15555.21,2.112354
+quant,quant Flexi Cap Fund,2026-08-31,Alivus Life Sciences,INE03Q201024,ALIVUS,Pharmaceuticals & Biotechnology,equity,1088244,15297.45,2.07735
+quant,quant Flexi Cap Fund,2026-08-31,JSW Infrastructure Limited,INE880J01026,JSWINFRA,Transport Infrastructure,equity,3992791,13575.49,1.843513
+quant,quant Flexi Cap Fund,2026-08-31,ICICI Bank Limited,INE090A01021,ICICIBANK,Banks,equity,923153,13422.64,1.822757
+quant,quant Flexi Cap Fund,2026-08-31,DLF Limited,INE271C01023,DLF,Realty,equity,1866750,12900.18,1.751808
+quant,quant Flexi Cap Fund,2026-08-31,Swan Corp Limited,INE665A01038,SWANCORP,Chemicals & Petrochemicals,equity,4217909,12371.13,1.679964
+quant,quant Flexi Cap Fund,2026-08-31,LG Electronics India Limited,INE324D01010,LGEINDIA,Consumer Durables,equity,590327,10022.57,1.361037
+quant,quant Flexi Cap Fund,2026-08-31,Zydus Lifesciences Limited,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,equity,847223,9838.8,1.336082
+quant,quant Flexi Cap Fund,2026-08-31,Indus Towers Limited,INE121J01017,INDUSTOWER,Telecom - Services,equity,2312000,8989.06,1.220689
+quant,quant Flexi Cap Fund,2026-08-31,Piramal Finance Ltd,INE202B01038,PIRAMALFIN,Finance,equity,371720,8551.05,1.161208
+quant,quant Flexi Cap Fund,2026-08-31,Bharat Heavy Electricals Ltd,INE257A01026,BHEL,Electrical Equipment,equity,1887375,8354.47,1.134513
+quant,quant Flexi Cap Fund,2026-08-31,Sona BLW Precision Forgings Limited,INE073K01018,SONACOMS,Auto Components,equity,802155,6521.92,0.885659
+quant,quant Flexi Cap Fund,2026-08-31,Lloyds Metals And Energy Limited,INE281B01032,LLOYDSME,Minerals & Mining,equity,254761,4571.94,0.620857
+quant,quant Flexi Cap Fund,2026-08-31,Aditya Birla Lifestyle Brands Limited,INE14LE01019,ABLBL,Retailing,equity,3975000,3446.72,0.468055
+quant,quant Flexi Cap Fund,2026-08-31,Tata Communications Limited,INE151A01013,TATACOMM,Telecom - Services,equity,131512,2266.48,0.307781
+quant,quant Flexi Cap Fund,2026-08-31,IRB Infrastructure Developers Limited,INE821I01022,IRB,Construction,equity,11548785,2235.84,0.303621
+quant,quant Flexi Cap Fund,2026-08-31,Tata Chemicals Ltd,INE092A01019,TATACHEM,Chemicals & Petrochemicals,equity,323139,2077.78,0.282157
+quant,quant Flexi Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd,INE298J01013,NAM-INDIA,Capital Markets,equity,110625,1296.86,0.17611
+quant,quant Flexi Cap Fund,2026-08-31,Tata Consultancy Services Limited 29/09/2026,INE467B01029,TCS,IT - Software,derivative,1429200,33401.83,4.535875
+quant,quant Flexi Cap Fund,2026-08-31,Reliance Industries Limited 29/09/2026,INE002A01018,RELIANCE,Petroleum Products,derivative,2198500,28604.68,3.884436
+quant,quant Flexi Cap Fund,2026-08-31,Infosys Limited 29/09/2026,INE009A01021,INFY,IT - Software,derivative,2156000,24481.38,3.324503
+quant,quant Flexi Cap Fund,2026-08-31,Tata Power Company Limited 29/09/2026,INE245A01021,TATAPOWER,Power,derivative,6855600,24032.31,3.26352
+quant,quant Flexi Cap Fund,2026-08-31,Glenmark Pharmaceuticals Ltd 29/09/2026,INE935A01035,GLENMARK,Pharmaceuticals & Biotechnology,derivative,769125,19269.66,2.616765
+quant,quant Flexi Cap Fund,2026-08-31,Divi's Laboratories Limited 29/09/2026,INE361B01024,DIVISLAB,Pharmaceuticals & Biotechnology,derivative,153200,14174.06,1.924798
+quant,quant Flexi Cap Fund,2026-08-31,Nippon Life India Asset Management Ltd 29/09/2026,INE298J01013,NAM-INDIA,Capital Markets,derivative,1065625,12964.39,1.760528
+quant,quant Flexi Cap Fund,2026-08-31,Sona BLW Precision Forgings Limited 29/09/2026,INE073K01018,SONACOMS,Auto Components,derivative,1267875,10375.66,1.408985
+quant,quant Flexi Cap Fund,2026-08-31,Zydus Lifesciences Limited 29/09/2026,INE010B01027,ZYDUSLIFE,Pharmaceuticals & Biotechnology,derivative,884700,10371.34,1.408399
+quant,quant Flexi Cap Fund,2026-08-31,DLF Limited 29/09/2026,INE271C01023,DLF,Realty,derivative,1276800,8603.72,1.168361
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 03-Sep-2026,IN002026X099,,SOV,debt,3500000,3499,0.475155
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 24-Sep-2026,IN002026X123,,SOV,debt,3500000,3489.01,0.473797
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 17-Sep-2026,IN002026X115,,SOV,debt,3000000,2993.44,0.406501
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 19-Nov-2026,IN002026X206,,SOV,debt,3000000,2966.23,0.402806
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 29-Oct-2026,IN002026X172,,SOV,debt,2500000,2479.73,0.336741
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 10-Sep-2026,IN002026X107,,SOV,debt,2000000,1997.45,0.271248
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 01-Oct-2026,IN002026X131,,SOV,debt,2000000,1991.64,0.270459
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 15-Oct-2026,IN002026X156,,SOV,debt,2000000,1987.75,0.269931
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 22-Oct-2026,IN002026X164,,SOV,debt,2000000,1985.85,0.269673
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 08-Oct-2026,IN002026X149,,SOV,debt,1500000,1492.26,0.202644
+quant,quant Flexi Cap Fund,2026-08-31,91 Days Treasury Bill 27-Nov-2026,IN002026X214,,SOV,debt,1500000,1481.39,0.201169
+quant,quant Flexi Cap Fund,2026-08-31,TREPS 01-Sep-2026 DEPO 10,INCBLO010926,,,cash,1883895.5,188389.55,25.582772
+quant,quant Flexi Cap Fund,2026-08-31,NCA-NET CURRENT ASSETS,,,,cash,,-186353.55,-25.306289
