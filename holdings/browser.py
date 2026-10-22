@@ -10,11 +10,15 @@ Environment:
 """
 from __future__ import annotations
 
+import logging
 import os
 import time
 from urllib.parse import urlparse
 
+from .fetch import MIN_INTERVAL_S, site_of
 from .model import HoldingsError
+
+log = logging.getLogger(__name__)
 
 # Third-party trackers and media the page loads; skipping them keeps the visit to the AMC's own
 # hosts and cuts the number of requests.
@@ -22,7 +26,7 @@ BLOCK_TYPES = {"image", "media", "font"}
 ALLOW_HOST_SUFFIXES = ("bandhanmutual.com",)
 
 
-def collect(url: str, init_script: str, result_js: str, *, timeout_s: int = 60) -> list:
+def collect(url: str, init_script: str, result_js: str, *, timeout_s: int = 120) -> list:
     """Open `url` with `init_script` installed, then poll `result_js` (an arrow function returning
     a list) until it is non-empty. Returns that list."""
     try:
@@ -37,10 +41,20 @@ def collect(url: str, init_script: str, result_js: str, *, timeout_s: int = 60) 
     if proxy:
         launch["proxy"] = {"server": proxy}
 
+    last_hit: dict[str, float] = {}
+
     def route(r):
         host = urlparse(r.request.url).hostname or ""
         if r.request.resource_type in BLOCK_TYPES or not host.endswith(ALLOW_HOST_SUFFIXES):
             return r.abort()
+        # Same politeness as Fetcher: at most one request per second per host. Route handlers run
+        # one at a time, so sleeping here holds back the browser's parallel requests too.
+        site = site_of(r.request.url)
+        gap = time.monotonic() - last_hit.get(site, -MIN_INTERVAL_S)
+        if gap < MIN_INTERVAL_S:
+            time.sleep(MIN_INTERVAL_S - gap)
+        last_hit[site] = time.monotonic()
+        log.info("browser %s %s", r.request.method, r.request.url)
         return r.continue_()
 
     with sync_playwright() as p:

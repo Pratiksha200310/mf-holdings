@@ -20,7 +20,16 @@ USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
-MIN_INTERVAL_S = 1.0
+# One request per second per site, with a small margin for timer jitter.
+MIN_INTERVAL_S = 1.1
+
+
+def site_of(url: str) -> str:
+    """'files.hdfcfund.com' and 'cms.hdfcfund.com' are one site: rate-limit by registered domain."""
+    host = (urlparse(url).hostname or "").lower()
+    parts = host.split(".")
+    n = 3 if len(parts) >= 3 and parts[-2] in ("co", "com", "net", "org", "gov") and len(parts[-1]) == 2 else 2
+    return ".".join(parts[-n:])
 
 
 class Fetcher:
@@ -39,7 +48,7 @@ class Fetcher:
         self._last_hit: dict[str, float] = {}
 
     def _wait_for(self, url: str) -> None:
-        host = urlparse(url).netloc
+        host = site_of(url)
         last = self._last_hit.get(host)
         if last is not None:
             gap = time.monotonic() - last

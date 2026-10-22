@@ -253,6 +253,9 @@ year, a month and a *scheme*, and lists one file at a time.
 - The workbooks themselves are plain HTTP downloads from Google Cloud Storage, using the links the
   site returns.
 - We fail if `total_posts` exceeds the posts returned, or if the reply is for a different month.
+- A month that is not out yet comes back with no posts and a blank month. We report it as not
+  published (with the site's month list) and do not cache that empty reply.
+- Browser requests go through the same one-per-second-per-site throttle as plain HTTP.
 
 **Judgement call: the request is widened.** We change the filter the site's own code sends: we
 send no scheme filter where the UI sends one. The alternative is driving the scheme dropdown 77

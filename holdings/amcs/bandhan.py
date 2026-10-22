@@ -60,8 +60,11 @@ HOOK = """
   };
   JSON.parse = function (t, r) {
     const v = parse.call(this, t, r);
-    if (v && typeof v === 'object' && Array.isArray(v.data) && v.selected_month === month
-        && String(v.selected_year) === year) window.__holdings.push(t);
+    // Our widened request is the only one with this page size. For a month that is not out yet
+    // the site answers it with no posts and a blank month, so match on the page size too.
+    if (v && typeof v === 'object' && Array.isArray(v.data) && ((v.selected_month === month
+        && String(v.selected_year) === year) || (v.posts_per_page === perPage && !v.data.length)))
+      window.__holdings.push(t);
     return v;
   };
 })(%s, %s, %d);
@@ -124,6 +127,8 @@ def drop_nca_subtotal(rows: list[list], sheet: str, warnings: list[str]) -> list
 def parse_listing(raw: str, month: date) -> list[Document]:
     d = json.loads(raw)
     posts = d.get("data") or []
+    if not posts and not d.get("total_posts"):
+        return []
     if d.get("total_posts") is not None and int(d["total_posts"]) > len(posts):
         raise LayoutError(f"bandhan: listing has {d['total_posts']} posts but returned {len(posts)}")
     docs = []
@@ -151,14 +156,18 @@ class Bandhan(AMC):
             return cached.read_text()
         got = browser.collect(PAGE, HOOK % (json.dumps(str(month.year)), json.dumps(f"{month:%B}"), PAGE_SIZE), RESULT)
         raw = got[-1]
-        cached.parent.mkdir(parents=True, exist_ok=True)
-        cached.write_text(raw)
+        if json.loads(raw).get("data"):  # an empty month is not cached: it may be published later
+            cached.parent.mkdir(parents=True, exist_ok=True)
+            cached.write_text(raw)
         return raw
 
     def discover(self, month: date) -> list[Document]:
-        docs = parse_listing(self._listing(month), month)
+        raw = self._listing(month)
+        docs = parse_listing(raw, month)
         if not docs:
-            raise NotPublishedError(f"bandhan: no monthly portfolios listed for {month:%B %Y}")
+            months = json.loads(raw).get("months") or []
+            raise NotPublishedError(f"bandhan: no monthly portfolios listed for {month:%B %Y}"
+                                    f" (site's month list: {', '.join(months)})")
         return docs
 
     def expected_scheme_count(self, month: date, docs: list[Document]) -> int | None:

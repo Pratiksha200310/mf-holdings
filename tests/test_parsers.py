@@ -205,6 +205,8 @@ class Bandhan(unittest.TestCase):
             bandhan.parse_listing(json.dumps({"data": [post], "total_posts": 2}), SEP)
         with self.assertRaises(LayoutError):  # the site answered for another month
             bandhan.parse_listing(json.dumps({"data": [post]}), AUG)
+        # a month that is not out yet: no posts and a blank month, which discover() reports
+        self.assertEqual(bandhan.parse_listing(json.dumps({"data": [], "total_posts": 0, "selected_month": ""}), AUG), [])
 
 
 if __name__ == "__main__":

@@ -71,7 +71,7 @@ holdings/
   __main__.py      command line
   base.py          AMC interface: discover(month) -> [Document]; parse(path, month) -> [Scheme]
   amcs/<amc>.py    one module per AMC: how to find the files, and that AMC's layout quirks
-  fetch.py         every HTTP request: max 1/second per host, on-disk cache, browser-like headers
+  fetch.py         every HTTP request: max 1 request/second per site, on-disk cache, browser-like headers
   browser.py       headless Chromium (Bandhan's file list only)
   excel.py         .xlsx/.xls reading, number and unit parsing
   statement.py     generic parser for the SEBI portfolio statement layout
@@ -88,7 +88,8 @@ These rules come from the brief:
   the site's own HTML or JavaScript on each run.
 - **Plain HTTP first.** Five of the six AMCs work with `requests`. Bandhan uses a browser for its
   file list only; NOTES.md shows why plain HTTP fails there.
-- **Politeness.** At most one request per second per host. Every file is cached under `.cache/`.
+- **Politeness.** At most one request per second per site (`files.` and `cms.hdfcfund.com` count as one site),
+  browser requests included. Every file is cached under `.cache/`.
   There are no logins and no CAPTCHA handling.
 - **Fail loudly, no partial CSVs.** A month is written only if all of these hold:
   - every listed file parsed;
